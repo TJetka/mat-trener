@@ -1,0 +1,32 @@
+{
+  "id": "alfik-2007-4-sp-pl-022",
+  "id_edycji": "alfik-2007-4-sp-pl",
+  "numer": 22,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "proporcja",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2007-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2007-4-sp-pl-klucz",
+    "litera": "A",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 22 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.231010+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "012b807c0db269a195c5834342b28e4bd805509d5944c0af93aedfeaf5980c74"
+  }
+}

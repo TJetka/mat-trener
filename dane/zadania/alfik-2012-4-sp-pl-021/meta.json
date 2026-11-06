@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2012-4-sp-pl-021",
+  "id_edycji": "alfik-2012-4-sp-pl",
+  "numer": 21,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "uklad-warunkow",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2012-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2012-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 21",
+    "bbox": [
+      223.97,
+      387.0862,
+      231.16112,
+      398.1916
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.287433+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "c3cf779a9dec8bb2550eb96893657b22d7d7cc4ed281074fd20d27fc6e2b12e0"
+  }
+}

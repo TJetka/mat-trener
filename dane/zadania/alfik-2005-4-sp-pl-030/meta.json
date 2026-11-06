@@ -1,0 +1,32 @@
+{
+  "id": "alfik-2005-4-sp-pl-030",
+  "id_edycji": "alfik-2005-4-sp-pl",
+  "numer": 30,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "odwracanie-dzialan",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2005-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2005-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 30 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.211407+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "89160d8b9d3023641dc71b7815a4f54bad90688f9fa76020eed796564f64a0f4"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2014-4-sp-pl-009",
+  "id_edycji": "alfik-2014-4-sp-pl",
+  "numer": 9,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "wlasnosci-liczb",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2014-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2014-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja SP 4, pole 9",
+    "bbox": [
+      224.33,
+      263.125,
+      230.828,
+      273.16
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.304644+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "760c84d98c75088dd5c43eec7430af296a7cc54cf39cedd551f2bbe5c6bb17e9"
+  }
+}

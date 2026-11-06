@@ -1,0 +1,32 @@
+{
+  "id": "alfik-2007-4-sp-pl-005",
+  "id_edycji": "alfik-2007-4-sp-pl",
+  "numer": 5,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "kombinatoryka",
+  "tag": "systematyczne-zliczanie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2007-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2007-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 5 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.224830+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "7f61099c8fc0901b6e35e96ce1eab8e082a80169c07e556857d9ad8cb821fc2e"
+  }
+}

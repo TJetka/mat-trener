@@ -16,10 +16,16 @@ function nodes(value: unknown): value is ContentNode[] {
 }
 function task(value: unknown): value is Task {
   if (!record(value) || !record(value.options) || !record(value.source)) return false;
+  if (value.awardAll !== undefined && typeof value.awardAll !== 'boolean') return false;
+  if (value.awardAll === true && (value.answer !== null || value.acceptedAnswers !== undefined)) return false;
+  if (value.acceptedAnswers !== undefined && (!Array.isArray(value.acceptedAnswers)
+    || !value.acceptedAnswers.length || !value.acceptedAnswers.includes(value.answer)
+    || new Set(value.acceptedAnswers).size !== value.acceptedAnswers.length
+    || !value.acceptedAnswers.every(letter => LETTERS.includes(letter)))) return false;
   return typeof value.id === 'string' && typeof value.editionId === 'string' && Number.isInteger(value.number)
     && [3, 4, 5].includes(Number(value.points)) && typeof value.version === 'string'
     && typeof value.group === 'string' && typeof value.tag === 'string'
-    && LETTERS.includes(value.answer as never) && nodes(value.stem)
+    && (value.awardAll === true || LETTERS.includes(value.answer as never)) && nodes(value.stem)
     && LETTERS.every(letter => nodes((value.options as Record<string, unknown>)[letter]))
     && record(value.source.paper) && record(value.source.key)
     && Array.isArray(value.source.paper.strony) && typeof value.source.key.pozycja === 'string';

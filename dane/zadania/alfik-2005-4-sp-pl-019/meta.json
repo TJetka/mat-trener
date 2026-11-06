@@ -1,0 +1,50 @@
+{
+  "id": "alfik-2005-4-sp-pl-019",
+  "id_edycji": "alfik-2005-4-sp-pl",
+  "numer": 19,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "systematyczne-zliczanie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2005-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2005-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 19 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-19-stem-0.png",
+        "sourcePage": 2,
+        "cropPermille": [
+          708,
+          144,
+          890,
+          266
+        ],
+        "pixels": [
+          952,
+          274,
+          245,
+          232
+        ],
+        "whiteMaskPixels": null
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.207259+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "d81db74d8a6671d67605a7a114f138e7de0bed5221d4092f616541ffc3dc6348"
+  }
+}

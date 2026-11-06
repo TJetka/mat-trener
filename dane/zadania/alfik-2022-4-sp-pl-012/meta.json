@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2022-4-sp-pl-012",
+  "id_edycji": "alfik-2022-4-sp-pl",
+  "numer": 12,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "odwracanie-dzialan",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2022-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2022-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 12",
+    "bbox": [
+      302.64,
+      295.677601,
+      309.36336,
+      306.926881
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.379147+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "cc8957ea1574ff4fbb13c89a4d22d92c2ba8802033878864533b966ce5de0e27"
+  }
+}

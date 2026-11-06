@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2016-4-sp-pl-003",
+  "id_edycji": "alfik-2016-4-sp-pl",
+  "numer": 3,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "wartosc-monet",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2016-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2016-4-sp-pl-klucz",
+    "litera": "D",
+    "strona": 1,
+    "pozycja": "sekcja SP 4, pole 3",
+    "bbox": [
+      224.99118,
+      191.962714,
+      232.272949,
+      201.286721
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.323926+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "c8b89687e0be0a1d35db97226511ea0e9cf29c834266f01eb27bff0aa60116f4"
+  }
+}

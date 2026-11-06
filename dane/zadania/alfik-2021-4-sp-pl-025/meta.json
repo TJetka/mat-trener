@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2021-4-sp-pl-025",
+  "id_edycji": "alfik-2021-4-sp-pl",
+  "numer": 25,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "wlasnosci-liczb",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2021-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2021-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 3,
+    "pozycja": "sekcja klasa 4, pole 25",
+    "bbox": [
+      287.631314,
+      459.408536,
+      294.278418,
+      468.621533
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.372592+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "4f8916b786431ad689bd8b8bb8435d7cf5df663fe7b1be6c90863a05c02d157e"
+  }
+}

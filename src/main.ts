@@ -1,6 +1,6 @@
 import './style.css';
 import './vendor/katex/katex.min.css';
-import { answer, completeEditions, durationForMode, expire, finish, formatPoints, LETTERS,
+import { answer, completeEditions, durationForMode, expire, finish, formatPoints, isCorrect, LETTERS,
   navigate, score, startAttempt, unavailableReason } from './domain.ts';
 import { base, button, content, element, zoom } from './render.ts';
 import { restore, save, STORAGE_KEY } from './storage.ts';
@@ -185,7 +185,7 @@ function updateLiveScore(): void {
 
 function outcome(task: Task): 'correct' | 'wrong' | 'blank' {
   const choice = attempt!.answers[task.id];
-  return choice === null ? 'blank' : choice === task.answer ? 'correct' : 'wrong';
+  return isCorrect(task, choice) ? 'correct' : choice === null ? 'blank' : 'wrong';
 }
 
 const outcomeLabels = { correct: 'poprawna odpowiedź', wrong: 'błędna odpowiedź', blank: 'bez odpowiedzi' };
@@ -208,6 +208,9 @@ function renderQuestion(main: HTMLElement): void {
   const title = element('div', 'question-heading');
   title.append(element('h1', '', `Zadanie ${current.index + 1} z ${current.tasks.length}`), element('span', 'point-badge', `${task.points} pkt`));
   main.append(title, taskTags(task));
+  const edition = current.editions.find(e => e.id === task.editionId)!;
+  main.append(element('p', 'source-label', `Alfik ${edition.year} · zadanie ${task.number}. Daty w treści odnoszą się do roku arkusza.`));
+  if (task.awardAll) main.append(element('p', 'notice', 'Zadanie anulowane przez organizatora. Pełne punkty są przyznane także bez odpowiedzi.'));
   const progress = element('progress'); progress.max = current.tasks.length;
   progress.value = Object.values(current.answers).filter(v => v !== null).length;
   progress.setAttribute('aria-label', 'Liczba zaznaczonych odpowiedzi'); main.append(progress);
@@ -311,6 +314,8 @@ function renderResult(main: HTMLElement): void {
     stats.append(element('span', cls, `${label}: ${count}`));
   }
   summary.append(stats);
+  const awarded = current.tasks.filter(task => task.awardAll).length;
+  if (awarded) summary.append(element('p', '', `W tym ${awarded} anulowane zadanie z pełnymi punktami zgodnie z oficjalnym kluczem.`));
   const actions = element('div', 'result-actions');
   const again = button('Spróbuj jeszcze raz →', () => start(current.mode), 'button primary'); again.disabled = !bank;
   actions.append(again, button('Wybierz inny tryb', home, 'button secondary')); summary.append(actions); main.append(summary);
@@ -318,14 +323,14 @@ function renderResult(main: HTMLElement): void {
   const task = current.tasks[current.index]; const chosen = current.answers[task.id];
   const edition = current.editions.find(e => e.id === task.editionId)!;
   const card = element('section', `question-card review review-${outcome(task)}`);
-  card.append(element('h3', '', `Zadanie ${current.index + 1} · ${chosen === null ? 'Pominięta odpowiedź' : chosen === task.answer ? 'Poprawna odpowiedź' : 'Błędna odpowiedź'}`),
+  card.append(element('h3', '', `Zadanie ${current.index + 1} · ${task.awardAll ? 'Anulowane — pełne punkty' : chosen === null ? 'Pominięta odpowiedź' : isCorrect(task, chosen) ? 'Poprawna odpowiedź' : 'Błędna odpowiedź'}`),
     element('p', 'source-label', `Alfik ${edition.year} · zadanie ${task.number} · ${task.points} pkt`), taskTags(task));
   const stem = element('div', 'question-stem'); stem.append(content(task.stem)); card.append(stem);
   for (const letter of LETTERS) {
-    const row = element('div', `review-option ${letter === task.answer ? 'correct' : letter === chosen ? 'wrong' : ''}`);
+    const row = element('div', `review-option ${isCorrect(task, letter) ? 'correct' : letter === chosen ? 'wrong' : ''}`);
     row.append(element('span', 'option-letter', letter));
     const body = element('div'); body.append(content(task.options[letter]));
-    if (letter === task.answer) body.append(element('strong', 'answer-status', 'Poprawna odpowiedź z klucza'));
+    if (isCorrect(task, letter)) body.append(element('strong', 'answer-status', task.awardAll ? 'Odpowiedź uznana — zadanie anulowane' : 'Poprawna odpowiedź z klucza'));
     if (letter === chosen) body.append(element('span', 'answer-status', 'Twój wybór'));
     row.append(body); card.append(row);
   }

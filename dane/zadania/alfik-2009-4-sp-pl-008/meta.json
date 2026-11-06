@@ -1,0 +1,32 @@
+{
+  "id": "alfik-2009-4-sp-pl-008",
+  "id_edycji": "alfik-2009-4-sp-pl",
+  "numer": 8,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "proporcja",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2009-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2009-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 8 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.248209+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "4b617be376743a7b6512bd522ae940f7b308bcf866717faffa63827ce7dbb0d1"
+  }
+}

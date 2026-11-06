@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2023-4-sp-pl-001",
+  "id_edycji": "alfik-2023-4-sp-pl",
+  "numer": 1,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "uplyw-czasu",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2023-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2023-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 1",
+    "bbox": [
+      287.63147,
+      130.728668,
+      294.278574,
+      139.941664
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.385726+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "4a5ba5387996d9ec18284b9180f3f0e3c73aada1009c166cdb45f364d15ea12c"
+  }
+}

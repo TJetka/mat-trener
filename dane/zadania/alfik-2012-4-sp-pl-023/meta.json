@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2012-4-sp-pl-023",
+  "id_edycji": "alfik-2012-4-sp-pl",
+  "numer": 23,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "proporcja",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2012-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2012-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 23",
+    "bbox": [
+      223.97,
+      411.8062,
+      231.16112,
+      422.9116
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.288216+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "a811a20f82df7a2f5b981b996dc27d9bc6e46b6def575f2890575471f6a1ed34"
+  }
+}

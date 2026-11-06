@@ -132,6 +132,13 @@ def validate_edition(edition: dict) -> None:
         all(type(q["punkty"]) is int and q["punkty"] in (3, 4, 5) for q in expected),
         "invalid expected points",
     )
+    cancelled = edition.get("anulowane", [])
+    require(
+        isinstance(cancelled, list)
+        and all(type(n) is int and 1 <= n <= len(expected) for n in cancelled)
+        and len(set(cancelled)) == len(cancelled),
+        "invalid cancelled task numbers",
+    )
     require(
         type(edition.get("czas_sekundy")) is int and edition["czas_sekundy"] > 0, "invalid duration"
     )
@@ -251,9 +258,34 @@ def compile_bank(root: Path) -> tuple[dict, dict, dict[str, Path]]:
                 and 1 <= key["strona"] <= sources[key["dokument"]]["strony"],
                 "invalid key page",
             )
+            award_all = key.get("pelny_kredyt", False)
+            require(type(award_all) is bool, "invalid full-credit flag")
+            require(key.get("pozycja"), "missing key location")
+            if award_all:
+                require(
+                    number in edition.get("anulowane", [])
+                    and key.get("litera") is None
+                    and "litery" not in key
+                    and key.get("uwagi"),
+                    "full credit requires documented cancellation and no invented answer",
+                )
+            else:
+                require(
+                    number not in edition.get("anulowane", [])
+                    and key.get("litera") in list("ABCDE"),
+                    "invalid or unresolved key letter",
+                )
+            accepted = key.get("litery", [key["litera"]])
             require(
-                key.get("litera") in list("ABCDE") and key.get("pozycja"),
-                "invalid key letter/location",
+                award_all
+                or (
+                    isinstance(accepted, list)
+                    and accepted
+                    and all(letter in list("ABCDE") for letter in accepted)
+                    and len(set(accepted)) == len(accepted)
+                    and key["litera"] in accepted
+                ),
+                "invalid accepted key letters",
             )
             tex = local_file(metadata_path.parent, metadata["latex"])
             parsed = parse_latex(tex.read_text(encoding="utf-8"), str(tex))
@@ -287,6 +319,7 @@ def compile_bank(root: Path) -> tuple[dict, dict, dict[str, Path]]:
                     "stem": parsed["stem"],
                     "options": {key: parsed[key] for key in "ABCDE"},
                     "answer": key["litera"],
+                    **({"awardAll": True} if award_all else {"acceptedAnswers": accepted}),
                     "version": review["sha256"],
                     "source": {"paper": paper, "key": key},
                 }
@@ -299,7 +332,12 @@ def compile_bank(root: Path) -> tuple[dict, dict, dict[str, Path]]:
     for identity, edition in editions.items():
         found = {q["number"] for q in tasks if q["editionId"] == identity}
         complete = found == {q["numer"] for q in edition["oczekiwane"]}
-        complete = complete and not edition.get("anulowane", [])
+        complete = complete and all(
+            any(
+                t["editionId"] == identity and t["number"] == n and t.get("awardAll") for t in tasks
+            )
+            for n in edition.get("anulowane", [])
+        )
         report[identity]["complete"] = complete
         profile_id = f"{edition['id_konkursu']}/{edition['kategoria']}"
         profile = {

@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2023-4-sp-pl-008",
+  "id_edycji": "alfik-2023-4-sp-pl",
+  "numer": 8,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "kombinatoryka",
+  "tag": "systematyczne-zliczanie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2023-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2023-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 8",
+    "bbox": [
+      287.391489,
+      226.728629,
+      294.586705,
+      235.941626
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.388243+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "ba8771c599954a26bc19d703f6fb3cd2485d12dd190774dff7e79f9b8afcd22c"
+  }
+}

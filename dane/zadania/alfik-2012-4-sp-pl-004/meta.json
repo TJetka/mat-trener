@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2012-4-sp-pl-004",
+  "id_edycji": "alfik-2012-4-sp-pl",
+  "numer": 4,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "polozenie-figur",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2012-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2012-4-sp-pl-klucz",
+    "litera": "A",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 4",
+    "bbox": [
+      224.33,
+      174.0362,
+      230.97332,
+      185.1416
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.281029+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "eb1c1d0f3bb8fb4fddb2be9057bade5d094502ce22c840d2591812a0eb953493"
+  }
+}

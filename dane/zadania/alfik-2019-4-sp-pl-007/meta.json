@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2019-4-sp-pl-007",
+  "id_edycji": "alfik-2019-4-sp-pl",
+  "numer": 7,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "proporcja",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2019-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2019-4-sp-pl-klucz",
+    "litera": "D",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 7",
+    "bbox": [
+      253.551203,
+      239.002751,
+      260.832971,
+      248.326759
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.356009+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "b10f3faded4370f6af4ab804be75167f18a37b23fcbfe98f3f0c76f9d5f2e5ba"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2014-4-sp-pl-002",
+  "id_edycji": "alfik-2014-4-sp-pl",
+  "numer": 2,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "sumowanie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2014-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2014-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja SP 4, pole 2",
+    "bbox": [
+      224.57,
+      181.625,
+      230.573,
+      191.66
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.302270+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "097d31a9079c95a1706d0b30c05dd2aa92258c3f255827f5f064c4af65e96906"
+  }
+}

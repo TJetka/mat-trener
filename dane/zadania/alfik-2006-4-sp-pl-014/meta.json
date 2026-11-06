@@ -1,0 +1,32 @@
+{
+  "id": "alfik-2006-4-sp-pl-014",
+  "id_edycji": "alfik-2006-4-sp-pl",
+  "numer": 14,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "zamiana-jednostek",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2006-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2006-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 14 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.217459+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "26040cd04e76099b9da1d7938caf2072fe531b6f4ab5a2e79016cbed621b07ee"
+  }
+}

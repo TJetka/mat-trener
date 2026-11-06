@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2012-4-sp-pl-022",
+  "id_edycji": "alfik-2012-4-sp-pl",
+  "numer": 22,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "cykl-kalendarza",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2012-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2012-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 22",
+    "bbox": [
+      224.33,
+      399.4462,
+      230.97332,
+      410.5516
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.287784+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "53537399f61a4ba2c3c47a95e8a1522bd3e3b3ba6811f540c0cd16557da91470"
+  }
+}

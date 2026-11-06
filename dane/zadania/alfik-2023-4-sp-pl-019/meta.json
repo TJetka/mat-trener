@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2023-4-sp-pl-019",
+  "id_edycji": "alfik-2023-4-sp-pl",
+  "numer": 19,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "gwarancja-wyboru",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2023-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2023-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 19",
+    "bbox": [
+      287.63116,
+      379.248568,
+      294.278264,
+      388.461565
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.391715+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "cef924e0004aafe16739ef3240c1b06fcac7f5ee2da516dd14ac9e59bc5fa5ec"
+  }
+}

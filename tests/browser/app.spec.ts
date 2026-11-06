@@ -11,7 +11,7 @@ const image = '<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" 
 
 /** Fulfil every request locally: no HTTP server and no external services. */
 async function serve(page: Page, bank: Bank = fixtureBank()): Promise<void> {
-  const mime: Record<string, string> = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.woff2': 'font/woff2' };
+  const mime: Record<string, string> = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.woff2': 'font/woff2', '.png': 'image/png' };
   await page.route('**/*', async route => {
     const url = new URL(route.request().url());
     if (url.origin !== origin) throw new Error(`Unexpected external request: ${url.origin}`);
@@ -124,16 +124,63 @@ test('all historical tasks render exact text and options from the compiled bank'
     await page.getByRole('button', { name: 'Zacznij arkusz' }).click();
     const tasks = bank.tasks.filter(t => t.editionId === edition.id).sort((a, b) => a.number - b.number);
     for (const task of tasks) {
-      await expect(page.locator('#question-stem')).toHaveText(task.stem.map(n => n.type === 'text' ? n.text : '').join(''));
+      await expect(page.locator('#question-stem .prose')).toHaveText(task.stem.filter(n => n.type === 'text').map(n => n.text));
       for (const letter of ['A', 'B', 'C', 'D', 'E'] as const) {
-        await expect(page.locator(`label[for="answer-${letter}"] .option-content`)).toHaveText(task.options[letter].map(n => n.type === 'text' ? n.text : '').join(''));
+        await expect(page.locator(`label[for="answer-${letter}"] .prose`)).toHaveText(task.options[letter].filter(n => n.type === 'text').map(n => n.text));
       }
+      const images = [task.stem, ...Object.values(task.options)].flat().filter(n => n.type === 'image');
+      await expect(page.locator('.task-image')).toHaveCount(images.length);
+      if (images.length) await expect.poll(() => page.locator('.task-image').evaluateAll(elements =>
+        elements.every(element => (element as HTMLImageElement).naturalWidth > 0))).toBe(true);
       if (task.number < tasks.length) await page.getByRole('button', { name: 'Następne' }).click();
     }
     await page.getByRole('button', { name: 'Zakończ test', exact: true }).click();
     await page.getByRole('button', { name: 'Tak, zakończ test' }).click();
     await page.getByRole('button', { name: 'Wybierz inny tryb' }).click();
   }
+});
+
+test('official key exceptions are reflected in live scores, recovery and review', async ({ page }) => {
+  const bank = fixtureBank();
+  const tasks = bank.tasks.filter(t => t.editionId === 'alfik-2024-4-sp-pl');
+  tasks[0].acceptedAnswers = ['D', 'E'];
+  Object.assign(tasks[1], { answer: null, awardAll: true });
+  await serve(page, bank); await page.goto(origin + base);
+  await page.getByLabel('Wybierz rocznik').selectOption('alfik-2024-4-sp-pl');
+  await page.getByRole('button', { name: 'Zacznij arkusz' }).click();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 33 / 150 pkt');
+  await page.locator('#answer-E').check();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 36 / 150 pkt');
+  await page.reload();
+  await expect(page.locator('#answer-E')).toBeChecked();
+  await page.getByRole('button', { name: 'Następne' }).click();
+  await expect(page.getByText('Zadanie anulowane przez organizatora.', { exact: false })).toBeVisible();
+  await page.getByRole('button', { name: 'Zakończ test', exact: true }).click();
+  await page.getByRole('button', { name: 'Tak, zakończ test' }).click();
+  await expect(page.getByRole('heading', { name: 'Zadanie 2 · Anulowane — pełne punkty' })).toBeVisible();
+  await expect(page.getByText('36 / 150 pkt', { exact: true })).toBeVisible();
+  await page.getByRole('button', { name: 'Zadanie 1, poprawna odpowiedź', exact: true }).click();
+  await expect(page.locator('.review-option.correct')).toHaveCount(2);
+});
+
+test('archive years, source context and historical diagram options work on mobile', async ({ page }) => {
+  await page.setViewportSize({ width: 360, height: 800 });
+  const bank = JSON.parse(await readFile('public/bank.json', 'utf8')) as Bank;
+  await serve(page, bank); await page.goto(origin + base);
+  await expect(page.getByLabel('Wybierz rocznik').locator('option')).toHaveCount(21);
+  await page.getByLabel('Wybierz rocznik').selectOption('alfik-2006-4-sp-pl');
+  await page.getByRole('button', { name: 'Zacznij arkusz' }).click();
+  await page.getByRole('button', { name: 'Zadanie 7, bez odpowiedzi', exact: true }).click();
+  await expect(page.getByText('Alfik 2006 · zadanie 7.', { exact: false })).toBeVisible();
+  await expect(page.locator('.task-image')).toHaveCount(6);
+  await page.getByRole('button', { name: 'Powiększ rysunek B' }).click();
+  await expect(page.getByRole('dialog').locator('img')).toHaveAttribute('alt', 'Kształt B');
+  await page.getByRole('button', { name: 'Zamknij rysunek' }).click();
+  await page.locator('#answer-B').check();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 33 / 150 pkt');
+  await page.evaluate(() => scrollTo(0, 0));
+  await page.screenshot({ path: 'test-results/archive-mobile.png', fullPage: true });
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
 });
 
 test('running scores, named tags and distinct review outcomes', async ({ page }) => {

@@ -1,0 +1,135 @@
+{
+  "id": "alfik-2006-4-sp-pl-007",
+  "id_edycji": "alfik-2006-4-sp-pl",
+  "numer": 7,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2006-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2006-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 7 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-07-stem-0.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          797,
+          496,
+          925,
+          570
+        ],
+        "pixels": [
+          1071,
+          942,
+          172,
+          141
+        ],
+        "whiteMaskPixels": null
+      },
+      {
+        "file": "rysunek-07-A-1.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          118,
+          551,
+          218,
+          607
+        ],
+        "pixels": [
+          159,
+          1047,
+          134,
+          106
+        ],
+        "whiteMaskPixels": null
+      },
+      {
+        "file": "rysunek-07-B-2.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          257,
+          551,
+          360,
+          607
+        ],
+        "pixels": [
+          345,
+          1047,
+          138,
+          106
+        ],
+        "whiteMaskPixels": null
+      },
+      {
+        "file": "rysunek-07-C-3.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          403,
+          551,
+          504,
+          607
+        ],
+        "pixels": [
+          542,
+          1047,
+          136,
+          106
+        ],
+        "whiteMaskPixels": null
+      },
+      {
+        "file": "rysunek-07-D-4.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          547,
+          551,
+          648,
+          607
+        ],
+        "pixels": [
+          735,
+          1047,
+          136,
+          106
+        ],
+        "whiteMaskPixels": null
+      },
+      {
+        "file": "rysunek-07-E-5.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          686,
+          551,
+          790,
+          607
+        ],
+        "pixels": [
+          922,
+          1047,
+          140,
+          106
+        ],
+        "whiteMaskPixels": null
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.214009+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "8275526754e00292f7c0f1ff29ec1508f3d558b4cc2853074869404bb225c030"
+  }
+}

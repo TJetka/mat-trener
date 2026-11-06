@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2023-4-sp-pl-011",
+  "id_edycji": "alfik-2023-4-sp-pl",
+  "numer": 11,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "obwod",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2023-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2023-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 11",
+    "bbox": [
+      287.391288,
+      268.248613,
+      294.586504,
+      277.461609
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.389225+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "cf95403e8f00794b213b755231bf742309a6d71258fbcbfe2519b1a54e5ad2da"
+  }
+}

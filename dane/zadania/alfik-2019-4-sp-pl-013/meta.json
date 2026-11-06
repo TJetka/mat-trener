@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2019-4-sp-pl-013",
+  "id_edycji": "alfik-2019-4-sp-pl",
+  "numer": 13,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "zamiana-jednostek",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2019-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2019-4-sp-pl-klucz",
+    "litera": "D",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 13",
+    "bbox": [
+      253.551203,
+      309.562808,
+      260.832971,
+      318.886815
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.358106+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "096e5ee3ddb464d4548a706d5b165def979318075c5e18280893cf953ba00ded"
+  }
+}

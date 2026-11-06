@@ -155,3 +155,40 @@ test('storage corruption, schema mismatch and quota failures do not crash', () =
   }
   assert.equal(save({ getItem: () => null, removeItem: () => {}, setItem: () => { throw new Error('quota'); } }, a), false);
 });
+
+test('official alternative answers score equally and survive snapshot recovery', () => {
+  const custom = fixtureBank();
+  for (const task of custom.tasks) task.acceptedAnswers = ['D', 'E'];
+  let a = startAttempt(custom, profile, { kind: 'year', editionId: 'random' }, 0, fixed);
+  for (const choice of ['D', 'E'] as const) {
+    a = answer(a, choice, 1);
+    assert.equal(score(a).quarters, 132);
+    assert.equal(score(restore(JSON.stringify(a), 2)!).quarters, 132);
+  }
+  a = answer(a, 'C', 3); assert.equal(score(a).quarters, 117);
+  a = answer(a, null, 4); assert.equal(score(a).quarters, 120);
+  for (const invalid of [[], ['E'], ['D', 'D'], ['D', 'F'], 'DE']) {
+    const broken = structuredClone(a);
+    Object.assign(broken.tasks[0], { acceptedAnswers: invalid });
+    assert.equal(restore(JSON.stringify(broken), 5), null);
+  }
+});
+
+test('annulled tasks receive full official credit including blanks, and never enter practice', () => {
+  const custom = fixtureBank();
+  const annulled = custom.tasks.find(t => t.id === 'alfik-2025-4-sp-pl-001')!;
+  Object.assign(annulled, { answer: null, awardAll: true });
+  let a = startAttempt(custom, profile, { kind: 'year', editionId: 'alfik-2025-4-sp-pl' }, 0, fixed);
+  for (const choice of [null, 'A', 'E', null] as const) {
+    a = answer(a, choice, 1);
+    assert.deepEqual(score(a), { correct: 1, wrong: 0, blank: 29, quarters: 132, maxQuarters: 600 });
+    assert.ok(restore(JSON.stringify(a), 2));
+  }
+  for (const mode of [{ kind: 'training', points: 3 }, { kind: 'mix' }] as const) {
+    assert.ok(startAttempt(custom, profile, mode, 0, fixed).tasks.every(t => !t.awardAll));
+  }
+  custom.tasks = custom.tasks.filter(t => t.points !== 3 || t.awardAll);
+  assert.match(unavailableReason(custom, profile, { kind: 'training', points: 3 })!, /0 z 8/);
+  Object.assign(a.tasks[0], { answer: 'A' });
+  assert.equal(restore(JSON.stringify(a), 2), null);
+});

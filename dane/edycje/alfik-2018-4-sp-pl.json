@@ -1,0 +1,184 @@
+{
+  "id_edycji": "alfik-2018-4-sp-pl",
+  "id_konkursu": "alfik",
+  "rok": 2018,
+  "rok_szkolny": "2018/2019",
+  "kategoria": "4-sp",
+  "klasy": [
+    4
+  ],
+  "wariant": "pl",
+  "oczekiwane": [
+    {
+      "numer": 1,
+      "punkty": 3
+    },
+    {
+      "numer": 2,
+      "punkty": 3
+    },
+    {
+      "numer": 3,
+      "punkty": 3
+    },
+    {
+      "numer": 4,
+      "punkty": 3
+    },
+    {
+      "numer": 5,
+      "punkty": 3
+    },
+    {
+      "numer": 6,
+      "punkty": 3
+    },
+    {
+      "numer": 7,
+      "punkty": 3
+    },
+    {
+      "numer": 8,
+      "punkty": 3
+    },
+    {
+      "numer": 9,
+      "punkty": 3
+    },
+    {
+      "numer": 10,
+      "punkty": 3
+    },
+    {
+      "numer": 11,
+      "punkty": 4
+    },
+    {
+      "numer": 12,
+      "punkty": 4
+    },
+    {
+      "numer": 13,
+      "punkty": 4
+    },
+    {
+      "numer": 14,
+      "punkty": 4
+    },
+    {
+      "numer": 15,
+      "punkty": 4
+    },
+    {
+      "numer": 16,
+      "punkty": 4
+    },
+    {
+      "numer": 17,
+      "punkty": 4
+    },
+    {
+      "numer": 18,
+      "punkty": 4
+    },
+    {
+      "numer": 19,
+      "punkty": 4
+    },
+    {
+      "numer": 20,
+      "punkty": 4
+    },
+    {
+      "numer": 21,
+      "punkty": 5
+    },
+    {
+      "numer": 22,
+      "punkty": 5
+    },
+    {
+      "numer": 23,
+      "punkty": 5
+    },
+    {
+      "numer": 24,
+      "punkty": 5
+    },
+    {
+      "numer": 25,
+      "punkty": 5
+    },
+    {
+      "numer": 26,
+      "punkty": 5
+    },
+    {
+      "numer": 27,
+      "punkty": 5
+    },
+    {
+      "numer": 28,
+      "punkty": 5
+    },
+    {
+      "numer": 29,
+      "punkty": 5
+    },
+    {
+      "numer": 30,
+      "punkty": 5
+    }
+  ],
+  "czas_sekundy": 4500,
+  "punktacja": {
+    "start_cwiartki": 120,
+    "kara_cwiartki_za_punkt": 1
+  },
+  "wersja_regul": "alfik-4-sp-v1",
+  "zrodlo_regul": "https://jersz.pl/konkurs/alfik-matematyczny/",
+  "reguly_sprawdzone": true,
+  "budzety_sekundy": {
+    "3": 90,
+    "4": 150,
+    "5": 210
+  },
+  "anulowane": [
+    16
+  ],
+  "publikacja": {
+    "decyzja": "Właściciel projektu, 2026-11-06",
+    "podstawa": "Polecenie właściciela: Just use them and say what is the source. Nie jest to deklaracja licencji organizatora.",
+    "zadania": "wszystkie"
+  },
+  "dokumenty": [
+    {
+      "id": "alfik-2018-4-sp-pl-arkusz",
+      "rodzaj": "arkusz",
+      "organizator": "Łowcy Talentów JERSZ",
+      "rok": 2018,
+      "id_konkursu": "alfik",
+      "kategoria": "4-sp",
+      "wariant": "pl",
+      "wersja": "eac2bcc49554",
+      "url": "https://jersz.pl/wp-content/uploads/2020/08/Zadania-ALFIK-2018-podstawowa-4.pdf",
+      "plik": "2018-11-21-sp-4.pdf",
+      "sha256": "eac2bcc4955402c9be50626418cd407fc858f1d04673c5cd357b3e1f7eae547f",
+      "strony": 2
+    },
+    {
+      "id": "alfik-2018-4-sp-pl-klucz",
+      "rodzaj": "klucz",
+      "organizator": "Łowcy Talentów JERSZ",
+      "rok": 2018,
+      "id_konkursu": "alfik",
+      "kategoria": "4-sp",
+      "wariant": "pl",
+      "wersja": "65d0ae6f99c7",
+      "url": "https://jersz.pl/wp-content/uploads/2020/08/Klucz-ALFIK-2018-do-neta.pdf",
+      "plik": "2018-11-21-klucz.pdf",
+      "sha256": "65d0ae6f99c7a160941eaa5ef4554b8a4a8af82b12bcbdd91c2de10d7971983e",
+      "strony": 1
+    }
+  ]
+}

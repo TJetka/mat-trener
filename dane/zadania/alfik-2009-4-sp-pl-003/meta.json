@@ -1,0 +1,50 @@
+{
+  "id": "alfik-2009-4-sp-pl-003",
+  "id_edycji": "alfik-2009-4-sp-pl",
+  "numer": 3,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "eliminacja-mozliwosci",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2009-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2009-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 3 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-03-stem-0.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          770,
+          313,
+          935,
+          427
+        ],
+        "pixels": [
+          1035,
+          595,
+          222,
+          217
+        ],
+        "whiteMaskPixels": null
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.246283+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "44f93c5ca2fb8a4f260d1935581376047563e33490166f713c803a4e5a438bff"
+  }
+}

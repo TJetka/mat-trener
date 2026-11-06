@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2017-4-sp-pl-016",
+  "id_edycji": "alfik-2017-4-sp-pl",
+  "numer": 16,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "minimum-maksimum",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2017-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2017-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 16",
+    "bbox": [
+      224.99118,
+      345.562836,
+      232.272949,
+      354.886844
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.338482+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "bd2a0cd56b07344639ab9116ed1453e64fe0a3f46b0d6896f3fe91370f4ea9b0"
+  }
+}

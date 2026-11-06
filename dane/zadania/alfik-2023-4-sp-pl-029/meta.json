@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2023-4-sp-pl-029",
+  "id_edycji": "alfik-2023-4-sp-pl",
+  "numer": 29,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2023-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2023-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 29",
+    "bbox": [
+      287.391341,
+      515.448514,
+      294.586557,
+      524.66151
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.394977+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "b1add2c61d8a6a643af438c5a590f355c7c4fd6d2e1af7b11efe4af58bee3dde"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2016-4-sp-pl-005",
+  "id_edycji": "alfik-2016-4-sp-pl",
+  "numer": 5,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2016-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2016-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja SP 4, pole 5",
+    "bbox": [
+      225.23118,
+      214.522732,
+      231.958243,
+      223.846739
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.324693+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "4107586d6d7c47fb3c5125bb97248e79a46aff0b64c22e92dcce174239351e56"
+  }
+}

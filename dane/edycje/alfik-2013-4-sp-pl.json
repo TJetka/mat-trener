@@ -1,0 +1,182 @@
+{
+  "id_edycji": "alfik-2013-4-sp-pl",
+  "id_konkursu": "alfik",
+  "rok": 2013,
+  "rok_szkolny": "2013/2014",
+  "kategoria": "4-sp",
+  "klasy": [
+    4
+  ],
+  "wariant": "pl",
+  "oczekiwane": [
+    {
+      "numer": 1,
+      "punkty": 3
+    },
+    {
+      "numer": 2,
+      "punkty": 3
+    },
+    {
+      "numer": 3,
+      "punkty": 3
+    },
+    {
+      "numer": 4,
+      "punkty": 3
+    },
+    {
+      "numer": 5,
+      "punkty": 3
+    },
+    {
+      "numer": 6,
+      "punkty": 3
+    },
+    {
+      "numer": 7,
+      "punkty": 3
+    },
+    {
+      "numer": 8,
+      "punkty": 3
+    },
+    {
+      "numer": 9,
+      "punkty": 3
+    },
+    {
+      "numer": 10,
+      "punkty": 3
+    },
+    {
+      "numer": 11,
+      "punkty": 4
+    },
+    {
+      "numer": 12,
+      "punkty": 4
+    },
+    {
+      "numer": 13,
+      "punkty": 4
+    },
+    {
+      "numer": 14,
+      "punkty": 4
+    },
+    {
+      "numer": 15,
+      "punkty": 4
+    },
+    {
+      "numer": 16,
+      "punkty": 4
+    },
+    {
+      "numer": 17,
+      "punkty": 4
+    },
+    {
+      "numer": 18,
+      "punkty": 4
+    },
+    {
+      "numer": 19,
+      "punkty": 4
+    },
+    {
+      "numer": 20,
+      "punkty": 4
+    },
+    {
+      "numer": 21,
+      "punkty": 5
+    },
+    {
+      "numer": 22,
+      "punkty": 5
+    },
+    {
+      "numer": 23,
+      "punkty": 5
+    },
+    {
+      "numer": 24,
+      "punkty": 5
+    },
+    {
+      "numer": 25,
+      "punkty": 5
+    },
+    {
+      "numer": 26,
+      "punkty": 5
+    },
+    {
+      "numer": 27,
+      "punkty": 5
+    },
+    {
+      "numer": 28,
+      "punkty": 5
+    },
+    {
+      "numer": 29,
+      "punkty": 5
+    },
+    {
+      "numer": 30,
+      "punkty": 5
+    }
+  ],
+  "czas_sekundy": 4500,
+  "punktacja": {
+    "start_cwiartki": 120,
+    "kara_cwiartki_za_punkt": 1
+  },
+  "wersja_regul": "alfik-4-sp-v1",
+  "zrodlo_regul": "https://jersz.pl/konkurs/alfik-matematyczny/",
+  "reguly_sprawdzone": true,
+  "budzety_sekundy": {
+    "3": 90,
+    "4": 150,
+    "5": 210
+  },
+  "anulowane": [],
+  "publikacja": {
+    "decyzja": "Właściciel projektu, 2026-11-06",
+    "podstawa": "Polecenie właściciela: Just use them and say what is the source. Nie jest to deklaracja licencji organizatora.",
+    "zadania": "wszystkie"
+  },
+  "dokumenty": [
+    {
+      "id": "alfik-2013-4-sp-pl-arkusz",
+      "rodzaj": "arkusz",
+      "organizator": "Łowcy Talentów JERSZ",
+      "rok": 2013,
+      "id_konkursu": "alfik",
+      "kategoria": "4-sp",
+      "wariant": "pl",
+      "wersja": "dac0a3520887",
+      "url": "https://jersz.pl/wp-content/uploads/2020/08/Zadania_ALFIK_2013_podstawowa_4.pdf",
+      "plik": "2013-11-27-sp-4.pdf",
+      "sha256": "dac0a352088726135a541b11e5965dbd0dc0f491e3e0cf4aabaa0581e74006e3",
+      "strony": 2
+    },
+    {
+      "id": "alfik-2013-4-sp-pl-klucz",
+      "rodzaj": "klucz",
+      "organizator": "Łowcy Talentów JERSZ",
+      "rok": 2013,
+      "id_konkursu": "alfik",
+      "kategoria": "4-sp",
+      "wariant": "pl",
+      "wersja": "a5706d07bc21",
+      "url": "https://jersz.pl/wp-content/uploads/2020/08/Klucz_ALFIK_2013.pdf",
+      "plik": "2013-11-27-klucz.pdf",
+      "sha256": "a5706d07bc210c647616c30c04f7e5e8b7b01f7d0a8de897493412817a806d8d",
+      "strony": 1
+    }
+  ]
+}

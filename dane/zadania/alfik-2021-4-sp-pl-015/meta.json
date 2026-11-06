@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2021-4-sp-pl-015",
+  "id_edycji": "alfik-2021-4-sp-pl",
+  "numer": 15,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "proporcja",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2021-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2021-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 3,
+    "pozycja": "sekcja klasa 4, pole 15",
+    "bbox": [
+      287.631196,
+      323.208591,
+      294.278301,
+      332.421587
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.369137+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "1a2a2d09ebb509e4f001aa02d6b8e7b96449273784a4b47cc8e12c84dd1493b3"
+  }
+}

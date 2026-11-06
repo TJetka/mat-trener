@@ -1,0 +1,40 @@
+{
+  "id": "alfik-2018-4-sp-pl-016",
+  "id_edycji": "alfik-2018-4-sp-pl",
+  "numer": 16,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "uklad-warunkow",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2018-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2018-4-sp-pl-klucz",
+    "litera": null,
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 16",
+    "bbox": [
+      226.671181,
+      345.562836,
+      230.594461,
+      354.886844
+    ],
+    "pelny_kredyt": true,
+    "uwagi": "Zadanie anulowane: przypis pod kluczem uznaje ABCDE oraz brak odpowiedzi za poprawne."
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.348443+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json. Official key footnote awards full points for A–E and blank; no correct answer invented.",
+    "sha256": "be2c9393509922688e10fe96b6e4dc832337f94322eac2df92bda94a36136d00"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "alfik-2009-4-sp-pl-024",
+  "id_edycji": "alfik-2009-4-sp-pl",
+  "numer": 24,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2009-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2009-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 24 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-24-stem-0.png",
+        "sourcePage": 2,
+        "cropPermille": [
+          775,
+          462,
+          940,
+          578
+        ],
+        "pixels": [
+          1042,
+          878,
+          222,
+          220
+        ],
+        "whiteMaskPixels": null
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.253381+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "ddabacb73e3d4c4097f1e6bbf8676f47dee1c04676dfa1905c63ac69693db6f9"
+  }
+}

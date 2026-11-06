@@ -7,10 +7,11 @@ export type ContentNode =
 export interface Task {
   id: string; editionId: string; number: number; points: Points;
   group: string; tag: string; stem: ContentNode[];
-  options: Record<Letter, ContentNode[]>; answer: Letter; version: string;
+  options: Record<Letter, ContentNode[]>; answer: Letter | null; acceptedAnswers?: Letter[];
+  awardAll?: boolean; version: string;
   source: {
     paper: { dokument: string; strony: number[] };
-    key: { dokument: string; strona: number; pozycja: string; litera: Letter };
+    key: { dokument: string; strona: number; pozycja: string; litera: Letter | null };
   };
 }
 export interface SourceDocument {

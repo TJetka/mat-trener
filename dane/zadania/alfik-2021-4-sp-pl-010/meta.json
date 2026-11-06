@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2021-4-sp-pl-010",
+  "id_edycji": "alfik-2021-4-sp-pl",
+  "numer": 10,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "cykl-kalendarza",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2021-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2021-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 3,
+    "pozycja": "sekcja klasa 4, pole 10",
+    "bbox": [
+      287.391187,
+      254.448618,
+      294.586403,
+      263.661615
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.367416+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "6b3c37355586b8d08e7f539f4ccfa93f9f0521df6dca79093aa557a027d9d2d1"
+  }
+}

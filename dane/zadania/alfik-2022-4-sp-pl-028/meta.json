@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2022-4-sp-pl-028",
+  "id_edycji": "alfik-2022-4-sp-pl",
+  "numer": 28,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2022-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2022-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 28",
+    "bbox": [
+      302.64,
+      484.797601,
+      309.36336,
+      496.046881
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.384725+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "42d5eb90ec43e395adf8c5b67b26bec8431a567fe3b4192509f87b3a77e205ff"
+  }
+}

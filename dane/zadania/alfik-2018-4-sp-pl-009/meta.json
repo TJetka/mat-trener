@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2018-4-sp-pl-009",
+  "id_edycji": "alfik-2018-4-sp-pl",
+  "numer": 9,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2018-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2018-4-sp-pl-klucz",
+    "litera": "D",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 9",
+    "bbox": [
+      224.99118,
+      263.242771,
+      232.272949,
+      272.566778
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.346068+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "0a4061f6993236c250d1ce4797a0b233ef8bb532ffbfa1318403d7af29d5479c"
+  }
+}

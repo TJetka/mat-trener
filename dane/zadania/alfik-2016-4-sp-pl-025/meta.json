@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2016-4-sp-pl-025",
+  "id_edycji": "alfik-2016-4-sp-pl",
+  "numer": 25,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "rownowazenie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2016-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2016-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja SP 4, pole 25",
+    "bbox": [
+      224.99118,
+      449.72292,
+      232.272949,
+      459.046927
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.331609+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "5a5922db575f98a06c27cd97a7c63c5039e0647df1a6d5136125e7ab01cd34c1"
+  }
+}

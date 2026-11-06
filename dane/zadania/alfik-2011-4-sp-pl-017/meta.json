@@ -1,0 +1,55 @@
+{
+  "id": "alfik-2011-4-sp-pl-017",
+  "id_edycji": "alfik-2011-4-sp-pl",
+  "numer": 17,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "rownowazenie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2011-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2011-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 17 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-17-stem-clean.png",
+        "sourcePage": 2,
+        "cropPermille": [
+          778,
+          86,
+          943,
+          325
+        ],
+        "pixels": [
+          1046,
+          163,
+          222,
+          454
+        ],
+        "whiteMaskPixels": [
+          0,
+          0,
+          130,
+          65
+        ]
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.274368+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "46b81052878b36cfc12b2934d2770adbe9ed0a239318801162547198848b095d"
+  }
+}

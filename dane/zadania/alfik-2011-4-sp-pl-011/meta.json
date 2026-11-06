@@ -1,0 +1,50 @@
+{
+  "id": "alfik-2011-4-sp-pl-011",
+  "id_edycji": "alfik-2011-4-sp-pl",
+  "numer": 11,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2011-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2011-4-sp-pl-klucz",
+    "litera": "D",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 11 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-11-stem-0.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          748,
+          607,
+          946,
+          748
+        ],
+        "pixels": [
+          1005,
+          1153,
+          266,
+          268
+        ],
+        "whiteMaskPixels": null
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.272102+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "e3ecafd23c7af29aadbee439192fbb2b5bdda82c46c549d39b36887f6315a0a1"
+  }
+}

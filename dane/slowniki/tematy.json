@@ -101,6 +101,10 @@
     "reszta-z-dzielenia": {
       "nazwa": "Reszta z dzielenia",
       "opis": "Ustal resztę po podziale na równe grupy."
+    },
+    "polozenie-figur": {
+      "nazwa": "Położenie i kierunki",
+      "opis": "Określ wzajemne położenie obiektów i kierunek ruchu."
     }
   }
 }

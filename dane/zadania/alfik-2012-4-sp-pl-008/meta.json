@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2012-4-sp-pl-008",
+  "id_edycji": "alfik-2012-4-sp-pl",
+  "numer": 8,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "rownowazenie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2012-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2012-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 8",
+    "bbox": [
+      224.33,
+      224.1962,
+      230.97332,
+      235.3016
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.282478+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "d85e2987002e15fccde976b03232b92246fad90c41350daf35768abaf44b7292"
+  }
+}

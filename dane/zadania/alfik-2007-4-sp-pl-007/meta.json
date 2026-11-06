@@ -1,0 +1,50 @@
+{
+  "id": "alfik-2007-4-sp-pl-007",
+  "id_edycji": "alfik-2007-4-sp-pl",
+  "numer": 7,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "proporcja",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2007-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2007-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 7 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-07-stem-0.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          768,
+          581,
+          920,
+          687
+        ],
+        "pixels": [
+          1032,
+          1104,
+          204,
+          201
+        ],
+        "whiteMaskPixels": null
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.225442+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "8d8c58bf0fa78f2396d4930c0843ba02f1f509f8ff67a6c8e057e3dc0f574941"
+  }
+}

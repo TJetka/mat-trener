@@ -1,0 +1,42 @@
+{
+  "id": "alfik-2012-4-sp-pl-014",
+  "id_edycji": "alfik-2012-4-sp-pl",
+  "numer": 14,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "wlasnosci-liczb",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2012-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2012-4-sp-pl-klucz",
+    "litera": "D",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 14",
+    "bbox": [
+      216.89,
+      299.0962,
+      238.42352,
+      310.2016
+    ],
+    "litery": [
+      "D",
+      "E"
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.284767+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json. Official key explicitly accepts D and E.",
+    "sha256": "18b1b099cff318ea634911655a7b26d2f96dff95b1659140fab19239205a2091"
+  }
+}

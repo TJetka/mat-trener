@@ -1,0 +1,182 @@
+{
+  "id_edycji": "alfik-2021-4-sp-pl",
+  "id_konkursu": "alfik",
+  "rok": 2021,
+  "rok_szkolny": "2021/2022",
+  "kategoria": "4-sp",
+  "klasy": [
+    4
+  ],
+  "wariant": "pl",
+  "oczekiwane": [
+    {
+      "numer": 1,
+      "punkty": 3
+    },
+    {
+      "numer": 2,
+      "punkty": 3
+    },
+    {
+      "numer": 3,
+      "punkty": 3
+    },
+    {
+      "numer": 4,
+      "punkty": 3
+    },
+    {
+      "numer": 5,
+      "punkty": 3
+    },
+    {
+      "numer": 6,
+      "punkty": 3
+    },
+    {
+      "numer": 7,
+      "punkty": 3
+    },
+    {
+      "numer": 8,
+      "punkty": 3
+    },
+    {
+      "numer": 9,
+      "punkty": 3
+    },
+    {
+      "numer": 10,
+      "punkty": 3
+    },
+    {
+      "numer": 11,
+      "punkty": 4
+    },
+    {
+      "numer": 12,
+      "punkty": 4
+    },
+    {
+      "numer": 13,
+      "punkty": 4
+    },
+    {
+      "numer": 14,
+      "punkty": 4
+    },
+    {
+      "numer": 15,
+      "punkty": 4
+    },
+    {
+      "numer": 16,
+      "punkty": 4
+    },
+    {
+      "numer": 17,
+      "punkty": 4
+    },
+    {
+      "numer": 18,
+      "punkty": 4
+    },
+    {
+      "numer": 19,
+      "punkty": 4
+    },
+    {
+      "numer": 20,
+      "punkty": 4
+    },
+    {
+      "numer": 21,
+      "punkty": 5
+    },
+    {
+      "numer": 22,
+      "punkty": 5
+    },
+    {
+      "numer": 23,
+      "punkty": 5
+    },
+    {
+      "numer": 24,
+      "punkty": 5
+    },
+    {
+      "numer": 25,
+      "punkty": 5
+    },
+    {
+      "numer": 26,
+      "punkty": 5
+    },
+    {
+      "numer": 27,
+      "punkty": 5
+    },
+    {
+      "numer": 28,
+      "punkty": 5
+    },
+    {
+      "numer": 29,
+      "punkty": 5
+    },
+    {
+      "numer": 30,
+      "punkty": 5
+    }
+  ],
+  "czas_sekundy": 4500,
+  "punktacja": {
+    "start_cwiartki": 120,
+    "kara_cwiartki_za_punkt": 1
+  },
+  "wersja_regul": "alfik-4-sp-v1",
+  "zrodlo_regul": "https://jersz.pl/konkurs/alfik-matematyczny/",
+  "reguly_sprawdzone": true,
+  "budzety_sekundy": {
+    "3": 90,
+    "4": 150,
+    "5": 210
+  },
+  "anulowane": [],
+  "publikacja": {
+    "decyzja": "Właściciel projektu, 2026-11-06",
+    "podstawa": "Polecenie właściciela: Just use them and say what is the source. Nie jest to deklaracja licencji organizatora.",
+    "zadania": "wszystkie"
+  },
+  "dokumenty": [
+    {
+      "id": "alfik-2021-4-sp-pl-arkusz",
+      "rodzaj": "arkusz",
+      "organizator": "Łowcy Talentów JERSZ",
+      "rok": 2021,
+      "id_konkursu": "alfik",
+      "kategoria": "4-sp",
+      "wariant": "pl",
+      "wersja": "75f180d1d01b",
+      "url": "https://jersz.pl/wp-content/uploads/2020/08/ALFIK-MATEMATYCZNY-2021-4-SP.pdf",
+      "plik": "2021-11-24-sp-4.pdf",
+      "sha256": "75f180d1d01b5d3b1a38215bf27116fe70776910e38994051b93fb3b18533cad",
+      "strony": 2
+    },
+    {
+      "id": "alfik-2021-4-sp-pl-klucz",
+      "rodzaj": "klucz",
+      "organizator": "Łowcy Talentów JERSZ",
+      "rok": 2021,
+      "id_konkursu": "alfik",
+      "kategoria": "4-sp",
+      "wariant": "pl",
+      "wersja": "ff95e4a7abcb",
+      "url": "https://jersz.pl/wp-content/uploads/2022/01/AM_sprawozdanie_2021-2022.pdf",
+      "plik": "2021-11-24-klucz.pdf",
+      "sha256": "ff95e4a7abcb5ade8f75ef578a70bf66ed46e5506b28e3a568e7ea0cdf691494",
+      "strony": 3
+    }
+  ]
+}

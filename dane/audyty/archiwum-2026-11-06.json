@@ -1,0 +1,161 @@
+{
+  "toolVersion": "pdftoppm version 26.01.0",
+  "gitSha": "9ddf1ebcf14826c407a696dd48095f4952ebbfd7",
+  "inputHash": "61d6d77cfd7cd7d95a6e18845890c1b7a2311bf6baca8dfbc8814d6c19ff63f4",
+  "sources": [
+    {
+      "id": "alfik-2005-4-sp-pl-arkusz",
+      "sha256": "5930a56703ea43c6b564c32100412f533a5e9ba4e2607427cb212fee45355169"
+    },
+    {
+      "id": "alfik-2005-4-sp-pl-klucz",
+      "sha256": "11520b6fc3fafed463c41519dbaf322d3dd71eae64b6472c60d507e33c7194eb"
+    },
+    {
+      "id": "alfik-2006-4-sp-pl-arkusz",
+      "sha256": "f43c6be473adcf4798bc02ba1fc848b6f1ea2a5ffd8fb735061a8650dc37b3f1"
+    },
+    {
+      "id": "alfik-2006-4-sp-pl-klucz",
+      "sha256": "3a30fc4d1143ded8397dd20b5c20ff62bf9ff28d39d36446d50e1bb484823aa0"
+    },
+    {
+      "id": "alfik-2007-4-sp-pl-arkusz",
+      "sha256": "fcd1438f65a07a57b993acd7bde93faa17a6077eb77233fd517f14abd856b56c"
+    },
+    {
+      "id": "alfik-2007-4-sp-pl-klucz",
+      "sha256": "2b1be8849e8ba010c406656eff123950bc7cf69d124cc64f47ad0732f2663f90"
+    },
+    {
+      "id": "alfik-2008-4-sp-pl-arkusz",
+      "sha256": "094c5814f63487d985d0dc1d274e903a40dd24f7e00d70d819cecd217edd6b0b"
+    },
+    {
+      "id": "alfik-2008-4-sp-pl-klucz",
+      "sha256": "81347fae0cb9925812ffd9322d6bbffb53b26eb6c80e456f817b9c82ae15a2a1"
+    },
+    {
+      "id": "alfik-2009-4-sp-pl-arkusz",
+      "sha256": "187f2ec2e663cfe24fbc36ed3304c5e6741b64928819ecf44b47b9093570fb77"
+    },
+    {
+      "id": "alfik-2009-4-sp-pl-klucz",
+      "sha256": "f365ca49adafa020cf7c82258a3baf8be32d22aa04f5ca5e61a17d2efa7beb65"
+    },
+    {
+      "id": "alfik-2010-4-sp-pl-arkusz",
+      "sha256": "2815af7a78ae0ebd5c0afd0ee405c2abaab1a85057306f59cbf2c5eb0654b55f"
+    },
+    {
+      "id": "alfik-2010-4-sp-pl-klucz",
+      "sha256": "a28cc60e6e3fd742b868ad946fe38902936091ece0ef3519a78a7126396562af"
+    },
+    {
+      "id": "alfik-2011-4-sp-pl-arkusz",
+      "sha256": "8097a2f6b7b523f097924b023309eae19df4bd8e2a735d069e9233d571b44e4a"
+    },
+    {
+      "id": "alfik-2011-4-sp-pl-klucz",
+      "sha256": "02713490526e2c41f17e79a9b554961e193f356f5888dc97298f5ba6f2b035b9"
+    },
+    {
+      "id": "alfik-2012-4-sp-pl-arkusz",
+      "sha256": "581c54dcfbb2c1ba041071245c088d0885cba6bd5ad82cfe43eecd0fb75042ec"
+    },
+    {
+      "id": "alfik-2012-4-sp-pl-klucz",
+      "sha256": "f704c24c4b74b9caf695d3336fb9a0e6e850689e21f5a03b2e82f61c9ed1d225"
+    },
+    {
+      "id": "alfik-2013-4-sp-pl-arkusz",
+      "sha256": "dac0a352088726135a541b11e5965dbd0dc0f491e3e0cf4aabaa0581e74006e3"
+    },
+    {
+      "id": "alfik-2013-4-sp-pl-klucz",
+      "sha256": "a5706d07bc210c647616c30c04f7e5e8b7b01f7d0a8de897493412817a806d8d"
+    },
+    {
+      "id": "alfik-2014-4-sp-pl-arkusz",
+      "sha256": "924bd3f89e94bed8177dbd1a4c530e8521b18d092acc519c76f0e915177327ca"
+    },
+    {
+      "id": "alfik-2014-4-sp-pl-klucz",
+      "sha256": "30dd02bec78ab309c6fb971efcd3176686136bcbb19f6ba81b8948463cd36530"
+    },
+    {
+      "id": "alfik-2015-4-sp-pl-arkusz",
+      "sha256": "cdb2b534fa6e2f3a5f977c4cc3998d4f290e9bc48bc4cfbab6674f7d8ddb3079"
+    },
+    {
+      "id": "alfik-2015-4-sp-pl-klucz",
+      "sha256": "0d6ef525f935d08681d39fbb1ed7a2875e83ba3ee5c792945d78615a66929606"
+    },
+    {
+      "id": "alfik-2016-4-sp-pl-arkusz",
+      "sha256": "fa9550f7dc7cc93d4ec3d3eaaee2de50ee6c76799a878a8c3a1a30df62275937"
+    },
+    {
+      "id": "alfik-2016-4-sp-pl-klucz",
+      "sha256": "6b8726b0888cea945920d1b64f05790006f024952450d8ee401205755742e5df"
+    },
+    {
+      "id": "alfik-2017-4-sp-pl-arkusz",
+      "sha256": "82b1f1869592c03160428f72d8d875bee64d12a22b5f6ad1b0746a211de10d52"
+    },
+    {
+      "id": "alfik-2017-4-sp-pl-klucz",
+      "sha256": "1873f01c6267475f9e2dd9bc31533b4918e7923cf73cd5786d0bf14fdd4773b6"
+    },
+    {
+      "id": "alfik-2018-4-sp-pl-arkusz",
+      "sha256": "eac2bcc4955402c9be50626418cd407fc858f1d04673c5cd357b3e1f7eae547f"
+    },
+    {
+      "id": "alfik-2018-4-sp-pl-klucz",
+      "sha256": "65d0ae6f99c7a160941eaa5ef4554b8a4a8af82b12bcbdd91c2de10d7971983e"
+    },
+    {
+      "id": "alfik-2019-4-sp-pl-arkusz",
+      "sha256": "120c8eccf25f6923bee424d05927f858c9f97326c5657709aff74dad8853c8ed"
+    },
+    {
+      "id": "alfik-2019-4-sp-pl-klucz",
+      "sha256": "7cf079fa097778b08974d216ec2a4e21d704fc5279da2ed40da64195ae5354ee"
+    },
+    {
+      "id": "alfik-2021-4-sp-pl-arkusz",
+      "sha256": "75f180d1d01b5d3b1a38215bf27116fe70776910e38994051b93fb3b18533cad"
+    },
+    {
+      "id": "alfik-2021-4-sp-pl-klucz",
+      "sha256": "ff95e4a7abcb5ade8f75ef578a70bf66ed46e5506b28e3a568e7ea0cdf691494"
+    },
+    {
+      "id": "alfik-2022-4-sp-pl-arkusz",
+      "sha256": "65f659e3347f6528ce2bef53293a918f7a130f4da1b94c9d5ad427a633dc7bd8"
+    },
+    {
+      "id": "alfik-2022-4-sp-pl-klucz",
+      "sha256": "f467f38df94afe8a10299c6f101b962b40f744b7d4d2560756c30b93a8bd9e7a"
+    },
+    {
+      "id": "alfik-2023-4-sp-pl-arkusz",
+      "sha256": "fb185b66069dd6a74ab9f93782e8b2b43899f02f72cea099ec9dc0f357ec5614"
+    },
+    {
+      "id": "alfik-2023-4-sp-pl-klucz",
+      "sha256": "d743b6231218d2a6af31586158990b6c005f3af8bac896762619cfaaad6e6732"
+    }
+  ],
+  "config": {
+    "textExtraction": "pdftotext -layout; manually checked against rendered pages",
+    "imageExtraction": "pdftoppm -scale-to 1900 -png; crop rectangles in task metadata",
+    "imageMasks": "Two white masks remove adjacent prose only; no diagram content changed. CoreGraphics raster output.",
+    "clockNotation": "Printed superscript times normalized to HH:MM",
+    "footers": "Publisher promotions removed from final option",
+    "keys": "2005–2011 visually transcribed; 2012–2023 spatial columns checked visually",
+    "publication": "Owner instruction recorded separately in every edition"
+  },
+  "randomSeed": null
+}

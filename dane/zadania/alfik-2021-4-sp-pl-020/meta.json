@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2021-4-sp-pl-020",
+  "id_edycji": "alfik-2021-4-sp-pl",
+  "numer": 20,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "uklad-warunkow",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2021-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2021-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 3,
+    "pozycja": "sekcja klasa 4, pole 20",
+    "bbox": [
+      287.631189,
+      391.968563,
+      294.278293,
+      401.18156
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.370868+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "871b2a065fbbbd6dd5cc8c5f8b7e8235c0f59f1688af824537163909a628c935"
+  }
+}

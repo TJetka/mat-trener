@@ -1,0 +1,55 @@
+{
+  "id": "alfik-2006-4-sp-pl-010",
+  "id_edycji": "alfik-2006-4-sp-pl",
+  "numer": 10,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "geometria",
+  "tag": "podzial-figury",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2006-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2006-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasy 4 SP, wiersz 10 (odczyt wizualny skanu)"
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": [
+      {
+        "file": "rysunek-10-stem-clean.png",
+        "sourcePage": 1,
+        "cropPermille": [
+          604,
+          705,
+          942,
+          810
+        ],
+        "pixels": [
+          812,
+          1340,
+          454,
+          200
+        ],
+        "whiteMaskPixels": [
+          0,
+          183,
+          75,
+          17
+        ]
+      }
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.215677+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "db92470ace5ca20218e7dcc1ba04f1a6ecd5ec6dc628c5f4d8c1ea9892bd7eed"
+  }
+}

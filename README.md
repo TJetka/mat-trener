@@ -1,6 +1,6 @@
 # Mat-Trener
 
-Polish, static Alfik Mathematics trainer for grade IV. Includes 60 source-checked tasks from 2024–2025, three test modes, timed sessions and answer review. No accounts, backend or saved history.
+Polish, static Alfik Mathematics trainer for grade IV. Includes 600 source-checked tasks from all 20 available class-IV editions (2005–2019, 2021–2025), three test modes, live scores, topic tags and color-coded answer review. No accounts, backend or saved history.
 
 ## Run
 

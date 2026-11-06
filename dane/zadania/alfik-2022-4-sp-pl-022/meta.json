@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2022-4-sp-pl-022",
+  "id_edycji": "alfik-2022-4-sp-pl",
+  "numer": 22,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "minimum-maksimum",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2022-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2022-4-sp-pl-klucz",
+    "litera": "A",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 22",
+    "bbox": [
+      302.64,
+      414.237601,
+      309.36336,
+      425.486881
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.382667+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "2c175d5e423edb0e0790f0756c8bdf1f4abbdd3cd1b8d5d2a38aa77cedc4f33d"
+  }
+}

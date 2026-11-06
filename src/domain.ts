@@ -51,7 +51,7 @@ export function unavailableReason(bank: Bank, profileId: string, mode: Mode): st
   const required: [Points, number][] = mode.kind === 'training'
     ? [[mode.points, 8]] : [[3, 3], [4, 3], [5, 2]];
   for (const [points, count] of required) {
-    const available = pool.filter(t => t.points === points).length;
+    const available = pool.filter(t => !t.awardAll && t.points === points).length;
     if (available < count) return `Poziom ${points} pkt: mamy ${available} z ${count} potrzebnych zadań.`;
   }
   return null;
@@ -72,9 +72,10 @@ export function startAttempt(bank: Bank, profileId: string, mode: Mode, now: num
     tasks = pool.filter(t => t.editionId === edition.id).sort((a, b) => a.number - b.number);
     seconds = edition.durationSeconds;
   } else {
-    tasks = mode.kind === 'training' ? shuffled(pool.filter(t => t.points === mode.points), random).slice(0, 8)
+    const practice = pool.filter(t => !t.awardAll);
+    tasks = mode.kind === 'training' ? shuffled(practice.filter(t => t.points === mode.points), random).slice(0, 8)
       : shuffled(([3, 4, 5] as Points[]).flatMap(points =>
-        shuffled(pool.filter(t => t.points === points), random).slice(0, points === 5 ? 2 : 3)), random);
+        shuffled(practice.filter(t => t.points === points), random).slice(0, points === 5 ? 2 : 3)), random);
     seconds = tasks.reduce((sum, task) => sum + profile.trainingSeconds[task.points], 0);
   }
   if (new Set(tasks.map(t => t.id)).size !== tasks.length) throw new Error('Powtórzony identyfikator zadania.');
@@ -111,6 +112,11 @@ export function navigate(attempt: Attempt, index: number, now: number = Date.now
   return { ...current, index };
 }
 
+/** Some official keys explicitly accept more than one option for a single-choice task. */
+export function isCorrect(task: Task, choice: Letter | null): boolean {
+  return task.awardAll === true || (choice !== null && (task.acceptedAnswers ?? [task.answer]).includes(choice));
+}
+
 export function score(attempt: Attempt): { correct: number; wrong: number; blank: number; quarters: number; maxQuarters: number } {
   const year = attempt.mode.kind === 'year';
   const rules = attempt.editions[0];
@@ -118,8 +124,8 @@ export function score(attempt: Attempt): { correct: number; wrong: number; blank
   let correct = 0, wrong = 0, blank = 0;
   for (const task of attempt.tasks) {
     const choice = attempt.answers[task.id];
-    if (choice === null) blank++;
-    else if (choice === task.answer) { correct++; quarters += task.points * 4; }
+    if (isCorrect(task, choice)) { correct++; quarters += task.points * 4; }
+    else if (choice === null) blank++;
     else { wrong++; if (year) quarters -= task.points * rules.penaltyQuartersPerPoint; }
   }
   return { correct, wrong, blank, quarters,

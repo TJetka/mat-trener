@@ -1,17 +1,13 @@
 # Delivery status
 
-Implemented: scaffold, pinned environments, import/review/validation pipeline, 60 source-checked tasks, taxonomy, three modes, unbiased sampling, tab recovery, deadline checks, quarter-point scoring, answer review and image zoom.
+Implemented: 600 source-checked tasks across all 20 available class-IV editions (2005–2019, 2021–2025), three modes, timed sessions, recovery, official scoring, answer review and image zoom.
 
-Verified: clean registry-backed `npm ci`, 30 pytest checks + 19 Node checks, Ruff, TypeScript compilation, bank completeness, public-asset filtering, production build and release check. All five browser acceptance tests passed with Playwright Chromium; desktop and 360px screenshots reviewed.
+Follow-up UI: correct/wrong/blank responses have distinct colors and symbols; named topic tags appear during questions and review; scores update after every selection/change/clear; a header action returns to mode choice after confirming an active attempt. Source years are visible for historical date context.
 
-Git/SSH access restored on 2026-11-06 using elevated execution. Initial implementation committed as `85ba34e` and pushed to `git@github.com:TJetka/mat-trener.git` on `main`, which tracks `origin/main`. Raw PDFs, local data and generated artifacts remain excluded.
+Archive review: all paper pages and class-IV key columns checked; 33 diagram crops retained. The 2012/14 key accepts D or E. The annulled 2018/16 receives full official credit even when blank and is excluded from training/mix. Source URLs, hashes, crop coordinates and review approvals are recorded in `dane/`.
 
-Pages repair: the branch/root publisher served uncompiled source HTML, while the app workflow failed on an incomplete npm lockfile. The lockfile now has registry metadata and Linux dependencies; the owner switched Pages to GitHub Actions. Workflow code is unchanged.
+Validation: 40 pytest and 23 Node checks pass, along with Ruff, TypeScript, production build and release checks. All 10 browser acceptance checks pass, covering every historical question, mobile diagrams, live feedback, recovery and official key exceptions.
 
-Deployed: repair `ef757fb` passed the full Linux build/browser workflow and Pages deployment ([run 42186879988](https://github.com/TJetka/mat-trener/actions/runs/42186879988)). The live URL serves compiled JS/CSS and all 60 tasks, with matching Git provenance. Live Chrome checks confirmed the home screen, training start and answer recovery after refresh.
+Delivery: coherent commits on `main`, normal SSH pushes to `git@github.com:TJetka/mat-trener.git`. GitHub Pages uses the existing GitHub Actions workflow to publish validated `dist/` at <https://tjetka.github.io/mat-trener/>. Raw PDFs and generated artifacts remain excluded. No workflow changes were needed for this update.
 
-Follow-up UI: result navigation and answers distinguish correct, wrong and blank responses; named topic tags appear on questions/review; scores update immediately; the header links to mode choice. Verified with 51 unit tests, eight browser journeys, lint/build/release checks and desktop/mobile screenshots.
-
-In progress: expand class-IV content from two years to all 20 available editions (2005–2019, 2021–2025). Older diagram questions and scanned keys are under source review; the 2012 key includes an officially accepted pair of answers requiring explicit support.
-
-Offline review copy: run `node narzedzia/offline-preview.mjs` after a build, then open `lokalne/podglad.html`. It embeds the bank and fonts; it is not the deployment artifact.
+Offline review copy: run `node narzedzia/offline-preview.mjs` after a build, then open `lokalne/podglad.html`. This is not the deployment artifact.

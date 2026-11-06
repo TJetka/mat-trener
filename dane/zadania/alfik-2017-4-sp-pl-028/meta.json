@@ -1,0 +1,38 @@
+{
+  "id": "alfik-2017-4-sp-pl-028",
+  "id_edycji": "alfik-2017-4-sp-pl",
+  "numer": 28,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "kombinatoryka",
+  "tag": "systematyczne-zliczanie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2017-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2017-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4, pole 28",
+    "bbox": [
+      225.23118,
+      486.682949,
+      231.958243,
+      496.006957
+    ]
+  },
+  "przygotowanie": {
+    "audit": "archiwum-2026-11-06",
+    "rysunki": []
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T08:56:11.342442+00:00",
+    "uwagi": "Compared paper pages 1–2 and class-IV official key column with PDF renders; checked A–E order, clock notation and diagram crops. Answers transcribed from official key, never inferred by solving. Extraction provenance: dane/audyty/archiwum-2026-11-06.json.",
+    "sha256": "9017463dda9765e3ccca0d18f30c5b977cefef13ad4a4d43cfc81edf3631f5ed"
+  }
+}
