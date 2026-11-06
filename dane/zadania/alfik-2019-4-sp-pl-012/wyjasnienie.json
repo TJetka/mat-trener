@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4208037874d2a6802c19ec79b35771224792ff6247a9269e23cb411fdd41c4d9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zamiana cyfr zmniejsza liczbę o 9, gdy cyfra dziesiątek jest o 1 większa od jedności. Cyfry o sumie 7 i różnicy 1 to 4 i 3: 43 − 34 = 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.053208+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5b3e585672509ec9d5f628c2ea4ebfab3cdfaa7e74a56cbb605a1a885d938b78"
+  }
+}

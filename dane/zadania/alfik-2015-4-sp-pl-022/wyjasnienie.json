@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9a9c9706dcf469498bbf0281306fc4e318c807afe9e76e4727f8490822488214",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Drugi zakup zastępuje jeden ołówek długopisem i jest droższy o 50 gr. Długopis kosztuje więc o 50 gr więcej. Pierwszy zakup to cena 5 ołówków plus 1 zł: ołówek kosztuje (8,50 − 1) : 5 = 1,50 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.301105+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "71dd437a2413946bad70298adaf8aab8a81b4ea54c428fd514944dd8a631ca2c"
+  }
+}

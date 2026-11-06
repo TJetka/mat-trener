@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "dc877bc175e38a90aea0ca803599a05f494394fb6deafcdcdd7318fa85d40708",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Weź 4 pięciozłotówki, 5 dwuzłotówek i 6 złotówek. Ich wartość to 20 + 10 + 6 = 36 zł, a liczba monet 4 + 5 + 6 = 15.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.055295+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8180f7c3571193f445855b4b3373b1a60786473a6316df6aec25452509602fa8"
+  }
+}

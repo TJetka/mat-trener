@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0891b9c20b4402dc9159529fe43ff80f1d4e9d5008122ea17f6373a613e85aab",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa piątki mogą być oddalone o 7 dni i zmieścić się w dziesięciu dniach. Pierwszy i trzeci dzieliłoby już 14 dni, więc maksimum to 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.043227+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5b97e4627cafc44221aed1c6daf9442682bb7dba2ee31ed24758d8f5a19b325c"
+  }
+}

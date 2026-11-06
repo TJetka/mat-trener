@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5a5922db575f98a06c27cd97a7c63c5039e0647df1a6d5136125e7ab01cd34c1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Porównanie Asi i Basi pokazuje, że czerwony żeton jest wart 2 niebieskie. Porównanie Asi i Kasi daje wartość żółtego równą 6 niebieskim, czyli 3 czerwonym.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.038992+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "51742d7fa1fc28a862262d3b871ba781c145e89b5c1d792f84119ea8f2071205"
+  }
+}

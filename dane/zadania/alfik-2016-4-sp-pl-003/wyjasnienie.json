@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c8b89687e0be0a1d35db97226511ea0e9cf29c834266f01eb27bff0aa60116f4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sto banknotów po 10 zł ma wartość 100 · 10 = 1000 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.035348+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c3286e7cdc6deedda420999f8acb64975e1b2d639e5f743f4348c745b0ca8e3c"
+  }
+}

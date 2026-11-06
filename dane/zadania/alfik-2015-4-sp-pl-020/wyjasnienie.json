@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "30a3e57f3b2939e76d39f3cdfe46dc8868229c9a3d7000c3a46d2156d0720981",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cytrynowych jest o 4 więcej niż truskawkowych. Każde dziecko potrzebuje co najmniej jednej cytrynowej nadwyżki, więc dzieci może być najwyżej 4. Po 3 truskawkowe i 4 cytrynowe dla każdego spełnia warunki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.300817+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "947deb6948edfee9ca23ac299af0276fac5ac75e65e8f0485760ad07396487c5"
+  }
+}

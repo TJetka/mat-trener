@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b10f3faded4370f6af4ab804be75167f18a37b23fcbfe98f3f0c76f9d5f2e5ba",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Całe jabłko ma 4 ćwiartki, a pół jabłka jeszcze 2. Półtora jabłka to 6 ćwiartek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.052363+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bb0fdb974e33c185a5e22c8479b7c6042f83c2384522733243233d8d6d10d7b5"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7b5df51b80dda7411771e5bb255bbd0e18454135f1dea86749059b4aa6d5c8c0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwszy i ostatni dzień są takie same, gdy miesiąc ma 29 dni. Rok 2016 jest przestępny, więc taki miesiąc jest jeden: luty.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.299678+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2fcf7163705ee60a1b4800325d52b6ebf1bde895a4c653d4f4ac1359408d5fea"
+  }
+}

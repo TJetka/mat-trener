@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0a39a3d2dab42997f8ccfc563362a374e35a484940db7d1a29f028301a7addd4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W 12 godzin minutowa robi 12 obrotów, godzinowa 1, więc minutowa wyprzedza ją 11 razy. Odstęp między spotkaniami to 720 : 11 minut, czyli około 65 minut.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.301572+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "89b764a142e2726a9b0a2308aa31bf735297be9211910a9246d6d00185fd9f24"
+  }
+}

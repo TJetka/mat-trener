@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b41a889420508790eb63e55b28fa32cc7fdf168d7e76d8f101b9d3ee47979457",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dla każdego koloru ogranicza nas mniejsza liczba filiżanek i podstawek. Zestawów będzie 3 zielone, 3 czerwone i 7 niebieskich: razem 13.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.035500+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3ce10ea0295be267b82c649118275b88e30ff4d949a51f7b7c087a7101af201f"
+  }
+}

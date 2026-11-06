@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "fece1eb2ddb994ab950d4d5ff7591e107682726a58a3d3c03cbb6a4abfcf19c4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od A do B jedziemy 20 km na południe, a do C 30 km w tym samym kierunku. B i C dzieli różnica 30 − 20 = 10 km.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.052587+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0261cd6024c75bee33115de7e8946d253ede8acdc8c2d9752a9370156d65db30"
+  }
+}

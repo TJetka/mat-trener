@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "81677e9cd14ce9a959a56728d8b2cd28e4fc737b274ce8503b321885090aa877",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Minutowa wykonuje w ciągu doby 24 obroty, a godzinowa 2. Różnica to 22 obroty.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.300259+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b2cb28cd3cd1bb5f1fdc2cdceeb9c23820ab5e6066ec164fbd248d05d93486ed"
+  }
+}

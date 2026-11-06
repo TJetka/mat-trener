@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "166dab6bf82148da9616b60ae64957bc9fee8a4d8085145314286332f32ccae7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wystarczy podział na 12 części: dwa kwadraty 3×3, siedem 2×2 i trzy 1×1. W siatce 7×7 umieść większe kwadraty z lewymi górnymi rogami w (wiersz, kolumna): 3×3 w (1,1), (5,3); 2×2 w (1,4), (1,6), (3,4), (3,6), (4,1), (5,6), (6,1). Zostają trzy pojedyncze kratki. To wystarcza do odpowiedzi „12 lub mniej”.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.045563+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a5801c817392d7e9fa424f6475e4dad01576a726df7925fec6f294f6c38f6557"
+  }
+}

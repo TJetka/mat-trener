@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f2879aee232379f5a17e7926aeb4fb5c6d43072d217660c89a4a02dda7fc5aa7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po tej samej stronie stoją domy 27, 29, …, 45. Od 25 do 47 jest (47 − 25) : 2 = 11 odstępów, więc pomiędzy nimi stoi 10 domów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.036071+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "97872d3fe2af706110627429e5023b1315fb8b1df63a7bd9a64d9be90934c9fd"
+  }
+}

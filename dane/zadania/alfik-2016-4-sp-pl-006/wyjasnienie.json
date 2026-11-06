@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5dbc6e4d2991bcb24f82215fa803bc28ede2ef4dd40b4e3d65225c9a6178afb4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Aby pozostawić największą sumę, usuń najmniejszy składnik. Najmniejszą z podanych liczb jest 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.035778+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "72026bafa9ee7275a6d6eb4ec1bbf786f4b0b124b45cd6fbebeda118fdc92c71"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "99b6977d4d4d91e6812e7047310fd0dd311fc4b436157221011850f03038e1d0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na początku jest 14 białych i 7 czarnych kulek. Docelowo ma być 7 białych i 14 czarnych. Trzeba przemalować 7 białych na czarno.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.302059+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dcbbef512039c758b96f2bfa08d255febd7674e974ea892fada195fd4f10fb82"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1af8f7c632a90b7d41a8a185a22a146ffe20e5b12c5c41fddab44571ec516f68",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szybszy zawodnik zyskuje łącznie 3 okrążenia. Wyprzedza drugiego po zyskaniu pierwszego i drugiego okrążenia; trzecie dogonienie następuje dokładnie na mecie, gdy obaj kończą bieg. Wyprzedzeń są 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.037652+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "98d1be2f3ce526472de3a7fd9759c4bb9a1917ad5a97e9252313677cf2987283"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "48a4362d203f3483d94f0721ac3ac1ee80ed151547bb2c242f6eec7158352fe0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wystarczy wskazać cztery przykłady: 10, 20, 30 i 40 mają iloczyn cyfr 0, a dodatnią sumę. Takich liczb jest więc więcej niż 3 — nawet nieskończenie wiele.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.301737+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4fd523a8cf1b014213652c28a33b74024fdb06741dd002c967cbe39432cb97de"
+  }
+}

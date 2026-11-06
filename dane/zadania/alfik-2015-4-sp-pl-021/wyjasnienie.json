@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "da427c1181e0e2b94d6b530c6eb6b7a0224f171403edc1c5cae7c8f7ee5e44aa",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wstawienie zera przesuwa cyfrę dziesiątek na setki. Dla cyfry a wzrost to 100a − 10a = 90a. Skoro wynosi 180, cyfra dziesiątek to 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.300947+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c840f0bf41d0c077a0d0d00b0de6b5a223e1e10c68429c9f3819c2a16e69934b"
+  }
+}

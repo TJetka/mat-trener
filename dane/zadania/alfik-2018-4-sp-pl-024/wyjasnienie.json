@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0f5c755256f94ff48514d3aca48e4d34323670f45f2e29ca4f56920309b3bfe5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wiek Bartka to trzy części, Ani jedna, więc różnica 8 lat to dwie części. Ania ma 4 lata, Bartek 12, razem 16.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.050091+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f9a9a3ae9783ed791fe4fcb1aae2849456c662755710a0eb5d5572710371f204"
+  }
+}

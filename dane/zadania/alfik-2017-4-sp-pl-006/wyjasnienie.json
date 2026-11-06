@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f491aab871894de6c3889081b6d858b5462a1b178f54461c32ca7272365c3054",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od przedwczoraj minęły dwa z zapowiedzianych trzech dni. Pozostał jeden dzień, więc Ala jedzie jutro.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.041199+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "22e390cb24dc2c36897aeeb85c0b41c825e56d39be7c8b74d509934dcdc8273e"
+  }
+}

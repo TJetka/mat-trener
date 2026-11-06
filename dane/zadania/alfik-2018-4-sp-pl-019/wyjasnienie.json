@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6fc6276b3728e3134052523be5a87734b63037989e7ffd352dc8974ea685a1bc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "16 kartek to 32 strony. Jedynka występuje 10 razy jako cyfra dziesiątek (10–19) i 4 razy jako jedności (1, 11, 21, 31). Razem 14 razy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.049365+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f6df0113b7c764f3f52c33ca72c1911666ea2747b73eac021a016123ccba2ff5"
+  }
+}

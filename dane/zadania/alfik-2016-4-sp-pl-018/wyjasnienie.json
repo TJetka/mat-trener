@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d8cf828567ab1448ff54353ccd463671e354903dc34f0a90550168bccc77aab1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dla liczby 10a + b warunek brzmi 10a + b = 3b, więc b = 5a. Jedyną dopuszczalną niezerową cyfrą a jest 1, wtedy b = 5 i liczba to 15.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.037801+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d985169d40f7dd804bb0704f77f906937f857acd859eeebee829dd99166281db"
+  }
+}

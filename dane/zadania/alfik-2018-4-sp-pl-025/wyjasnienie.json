@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5495d9262c53455fd5472e91bec201d828ac5cf9b625893d494dc112d6283ff5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Styczeń, luty i marzec w zwykłym roku mają 31 + 28 + 31 = 90 dni. W roku przestępnym luty, marzec i kwiecień mają 29 + 31 + 30 = 90 dni. Pierwszy miesiąc może mieć 31 albo 29 dni, więc danych jest za mało.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.050278+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "02bf23e62307f3927f45459445b20c3048a57e8aca9cba5dec6c85dc1197334c"
+  }
+}

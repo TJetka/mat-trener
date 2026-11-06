@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "07604eb7991cede3ab14d8bae5ddc8c65fe67d44323775e2e19d8bf0bc9ab6ae",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dzień rozpoczęcia to już dzień pierwszy. Do dwunastego dnia upływa 11 dni: tydzień i 4 dni. Czwartek przesunięty o 4 dni daje poniedziałek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.056707+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7cea7cc6cbd135833f01c55506f3e952a0e74ef333af6ec7df12bc58b1c1f0ee"
+  }
+}

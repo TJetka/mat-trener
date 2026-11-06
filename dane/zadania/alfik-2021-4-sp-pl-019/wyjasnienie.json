@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "51f2ee7023728f910a6e44c1d6c402852c0fd8595c27d2b357bf9230620f3374",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przy czarnym lewym górnym rogu przemaluj pola (wiersz, kolumna): (1,1), (2,4), (4,2). Każde białe pole ma wtedy czerwonego sąsiada. Dwa pola nie wystarczą: nie pokryją sąsiedztwem wszystkich 8 białych pól.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.059476+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b16122f197444bfc8da6487ce2b45f7db21f3af1e731e3283bf1d0558799f1a8"
+  }
+}

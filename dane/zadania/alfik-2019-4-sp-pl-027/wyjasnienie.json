@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "fea5b94e1c61c179a3e866e434e532ce7c83f647540f4bc53beca6d246324a5c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Średnia liczba miejsc to 24 : 8 = 3. Każdy pokój dwuosobowy daje jedno miejsce mniej od średniej, a czteroosobowy jedno więcej. Muszą się równoważyć, więc jest ich tyle samo.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.055814+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c77da2d9d8a1c4105901dd7d53f49ad88f6ad2bae51ac03d1414969503e95582"
+  }
+}

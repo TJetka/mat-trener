@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8c906023da30c0feb58b9eb31c785007013acc42d94ccc4665f07871fb870275",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Łącznie zapisów na języki jest 18 + 11 + 3 = 32. Każdy z 21 uczniów został policzony przynajmniej raz. Nadmiar 32 − 21 = 11 to uczniowie policzeni drugi raz, czyli uczący się dwóch języków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.050504+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "493fd590ea6db889dae0e611bf6fcf08150c8e68604f75f2ce87e47a4548a642"
+  }
+}

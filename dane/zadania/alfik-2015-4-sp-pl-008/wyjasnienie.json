@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "11b0397e4d4b1e9e9663fc3e6efed5c08093f0e5fed01cd15f43996fe2e8f266",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od wspomnianej niedzieli do chwili za 10 dni minie 20 dni. To 2 tygodnie i 6 dni, więc będzie sobota.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.298517+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "54b424529eecd962875881712dd3042295511dea1ed2cdda8cd8756b1d35e5bb"
+  }
+}

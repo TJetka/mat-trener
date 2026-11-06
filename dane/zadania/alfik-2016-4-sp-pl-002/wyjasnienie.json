@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f3c179af225827d466f52b6e3733f08a5215d479781555f980e19b22c2855113",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Teraz jest 17:00. Do północy pozostaje 24 − 17 = 7 godzin.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.035179+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dfadc343e1215bc84a3eebaa49bcde0091bc9a0cce791051ceabadd834fc2fe9"
+  }
+}

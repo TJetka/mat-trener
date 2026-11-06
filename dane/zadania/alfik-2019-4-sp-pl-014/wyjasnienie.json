@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "07477a4421995741e532b43614f5bf0cf6b1de6cc35989b99f72edac5856c210",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasuje 22: 2 · 2 = 2 + 2 = 4. Równanie dla cyfr daje (a − 1) · (b − 1) = 1, więc obie cyfry to 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.053627+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "179b37f7d4acfb202f7061a7280f7c13bd2f8082d975d136ba7449de657c3030"
+  }
+}

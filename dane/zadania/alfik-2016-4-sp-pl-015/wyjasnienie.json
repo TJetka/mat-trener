@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9612d5caeb0fc17ce636d2706d8f5577a89b7038005499b6fa49b866e198d0ad",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od 1 do 31 grudnia upływa 30 dni, czyli 4 tygodnie i 2 dni. Wtorek przesuwa się na czwartek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.037313+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "91fed38cb3ebd712233ba1112275d4dc49fb791cdd562b393a352b290137fa34"
+  }
+}

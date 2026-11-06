@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "fda47052e6a295ca0607ec280535e65dd140e90d8428b86b64da1bbdc7444fa8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jedna kaczka i dwie krowy mają 2 + 4 + 4 = 10 nóg. Takich grup jest 50 : 10 = 5, więc kaczek jest 5, a ich nóg 10.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.056260+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "eb5206a506f940c08630273c1271cb004dd24907e10e3d7f4e6cbf2fb1a3a332"
+  }
+}

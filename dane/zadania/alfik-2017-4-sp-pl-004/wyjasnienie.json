@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5a83a5e0e5393d34572f00c8825aafe37d752159802d7d9ea356f61b7d85ffc3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W kolejce jest łącznie 13 osób. Bartek zajmuje piąte miejsce, więc za nim stoi 13 − 5 = 8 osób.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.040895+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "809ada0314d57516dd0bc56eb36c9ec205cb77aca474b478e18b24d43884ffb1"
+  }
+}

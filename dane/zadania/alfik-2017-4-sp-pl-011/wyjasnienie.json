@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ff8a380188b71cda71aa528990c618a15f961497223a0764cf2f56b12463c5d8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy różne rosnące wyniki muszą dać 14. Pasuje 3 + 5 + 6 = 14. Gdyby środkowy był najwyżej 4, suma nie przekroczyłaby 3 + 4 + 6 = 13. Drugi wynik to 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.041958+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bbb387feb0348bc0c3c4a4b66d3f5da26fa64478b0176dc52e562242cbc5484d"
+  }
+}

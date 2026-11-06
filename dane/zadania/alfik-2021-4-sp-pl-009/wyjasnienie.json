@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a9057775e261f30cc67c33892d3d78c46571d161b4de06622d97e2abbd96d157",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "100 godzin to 4 doby i jeszcze 4 godziny. Cofnięcie pełnych dób nie zmienia godziny, a 12:00 − 4 godziny daje 8:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.057945+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ac4da794652958c7d369c58efae768bd1a5ebabe4224b18853c91494b9350f85"
+  }
+}

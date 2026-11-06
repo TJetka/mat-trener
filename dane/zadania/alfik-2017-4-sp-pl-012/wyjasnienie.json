@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "91fb71f8d207174115df72447c8d9782c0a606e1087e6e36c0fde1ecb1b5fb8c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Beata i trzy siostry to cztery osoby. Przez dwa lata ich łączny wiek wzrośnie o 4 · 2 = 8, więc wyniesie 40 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.042189+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f19615ea8dbe53c71a211caddf6f733895d2bc0d0b196a50a67aa11c2224d29f"
+  }
+}

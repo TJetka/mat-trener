@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8a2bb75eb4ffe6f9483e326dd75eb118d5c288478c6a8160be1833af1f994be1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wskazówka godzinowa robi dwa obroty dziennie. W ciągu tygodnia wykona 7 · 2 = 14 obrotów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.040600+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5e5f9581535426fd71d72a91c1b40800929e1859a7a4317b8ab36a9e088bd9b8"
+  }
+}

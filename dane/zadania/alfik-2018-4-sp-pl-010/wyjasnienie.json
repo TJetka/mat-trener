@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c45326626f667b114e994d70316d804da152fc3e785390e7ba9b125abeaa6a91",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "125 = 5 · 5 · 5. Pozostałe liczby wymagają czynnika większego od 9: 121 ma 11, 122 ma 61, 123 ma 41, a 124 ma 31.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.047768+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7d7e7548e8f06800b8f0ae124decdd170baee4de4774f7a99f08517608563a54"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "87c2bf724ce96b2c9a5ef81ddbed9ae443e3cb7355bf78930941808ee90019d0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przez dwa lata przewaga wieku mamy zmniejsza się łącznie o 4 lata. Co roku suma wieku dzieci rośnie więc o 2 więcej niż wiek mamy. Dzieci jest 1 + 2 = 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.059821+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5293b3b23d642545776f158c47ecd327884828a65a0c72be62f55c19a75d9938"
+  }
+}

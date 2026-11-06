@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b9b7743711c5c30043abc7af958f774d4c962af8966c32e32ec29b1d3a42b00e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsza suma to 3, największa 18; wszystkie wartości pomiędzy są osiągalne. Liczymy oba końce: 18 − 3 + 1 = 16 wyników.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.047143+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7f30b9413f05d617150ed39075ccd0a3f98725f7cfeeb55bfb715cd55cc2e57c"
+  }
+}

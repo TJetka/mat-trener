@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c1bc2a0deeb644fee457c380fac292a613720920c79756faca0cc22e31080131",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Odcinek przechodzi przez 6 pól, ale zaczyna się i kończy wewnątrz dwóch narożnych. Tych dwóch nie dzieli na osobne części. Rozcięte zostają tylko 4 pola pomiędzy nimi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.060701+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ca72317402d04c886b4861e3a2f6e610ec357de217c6a084eba76030dab68012"
+  }
+}

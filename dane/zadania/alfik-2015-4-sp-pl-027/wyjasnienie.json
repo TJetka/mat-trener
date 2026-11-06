@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3320729160634586d50a69e4638b3b789421e364b91a2f19e9604c3e049f6517",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Bartek złowił 2 ryby, Czarek 10, a Antek 7. Sprawdź: 10 = 5 · 2, 10 − 7 = 3 oraz 2 + 10 + 7 = 19.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.302285+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "33e8c8cb0bb3084dfb23087d2682caf574e804bc6937b80bbb76d78cb029953c"
+  }
+}

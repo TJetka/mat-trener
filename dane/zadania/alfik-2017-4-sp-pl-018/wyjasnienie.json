@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0711daf12c9e7cada27179fe330c7758282b9c2b458d2d28b7ff5063018d5742",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każda wspólna krawędź białego i czarnego pola daje jeden pionek. W siatce są 4 · 3 = 12 takich krawędzi pionowych i 12 poziomych. Razem 24.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.043520+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4b05eb07be0956b8fa8ae9e85c3295f9e1810a8e910f07ff52b731f3484d7c0d"
+  }
+}

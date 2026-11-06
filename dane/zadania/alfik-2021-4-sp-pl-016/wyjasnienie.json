@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "de9e9be7153347f1d68f176e96600b44d53b30b17bc46f9fe152bcd5bcac1d5c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od wyniku odejmij 7 i sprawdź podzielność przez 4. Dla 43 dostajesz 36 = 4 · 9, a 4 + 3 = 7. Pomyślana cyfra to 9, ale pytanie dotyczy wyniku: 43.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.058990+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "166b0a0230eeebd0a09193ff10441ac28489af163271567ab7d255597587c1ce"
+  }
+}

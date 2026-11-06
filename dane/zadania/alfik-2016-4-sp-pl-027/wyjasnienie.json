@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "03a878c2fc8b0a6a57f54ddade0cbd7f54918e5b72a1004db9a12b9579b19c59",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Długości są w stosunku 2:3. Pięć części ma 10 m, więc jedna ma 2 m. Kawałki mają 4 i 6 m, a różnica to 2 m = 200 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.039397+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b9d6bd652fa218450bfd8f0eb970f3652cbcceb6accdb67d1da34a86b2ff2e22"
+  }
+}

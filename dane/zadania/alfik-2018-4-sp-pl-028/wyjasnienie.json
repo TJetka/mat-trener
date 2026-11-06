@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0ddbf6f3fe1b05ac126a2b9d0a16588ff4e8e04cfa8f1e23409719c2403722a0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W roku arkusza, 2018, osoba urodzona w 2008 r. kończy 10 lat. Suma cyfr 2 + 0 + 0 + 8 także wynosi 10, więc pasuje odpowiedź „11 lub mniej”.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.050818+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b35b5175270d0bfa52c991336f7f5066bac19eca33cda42cb9054c42a8c1a625"
+  }
+}

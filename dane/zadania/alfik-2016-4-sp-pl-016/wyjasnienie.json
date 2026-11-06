@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cae95593ab0f2b5bfa361f088dfc395c47fba2968446eed0705fec1c8d53f927",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Bartek i dwaj bracia to trzy osoby. Przez 3 lata zyskają łącznie 9 lat, więc będą mieli 16 + 9 = 25 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.037511+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fe523f14db2ede65f06e568e59b4917cb0eb61a40bdb47430542c8132ac836ce"
+  }
+}

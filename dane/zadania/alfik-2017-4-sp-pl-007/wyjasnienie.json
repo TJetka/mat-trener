@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a34e961a08878ea9b38c1a9bedbe2962006849bd6c83c12280b0b7894676818b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa autokary mają 88 miejsc, za mało dla 100 osób. Trzy mają 132 miejsca, więc potrzeba 3 autokarów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.041336+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "350f903247b598a4ed1a9c7eeea4b4d69e161df4b0a51c72aea99ded67020be7"
+  }
+}

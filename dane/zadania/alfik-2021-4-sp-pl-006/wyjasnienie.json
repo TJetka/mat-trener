@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "eae3f8dd8e68579b7b9e367897ab19b8408f329b2a235cb70c2adaf469b5dbf3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Największa liczba dwucyfrowa to 99, najmniejsza trzycyfrowa to 100. Dzieli je 100 − 99 = 1.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.057464+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5956016868b5ba7f51300fc1083c4cea9804aaf7957208b4b3e32ca702235627"
+  }
+}

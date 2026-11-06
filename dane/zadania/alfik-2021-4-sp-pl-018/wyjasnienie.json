@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a73127332464323ed58a84167bfd5d96cdc644d76c8b1b9be3a08f2cda49c16e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Gdyby pierwszy wynik wynosił najwyżej 5, suma wszystkich oczek byłaby najwyżej 5 + 5 · 6 = 35. Musiała wypaść szóstka, po której wykonano 6 dalszych rzutów. Łącznie 7 rzutów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.059316+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f6525e68c33de50b68ada65e819d20f99777be0ddff1ec19cb7c7f4dd4403e6a"
+  }
+}

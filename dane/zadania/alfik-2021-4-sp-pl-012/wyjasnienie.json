@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cad966e415aaee5ae3c5e877782e68013aae0b3c74f4d1c902a190d77f793b68",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Suma pięciu liczb nieparzystych byłaby nieparzysta, a 100 jest parzyste. Cztery są możliwe, np. 11 + 11 + 11 + 11 + 56 = 100.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.058390+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "952713b00a070e4b99ccdd7094c4c8eba8ba10a1eaffee9f52824d57b0534c10"
+  }
+}

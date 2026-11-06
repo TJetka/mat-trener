@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a0aeb2df877b51dd4ce986e8814bb212a941c2f9b78ed62edcccc781acd3f1f5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Teraz Ala ma 7 + 3 = 10 lat. Za dwa lata będzie miała 12 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.052791+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7448de8b4515ae5b311ebf6a5ddf1a01c53d44570b2316f9544cc0a17ef412a8"
+  }
+}

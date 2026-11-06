@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b70d58105a5960578c4cf460c9b12f709d1117d6b216a36657f5b4cf2e68693c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsza dwucyfrowa suma to 10. Już liczba 109 ją osiąga: 1 + 0 + 9 = 10. Mniejsze liczby trzycyfrowe mają mniejszą sumę, więc szukana cyfra setek to 1.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.045951+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "740e3813513556b6bc3bb47fd6c2724af52cec64669d490f28d2663e368b6fb3"
+  }
+}

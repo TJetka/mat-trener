@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1a2a2d09ebb509e4f001aa02d6b8e7b96449273784a4b47cc8e12c84dd1493b3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wody jest 12 litrów. Każde dwie butelki półtoralitrowe mieszczą 3 litry, więc 12 litrów napełni 8 takich butelek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.058840+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b870415cfd3ed487992fd2764edf7665f2527dc23e4646334ac6e9a96fae5f86"
+  }
+}

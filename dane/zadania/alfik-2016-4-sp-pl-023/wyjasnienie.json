@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ad18c158deec753648b9e21d6c795ca9ae59404e23a8b4079269824afed073f0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują liczby 6 i 7. Druga jest o 1 większa, a po zwiększeniu o 2 daje 9, czyli trzy razy połowę z 6. Suma wynosi 13.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.038580+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f28d0c67d7906f2c8caaf212f2ffcf7a8b167b14457f4dcc4573003f8be2ad63"
+  }
+}

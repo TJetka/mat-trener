@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d45f1e4bfd058012ee38a72a0e3a2bef4fda9a745d5f2f83bd89ab272f61881b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pięć czarnych pól trzeba przełączyć nieparzystą liczbę razy. Dwa ruchy zmieniają kolor parzystej liczby pól, więc nie wystarczą. Oznacz czarne pola A–E i wykonaj trzy ruchy: ABC, ABD, ABE. Wszystkie staną się białe.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.045333+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0995397fc57011953768063f5871ff1f6ceac7aec9f65e023968a4e3546d4979"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4107586d6d7c47fb3c5125bb97248e79a46aff0b64c22e92dcce174239351e56",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na każdym boku mieści się 12 : 2 = 6 małych kwadratów. Wszystkich jest 6 · 6 = 36.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.035638+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "26f582e9431a9d4d3dca18a958a36864319aa1dc965c319ca7adaa7ed817feef"
+  }
+}

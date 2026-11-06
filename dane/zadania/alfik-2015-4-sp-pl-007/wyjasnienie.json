@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a2b3b930d13eb923ae3899fa7c8c1045f29dff9529806b892854e95d91bdb9e6",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W kolejnych wierszach jest 2, 3, 2, 3 i 2 czarne pola. Ich suma wynosi 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.298361+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7e083fdbaedb00f46768c28657b619ba8300dda897f33baa047350f3f5bea956"
+  }
+}

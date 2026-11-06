@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4f8916b786431ad689bd8b8bb8435d7cf5df663fe7b1be6c90863a05c02d157e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Niech cyfra dziesiątek będzie a, a jedności b. Warunek 10a + b = 6b daje b = 2a. Suma cyfr to a + 2a = 3a, czyli trzykrotność cyfry dziesiątek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.060479+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "36e29f8473c5638085c9b894c8df6a0ce1045f664f56d3ff51f2e0db1f0a668e"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "69700f6ec9bd7fda62172f64b031c2d28e15fb9dac553239f93e46cdb7d8b172",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W ciągu dwóch lat różnica zmieni się o 4 lata. Każdego roku łączny wiek dzieci rośnie więc o 2 lata szybciej niż wiek taty. Dzieci jest 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.044334+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fa4bdc20c0bd98d065019cb625a6549ce7f3cce53a8a54b7aeb6dd6ec92ca233"
+  }
+}

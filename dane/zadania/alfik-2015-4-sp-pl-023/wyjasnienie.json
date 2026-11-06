@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8cab7d966f71d84c6488fddb3f3438cb08c0865c702e08957346f8e75a874a4e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsze równe kwoty w dwuzłotówkach i pięciozłotówkach to po 10 zł: 5 i 2 monety. Złotówek jest 5 + 2 = 7. Razem 14 monet; kolejna wielokrotność nie byłaby już kilkunastoma.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.301338+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d0ab1e8421e762eeed4ce81fe722f87a9d2ee0c488a60264ca02ffd5d69e4d2e"
+  }
+}

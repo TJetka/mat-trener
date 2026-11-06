@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "be2c9393509922688e10fe96b6e4dc832337f94322eac2df92bda94a36136d00",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Organizator anulował to zadanie. Zgodnie z oficjalnym kluczem pełne punkty otrzymuje każdy, również bez zaznaczonej odpowiedzi. Nie wskazujemy tu jednej odpowiedzi jako obowiązującego rozwiązania.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.048820+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "97572edec20a5266fa5b7eb6260a7926b0c8e3ba645491e54a609e9fc59fd113"
+  }
+}

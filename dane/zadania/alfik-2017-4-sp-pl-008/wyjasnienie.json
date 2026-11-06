@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "59db3d38011bce0c8cdd10e669bf2536081feaf6a8fd7cf5277b0c2b00fef16f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Gdy godzinowa jest dokładnie na 6, minutowa jest na 12. O 6:30 godzinowa jest już w połowie drogi do 7. Obie nie mogą jednocześnie wskazywać 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.041469+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4d7318fad30c1bd80dc95c9d609e960663c8145ba801b4b2dfe6c0c2d3980d1f"
+  }
+}

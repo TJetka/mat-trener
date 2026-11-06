@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d744b2370a9e25fb69cd450b49cd1fe02ad7417360bff051677acc85ec91f75b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Między „brakuje 1” a „zostają 3” są 4 cukierki różnicy. Zmniejszenie porcji z 4 do 3 oszczędza po jednym na dziecko, więc dzieci jest 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.050673+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "afe99c70fb638078c55bca5b37f3158901703065d28b2cd48fd0cafb37293f89"
+  }
+}

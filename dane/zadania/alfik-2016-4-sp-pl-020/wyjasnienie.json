@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9f04d6c7da0bee4dedd09e51dc2098fb5805947ee365cd72f3c8c306110e0628",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W roku arkusza, 2016, urodzony w 2007 r. Jacek kończy 9 lat. Suma cyfr roku urodzenia także wynosi 2 + 0 + 0 + 7 = 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.038090+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "86067a1837312ed25c151e7895f0dff6b1dee6df647bceff9e3b8c87bf9b96cb"
+  }
+}

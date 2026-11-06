@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "871b2a065fbbbd6dd5cc8c5f8b7e8235c0f59f1688af824537163909a628c935",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wiek Anety to jedna część, a Jacka trzy takie części. Jedna część ma 24 : 4 = 6 lat. Różnica to dwie części, czyli 12 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.059627+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6379fe1cbc6b640a85504cdce1376bfe3d545e069a12eb1d170ebfad27538a07"
+  }
+}

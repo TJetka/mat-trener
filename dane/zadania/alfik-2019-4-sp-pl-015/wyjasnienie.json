@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "33278583d554096dedb6d502cb6ee7afae4a7c72976a88260cb77c6329c38b8f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przez rok Ala starzeje się o 1 rok, a czterej bracia łącznie o 4 lata. Różnica zmniejszy się o 3, czyli zniknie już za rok.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.053774+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3e776e4f96751e609ec586b7419977b642ae76f2ee9fb0eeed63b759d2ff5a0b"
+  }
+}

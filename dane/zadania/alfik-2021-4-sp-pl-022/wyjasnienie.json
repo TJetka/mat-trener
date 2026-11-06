@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cd9f0a074278faae0949c061b9b146efc42d460f0184726a6185e3315f580f16",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Miesiąc od czwartku do środy ma 28 dni: to luty nieprzestępny. Marzec zaczyna się w czwartek, ma 31 dni i kończy w sobotę.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.060021+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "48acf55dfcc2e594bd3b9aa2fe0c7d2f4c708fce6be756d0360795affb78f5ca"
+  }
+}

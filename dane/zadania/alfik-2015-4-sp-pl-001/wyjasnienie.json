@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "34cf43f943546bd45304f9fda2ac9fa6fc363c4d5ae6123d07da056002efd5a2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wzdłuż każdego boku mieści się 12 : 3 = 4 małych kwadratów. Otrzymamy 4 · 4 = 16 części.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.296952+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d45013fcdbce7bd5af25301c45b7ba3b9e0195938065b8a30184138355e6d42d"
+  }
+}

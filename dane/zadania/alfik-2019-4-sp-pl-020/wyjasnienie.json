@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1be72e7de5378b7820926e1e36521dd3595c3f777e661449e660cba922ad1ee1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Podstaw cyfrę 3: 33 − 3 = 30 oraz 3 · 3 · 3 + 3 = 30. Pamiętaj, że ** oznacza liczbę dwucyfrową, a mnożenie wykonujemy przed dodawaniem.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.054752+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d9983f1ac40fb8cf73716cac4db1f68cf2727ab252c80da4756b6e852314bb52"
+  }
+}

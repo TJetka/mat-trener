@@ -14,6 +14,6 @@
 | F1 | Result colors, visible tags, running score, easier mode choice | Implemented and browser-tested |
 | F2 | All available class-IV editions | 2005–2019 and 2021–2025, including source diagrams and key exceptions |
 
-| F3 | Per-question Polish explanation after a wrong answer in final review | Display and versioned content pipeline tested; 120/600 guides reviewed |
+| F3 | Per-question Polish explanation after a wrong answer in final review | Display and versioned content pipeline tested; 300/600 guides reviewed |
 
 Remaining: finish and verify archive explanations. Kangur remains release two.

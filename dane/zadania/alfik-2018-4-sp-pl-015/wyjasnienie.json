@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "96ecbf1e337499b6cfd82b9ab6bd18353e5b3eeb545f9ec1b7c34268e607373e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pomaluj pola na przecięciach wierszy 2 i 4 z kolumnami 2 i 4. Każdy kwadrat 2×2 zawiera jedno z nich. Mniej niż 4 nie wystarczy, bo można wybrać cztery rozłączne kwadraty 2×2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.048658+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ce657a94d0ddba845c6b2cd9826f1170f61b5bf08cb389d4c1682feca730bba6"
+  }
+}

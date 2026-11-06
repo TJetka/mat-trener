@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2f6fe3b22398ca4ffad56cf03a3903b0ae6de59517448e9e17a519b6bd46a537",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Długopis kosztuje tyle co 3 ołówki, a pióro tyle co 6. Pióro i trzy długopisy to 6 + 3 · 3 = 15 ołówków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.049127+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4f52cecca018fee516e6bfc944669d8e40de4d8b847edb2627aa4fe640fd1eda"
+  }
+}

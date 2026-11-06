@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d2c1ad886f30b363aecd8b2588f5e0d15fdc43da99edfc26d9a7bbf38349054f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pięć dwuzłotówek ma taką wartość jak dwie pięciozłotówki: 10 zł. Dodaj 5 złotówek. To 12 monet i 5 + 10 + 10 = 25 zł; kolejna wielokrotność dałaby już więcej niż kilkanaście monet.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.060908+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6ed81c00926c6160c6ee8236b116b67f1e40c891ca3cd7960df6e922b51a9e3f"
+  }
+}

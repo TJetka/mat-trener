@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4da904015538cd901d3008af9b49b4076c6f3d7e7e22985f910e452b4ba6a940",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Podwojenie ceny 3 ołówków i długopisu daje cenę 6 ołówków i 2 długopisów. Porównaj z 3 długopisami i ołówkiem; po odjęciu wspólnej części jeden długopis kosztuje tyle co 5 ołówków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.054902+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "af3b0011c78842c19f5d30e93c7045c7a9db87c07e7d10ba379980c34b61c3aa"
+  }
+}

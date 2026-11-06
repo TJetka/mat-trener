@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "557f39402bdba60fbf2efe6d00871b624a8a58abe9c9d50a96f39da8ee4165b9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery przełamania tworzą pięć części. Metr to 100 cm, więc każda część ma 100 : 5 = 20 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.041597+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b73989b1d43b823e870068b6f75bef8c5053393955b9809a52650e22e834818b"
+  }
+}

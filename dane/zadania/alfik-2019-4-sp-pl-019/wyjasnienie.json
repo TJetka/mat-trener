@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4666e4bd59fdb40b9ce9c2b8922e936af86da3837f6fb63cc157d28a1960e140",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jacek jest o 1 rok młodszy od Ali, bo od Bartka dzielą ich odpowiednio 4 i 3 lata. Gdy Ala miała 5 lat, Jacek miał 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.054501+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9b85c43d88084303868c96eff4dab142fe4373809bb8df74ee5814fd9ac9c1ad"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "755a869c2b32660273d032c82160e42beb77d8c0e9f5d1d8cc726270260c4c89",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Środkowa z trzech kolejnych liczb jest równa ich średniej: 24 : 3 = 8. Liczby to 7, 8, 9; największa to 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.057633+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6215800725e524103d5854a99cb5d20d05837cd5d43cc48dc512d03b430e7103"
+  }
+}

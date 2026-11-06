@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "30b0cc17b397f983ee3bc19d73cc63f69b40469cd6efaa833a635173fca6c123",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Skoro 1 kwietnia to piątek, 31 marca to czwartek. Cofając się o 30 dni do 1 marca, trafiamy na wtorek. Dzień wcześniej, ostatni dzień lutego, był poniedziałkiem.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.055474+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9be9a0a5735d6bf8f582a009404192c1cc0fe40c1d30b437efc6b4c45610d06e"
+  }
+}

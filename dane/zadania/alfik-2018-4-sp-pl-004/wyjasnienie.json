@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a40f0e8cbbc37daf8f9f5a1bed0c94dc22ea358494b6c33ff4207414e7df0b68",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od przedwczoraj do jutra mijają 3 dni. Z zapowiedzianych 7 dni pozostanie 7 − 3 = 4 dni.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.046564+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "29ef76bcbf727272cd51f664ab32394f4a250ad9a6994499b56b40dfbe30486d"
+  }
+}

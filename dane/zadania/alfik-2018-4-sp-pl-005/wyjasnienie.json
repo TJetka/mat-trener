@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "90668db9721885854ca7f117a7dd419e8e91af0d60e3b5b0d18a1a9aca380955",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Różnica wynosi 1,5 m − 0,5 m = 1 m, czyli 100 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.046770+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b78b0a8410ee0511c5173143dfcd5a21aa70142a96ad5c5477f0ae919797070e"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "284e4d3bdae24c1c92df0a666b12d731b3d9886fd33de4d9757310d1fcc7d28e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W roku arkusza, 2015, pasuje rok urodzenia 2011. Zosia kończy 4 lata, a suma cyfr 2 + 0 + 1 + 1 = 4. Ma mniej niż 5 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.302698+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1ef872ecdc3a96296870fd0beb99dc7c2d6fea0db18719d114d3e4c3389a0116"
+  }
+}

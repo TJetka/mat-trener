@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6fbfbd421e7346edf06f2d44c9a444c933a1e57e8f4701f80b559ff01df27efd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Odejmowanie Bartkowi 3 lat i dodawanie Jackowi 3 zmniejsza różnicę o 6. Po tej zmianie Bartek jest 3 lata młodszy, więc teraz jest o 6 − 3 = 3 lata starszy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.058537+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f03abd27d8742329746b98ed5f03f23340a7b4e73e601950da6992f7063ceb88"
+  }
+}

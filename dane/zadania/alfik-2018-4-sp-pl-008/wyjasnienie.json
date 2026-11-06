@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "39be89088fc1930373755c43a7f8c328dc2d22cdf589b5dc3035f455dfe10507",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od środy 20:00 do następnej środy 8:00 upływa 6 i pół doby. Wskazówka godzinowa robi 2 obroty na dobę, czyli 13 obrotów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.047347+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6f4506a63e7b429297e7361f1bce80641426735b6fe68024fe9c006301c55afe"
+  }
+}

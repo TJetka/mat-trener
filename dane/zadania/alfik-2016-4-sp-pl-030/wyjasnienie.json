@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ed7abdde4fcf896f043f61ca5c278f113e32227d78fae8aabda842c4dfd861ed",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują 3 kawy Jacka, 2 Piotra i 2 Pawła. Razem to 7 kaw, a cukru 3 · 3 + 2 · 0,5 + 2 · 1,5 = 13 łyżeczek. Paweł wypił 2 kawy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.040069+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a1665ebace9cf26e4ea205f249e9553745b3118967a33232dc880ee3cdd581e3"
+  }
+}

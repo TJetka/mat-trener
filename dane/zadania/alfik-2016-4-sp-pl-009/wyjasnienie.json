@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "bebb88df7bc70876c764150e3a92bed877350a36e2c9bd39bb368f89aff534fd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwszą cyfrę wybieramy na 3 sposoby, drugą na 2, a trzecią na 1. Razem 6 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.036205+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "734b731824ccd1f88cafb569d072e91dfcc1c5afa7496a85db437b9d7ad89cc0"
+  }
+}

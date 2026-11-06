@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c393155812e772be2d0ac5b71f7d5cad507b1cdd9c534f134d6c5537244b6b89",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Podziel klasę na trzy równe części: jedną stanowią dziewczynki, dwie chłopcy. Część liczy 24 : 3 = 8 osób i tyle wynosi różnica.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.044622+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6c4ffa94612c79e6def6857aa19c2edb6821481819052a77ec29a16164c40863"
+  }
+}

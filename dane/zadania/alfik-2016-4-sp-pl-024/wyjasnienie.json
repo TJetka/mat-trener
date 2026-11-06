@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "147cc86ebc0c0238b06791b6a5e11a374f48bb7c5d82b2e61898245e4909315c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy wiersze mają po tyle samo pionków, więc w każdym jest 21 : 3 = 7. W środkowym wierszu tylko środkowe pole jest czarne, zatem leży na nim 7 pionków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.038810+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "20a637f22d3c138137d2a4e11014e046baa88518c3f5c0ee06b20ae3df6fe844"
+  }
+}

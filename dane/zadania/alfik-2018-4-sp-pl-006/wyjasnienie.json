@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a5313ac8bc8879f59472a722fa9771fa72efebd0b3e6355a488e2cb3e887650f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cyfry mogą być zestawem 1,1,4 albo 1,2,2. Każdy zestaw daje 3 różne ustawienia: 114, 141, 411 oraz 122, 212, 221. Razem 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.046916+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6af2bbcd5af279990761661f21933594fa7ceff4a62c74f592694a08c4e260b1"
+  }
+}

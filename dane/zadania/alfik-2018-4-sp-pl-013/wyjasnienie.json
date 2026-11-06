@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6ed2adadcb4ee6ff94ebe786adce222d9d48aba2bb75c0e0adfab2105412b567",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczby kulek mają układ: czarnych x, białych x + 2, żółtych x + 4. Przemaluj 2 żółte na czarno; we wszystkich kolorach będzie x + 2 kulek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.048293+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e4706c31707fd3d9d4b9d1e68cb0a4904e79304c42f5e4ee9cc7be8b7586ccb9"
+  }
+}

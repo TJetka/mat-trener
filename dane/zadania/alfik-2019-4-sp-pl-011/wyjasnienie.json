@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "25e3e9d896d52cce77114a80674721213ca2110914ea29302083f83c97b57f95",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po przemalowaniu jest po 5 kulek każdego koloru. Zielonych przybyły 2, więc na początku były 5 − 2 = 3 zielone.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.053079+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4e27841d00959fe043c26fea618d305bd7d1fa00beb9a3683f73d279d765634a"
+  }
+}

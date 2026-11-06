@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "64822ac8aec170d2079ebb2d216b29ecb696fc5b89f884c8d0f5b2ad453d81fd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na białych polach stoi 26 czarnych i 6 białych pionków. Białych pionków jest łącznie 32, więc na czarnych polach stoi pozostałych 32 − 6 = 26.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.300544+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "44947ee77efa294b4042ada1a81e928733e3642a500a2c995011eb343d947eb6"
+  }
+}

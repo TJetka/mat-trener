@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "664925adcbcca46bb8c4f2ed0100b67642e47a69ba93a2c56a8db818a4a4958c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przy 15 chłopcach pozostaje 6 dziewczynek. Na jedną przypada 15 : 6 = 2,5 chłopca, czyli więcej niż 2 i mniej niż 3. Pozostałe podane liczby chłopców nie spełniają obu nierówności.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.048965+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "365184d040c3b5716f6697c6881cfdb6d71ced8d72051191ac9bc3ac01929086"
+  }
+}

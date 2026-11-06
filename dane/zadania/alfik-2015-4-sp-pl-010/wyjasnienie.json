@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ea3f874af10e512ab64fe05b3b9a32b7ec80852f2477ed2fa48c0d8c47d9665c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Siostra ma za starszych braci Staszka oraz jego dwóch starszych braci. Łącznie ma 3 starszych braci.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.298982+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6a2dce34b7e99b74209d2cd762f4424e20852019645ff89f690b03d19049773d"
+  }
+}

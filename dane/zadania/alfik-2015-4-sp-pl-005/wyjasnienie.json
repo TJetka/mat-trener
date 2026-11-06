@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "436520f31cfa802adc47c2c9e31542aefb08d02d791aec183fb50ef90864f8a0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Deszczowe są dni 2., 4., 6., 8. i 10. Jedenasty znowu jest słoneczny. Deszczowych dni jest 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.298046+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0092476178c38b188eb5198b5737c68d6d89d195f2b0f1ee51bd0030bcbe46be"
+  }
+}

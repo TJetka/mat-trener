@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0cb0e7950ab4fa8aa4a16fae7e5e6fd1a26cd6927ccbe4f6bc86fdf12224ba04",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsza wspólna wartość dla każdego nominału to 10 zł: 10 złotówek, 5 dwuzłotówek i 2 pięciozłotówki. Razem 17 monet. Kolejna taka porcja przekroczyłaby kilkanaście monet.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.061205+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6464aa97b8953e7fa2da32c2fb9e12d4517d440e87f7478e3f34d6f3a4ec27f9"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ee4be434d1577d176f2a88b7339aec7ef0e5cfe4651ad4e2b0b9a0f4f1a7fed7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Poza Kasią jest 21 osób. Podziel je w stosunku 2:1: przed nią stoi 14, za nią 7. Kasia jest piętnasta.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.036689+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4ae577095e51fec62f2c2870ad7abb1d53828c9092be9a58a913a3f4aa3571a3"
+  }
+}

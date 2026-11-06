@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "53d59cb81838cd873e938f983736d8b83d26214a6be7a8215a44ca881de69ca8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Możliwe liczby to 12, 21 i 30. Zapis 03 nie jest dwucyfrowy, więc są 3 liczby.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.051381+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "93bb1023a330cb43c65aa23aa81afcb5d474d31f06f24b58f666b35b6692c328"
+  }
+}

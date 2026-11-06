@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "75764bce033df53043818b1b135f2c58fdbea627315370e6a3d1afe16b86b7a8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pole kartonu to 42 cm², kartonika 6 cm², więc najwyżej 7 sztuk. Podziel bok 7 cm na pasy 3 + 2 + 2 cm; zmieszczą one odpowiednio 3, 2 i 2 kartoniki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.056110+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9af63c45a862367db4d9d0392d107ca817f23af549ef8e965296b06f774a5799"
+  }
+}

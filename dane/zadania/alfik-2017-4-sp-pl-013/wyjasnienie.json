@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8eb851243689320ceb25e32d2103cb39479dbcf5433d7811fb605916a177388f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W roku arkusza, 2017, pasuje rok urodzenia 2012. Wiek to 5 lat i suma cyfr 2 + 0 + 1 + 2 także wynosi 5. To mniej niż 7.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.042374+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8b3509239217caeb31228ae3a925e423b22a0a4087e6ec045db7c9bb6d155f70"
+  }
+}

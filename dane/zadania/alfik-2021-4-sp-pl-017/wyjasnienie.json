@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8e740fd774dbe21c0e3b61698baf303526f0309abfd2d26fbe7c3a755188322a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rozkład 110 = 2 · 5 · 11 daje sumę 2 + 5 + 11 = 18. Dzieci mają 2, 5 i 11 lat; najstarsze ma 11.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.059150+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ff52304a7c5626fc917d9b91e6147cf488fb095fd6f542d7de5257346623e097"
+  }
+}

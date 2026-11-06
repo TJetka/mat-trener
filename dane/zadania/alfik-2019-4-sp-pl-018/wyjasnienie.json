@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1d59ee5cad67d3063b1680ebae7b2af99ff639f5ca260e1613e57cc58490849b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najpierw możemy wyjąć wszystkie 4 czerwone i 5 niebieskich. Dopiero dziesiąta kulka gwarantuje zieloną, a więc wszystkie trzy kolory.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.054258+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "768353745329a13d88122243ff92fdf9098d9992e48a99a1bbc29b1699f99f70"
+  }
+}

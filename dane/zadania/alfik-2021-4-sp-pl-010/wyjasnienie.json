@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6b3c37355586b8d08e7f539f4ccfa93f9f0521df6dca79093aa557a027d9d2d1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Niedziele mogą wypaść 1., 8., 15., 22. i 29. dnia miesiąca. Na szóstą potrzeba byłoby 36 dni, więc najwyżej jest ich 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.058089+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "be6837c7cdb020d9c75e582414b976d08656d33ca114fc378531b8421303ef6a"
+  }
+}

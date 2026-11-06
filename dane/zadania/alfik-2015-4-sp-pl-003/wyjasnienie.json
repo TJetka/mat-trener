@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "48f15dcc26920e44fc91b004331d9628a5d3f9a3957e0e6f4e94e8c1f7cc7bdb",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każde przecięcie zwiększa liczbę części o 1. Z jednego sznurka otrzymamy pięć części po 4 przecięciach.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.297740+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7a107bb0c2eebad6c89990ee266bd730448c667e82f093c01c8eb33146c0a217"
+  }
+}

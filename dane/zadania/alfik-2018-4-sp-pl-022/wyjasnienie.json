@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f6506479020f877466e4b712c5ba9ccd81e56c1623ea8dfc56091c5b151ca9bc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od dwóch lat temu do za rok mijają 3 lata. Trzej bracia zyskają łącznie 9 lat, a dwie siostry 6. Bracia będą starsi łącznie o 3 lata.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.049827+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b46bc11d4954db1400e01794188597ac8f39d623cc7f1ace6b2e461d25fbb9e1"
+  }
+}

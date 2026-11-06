@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4d830782b8fc3ec765119a5c2dfa9d70ff734db0bfa0f7dfd5b94b2eaa2e0e82",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczba uczniów maleje kolejno: 19, 16, 13, 10, 7, 4. To szóste spotkanie, pięć tygodni po 3 września, czyli 8 października.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.052943+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e048bcebd1f364b1f3bc5a1272446e31340af6771eef606d20f1b0828517e261"
+  }
+}

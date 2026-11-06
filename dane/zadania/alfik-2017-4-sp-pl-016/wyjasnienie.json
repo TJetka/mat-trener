@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "bd2a0cd56b07344639ab9116ed1453e64fe0a3f46b0d6896f3fe91370f4ea9b0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Płacimy za pięć rozpoczętych godzin: 0 + 3 + 5 + 5 + 5 = 18 zł. Ostatnie pół godziny liczy się jako rozpoczęta piąta godzina.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.042996+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "eed6a2868ae91ed342670f26cee0a884cec090605e8b56ab971d65b37bf65e68"
+  }
+}

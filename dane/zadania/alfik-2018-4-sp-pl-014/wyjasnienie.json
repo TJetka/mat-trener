@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cffcfbd598fb243182e7e8c561105ca12024d23dc3d9dd58577e466d128e86b7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Środki małych kwadratów tworzą układ 3×3: czarne są cztery rogi i środek, a pozostałe cztery pola białe. Białych środków jest 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.048506+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f44bc915878096c14647a0a82a7a11db5ff2c4b16134cb1d74806292602e07f1"
+  }
+}

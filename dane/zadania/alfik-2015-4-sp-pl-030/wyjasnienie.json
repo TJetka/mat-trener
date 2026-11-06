@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "67edb3a266e4358fdefc7d21eefbd1ec8ceb080a6c076a0bd1504e13fb94875d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują 3 żółte, 2 białe i 2 zielone kulki, razem 7. Po dodaniu żółtej jest 4 z 8; po dodaniu trzech białych jest 5 z 10; tak samo z zielonymi. W każdym przypadku otrzymujemy połowę.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.302927+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2f36d1dca97d413f9ad0341be8d49b3ff3931fe80f8ba0b11ff66ff030265031"
+  }
+}

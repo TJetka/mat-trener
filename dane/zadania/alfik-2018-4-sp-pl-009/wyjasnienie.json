@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0a4061f6993236c250d1ce4797a0b233ef8bb532ffbfa1318403d7af29d5479c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa kwadraty 2×2 ustaw obok siebie, a dołóż z boku dwa kwadraty 1×1 jeden nad drugim. Powstaje prostokąt 2×5 cm, więc dłuższy bok ma 5 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.047561+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "832f5374fcd3e8b324f6fb5d218a94f34df4038532a4bc2afb9b07942ab70506"
+  }
+}

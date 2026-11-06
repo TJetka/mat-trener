@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c9ef8a7fb1508b6c41d7cf638f4c670fd4f121950a94894e49f3e24c4c638b6e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wskazówka mija kolejno 10 → 11 → 12 → 1. To trzy odstępy po 5 minut, czyli 15 minut.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.046383+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "19ee2189e1cec7adf6a226e7d38822090f2de6fc38feb026f9eeb94620993a9e"
+  }
+}

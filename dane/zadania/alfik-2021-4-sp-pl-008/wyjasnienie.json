@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a6b90a2283ec683c59b9740c3141d6de2a952877ae45b7caf7b158f04e611b3e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od południa do północy jest 12 godzin. Połowa tego czasu to 6 godzin, więc jest 18:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.057780+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "892d965ddb9e4d6cc93f294e12df09ed55485b3a3ddf6ab125624ae339d3ce0d"
+  }
+}

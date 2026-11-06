@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6c3451f5b0dd4ff3c16daa292984432135cead14957ee6f518fa766aae0dbab3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Duże butelki mieszczą 12 · 1,5 = 18 litrów, a małe 6 · 0,25 = 1,5 litra. Stosunek wynosi 18 : 1,5 = 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.042569+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b5a956f30728097f69ff55ded9027d1929dc94a2d09f76f5608754880e025da1"
+  }
+}

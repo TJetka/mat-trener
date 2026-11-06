@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "27074b5fcef320bb3f6bf0039f90c2ed920e0479d083da5cee9466f64db4e1c8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczby dwuzłotówek, pięciozłotówek i złotówek są w stosunku 1:2:4. Siedem części to 14 monet, więc monet jest odpowiednio 2, 4 i 8. Ich wartość to 4 + 20 + 8 = 32 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.043705+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "020836e542e8de734c79987faf8bae72f2282209ec6509f070c6ae0edd4dec53"
+  }
+}

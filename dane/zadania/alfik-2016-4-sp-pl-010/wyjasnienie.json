@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6915ae2a62bac87914dc79c12dcf3d6379726da076a5060962addac6d897000a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Prawe górne rogi małych szachownic leżą w wierszach 1, 4, 7 i kolumnach 3, 6, 9. Ich kolory układają się jak szachownica 3×3 z czarnymi rogami, więc 5 z nich jest czarnych.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.036347+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "92e72eb7092b9aa416aafcf8b26a87b5b3734027c30aea85a3c17092f0b28e7f"
+  }
+}

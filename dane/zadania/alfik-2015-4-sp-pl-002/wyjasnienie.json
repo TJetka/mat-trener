@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9c2a3440c8768e8af22885351bfd0640dbae27ddd76eef5db432503237aa4f55",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "31 dni mają: styczeń, marzec, maj, lipiec, sierpień, październik i grudzień. To 7 miesięcy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.297491+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "16724c21ad7cfab3e7235b084cfbec809e5fb573b04b4ca7b3595ea43b82fd51"
+  }
+}

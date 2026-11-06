@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "68eeeb00d5dc3930b5874b7f923e02fd0834c585ae7df47a6107e99f61f72ac9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Użyj 5 + 5 + 5 + 2 + 2 = 19 zł, czyli pięciu monet. Cztery monety dają najwyżej 20 zł, a zamiana jednej pięciozłotówki na mniejszą monetę obniża tę sumę co najmniej o 3 zł, więc 19 zł nie uzyskamy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.056866+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d0b46d68d4f1f685e04664123dd818e4e58a67a89f70d608b2c1a9bc009a4d8f"
+  }
+}

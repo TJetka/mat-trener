@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1fc348bce56bf05c1421f420f11c71d686d010a5ce431dce1e37a9d95d41168e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Milion zapisujemy 1 000 000: jedynka i sześć zer. To liczba siedmiocyfrowa.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.040449+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "54110a8ff6f3721497e6103740eb1d581c540b4e3d25b5aec9753d6537dca065"
+  }
+}

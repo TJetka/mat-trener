@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8aa37eab0744f5552d8e84ecdaafb18a25fefadf6012700f632edcbe0f273842",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Użyj roku arkusza, 2019. Dla roku urodzenia 2013 wiek wynosi 2019 − 2013 = 6, a suma cyfr 2 + 0 + 1 + 3 = 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.053935+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e957cd42556e0775d9720fb587f784af48242c2e4b6aa55c9035fdcd9288fcf4"
+  }
+}

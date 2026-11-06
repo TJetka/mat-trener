@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4d65f94c0302886e324d6da0dee815b158f3e57cb19d445798f0002ab4a68a9d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szachownica 3×3 z czarnym rogiem ma cztery czarne rogi i czarny środek. To 5 czarnych pól.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.035938+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c84b29754e2c15dd4fe412afad20925f170e351ec9326830a9ba64b27002503a"
+  }
+}

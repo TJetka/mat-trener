@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cb39f3a3e5cbab327f49a1389bbcf76500ca1cb38081628896dad066c448ee77",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują lata 1891 i 1909: te same cyfry w innym układzie, a pierwszy należy do XIX wieku, drugi do XX. Budowa trwała 1909 − 1891 = 18 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.299477+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4bf4e64a8726cac96b0ee4a8c67c8fcc78fa7e0d279be3f9e0967c75ce58cb7a"
+  }
+}

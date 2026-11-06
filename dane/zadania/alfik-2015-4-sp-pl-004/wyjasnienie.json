@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ed550edc0b4030110c2b7883a2a0a78fb1125ba7d329bb1a195704542aeb41f2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od 5 do 10 jest pięć odstępów na tarczy. Minutowa pokonuje każdy w 5 minut, więc potrzebuje 25 minut.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.297904+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "59c78d2420ebf055550dc993fde3e6cd2816303f934cf248bdf9cb58e5f97614"
+  }
+}

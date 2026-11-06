@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6c4875a10f63c05488b6ccd226ad258e428612995c6ed28d00eb0d1ccaf5b4e1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują liczby 14, 23, 32, 41. Liczba 50 odpada, bo zawiera zero. Są cztery możliwości.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.046155+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "eb4fc4d2b6b4df85fdda4a9ab7b8781bed4198a62378713ed00a5edf50f6d272"
+  }
+}

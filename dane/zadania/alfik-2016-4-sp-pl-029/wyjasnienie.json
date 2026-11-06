@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f1cf9c162bc9ba2415a4fc2982ccd9c1445860d91941ad0ec62fc418e3cdf6ab",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa ruchy mogą odwrócić najwyżej 10 monet. Trzy wystarczą: wybierz jedną wspólną monetę i odwracaj ją w każdym ruchu wraz z czterema jeszcze nietkniętymi monetami. Wspólna zmieni stronę 3 razy, pozostałe 12 po razie.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.039840+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fe09fb90b9af45db90aae1907ce010e52c7d532d8c38826fe7c809347694ef42"
+  }
+}

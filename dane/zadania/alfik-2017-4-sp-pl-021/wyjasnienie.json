@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "587d382ed4f96ae224b6d7d60bcf10e6570f33b30f1ea068080019439ac8aedc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Różnica wieku zawsze wynosi 4 lata. Rok temu Bartek miał dwa razy tyle lat co Beata, więc mieli 8 i 4 lata. Dzisiaj Bartek ma 9 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.044053+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ec5d4f58c23706b7acf1e7bcb848b6b4909ff70e3b4870fca102dbdfcb64bf85"
+  }
+}

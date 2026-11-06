@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b40e819e9d3346ff59e57d64f6a248c24f238808efcf6bf27f5f61c5f5a53c21",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują 3 pięciozłotówki i 6 dwuzłotówek. Są warte 15 zł i 12 zł, czyli różnią się o 3 zł. Razem Jacek ma 27 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.036916+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "85ba8dba9f9be576b30e28d31335006fec3c051963e35897d7ba3fb49f156251"
+  }
+}

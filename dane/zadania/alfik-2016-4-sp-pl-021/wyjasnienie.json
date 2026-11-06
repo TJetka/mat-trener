@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c308e58beef7a4db0d75834b694bff5020dc02dcee491533d8cf2fbb32f21510",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy osoby zyskują łącznie 3 lata w ciągu roku. Do setki brakuje 100 − 82 = 18 lat, więc potrzeba 18 : 3 = 6 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.038219+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "52ef995ba722bebad08b43e7a9aed081f8ab89d3b8f0185a5e54df4c9be4eeec"
+  }
+}

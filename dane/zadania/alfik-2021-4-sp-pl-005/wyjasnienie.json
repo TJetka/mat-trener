@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "20ca4e8d77560c1b95b9f165ada19d8e3de4f86ce7a4887bc8eaca214c10dcf6",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy miliony trzy zapisujemy jako 3 000 003. Między trójkami jest 5 zer.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.057327+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "592b771341f85bc9366ee8696749adff9b67ea3ebecd13cc6950e487de5dcd1f"
+  }
+}

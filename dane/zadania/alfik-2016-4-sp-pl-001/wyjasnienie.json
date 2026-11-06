@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0d85aed70fd5abccb4bf19efe88b350f60e4a852cb3c4babfa39aa7ecb812fa7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od chwili sprzed trzech lat do przyszłego roku mijają 4 lata. Beata skończy 5 + 4 = 9 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.034756+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "850122b336b06b0a2416d14fdb529b713aff9b4983162d815f25121e370860fb"
+  }
+}

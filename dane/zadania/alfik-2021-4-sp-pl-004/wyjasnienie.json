@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f449df1cb85f7e6bc193d0b6a5ee3c529b4aded6c72a3b2d7ffcd57b66f0ee19",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wypisz wszystkie możliwości: 13, 22, 31, 40. Zapis 04 nie jest liczbą dwucyfrową, więc są 4 liczby.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.057181+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0fa075f0308ce5234e707bb5216e378c4812d1058d0b49e1ad2ffd098ff455c8"
+  }
+}

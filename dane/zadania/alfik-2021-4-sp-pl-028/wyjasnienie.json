@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "68febb115f253284830eb2f12c64ba890b1978f1dc6e923808832595c72b16e7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Odejmij pół cegły od całej cegły. Pozostała połowa waży 2 kg, więc cała cegła waży 4 kg.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.061055+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3aea33f5022431e83b5b10d921e2afb5d74897a68f94942afbc3051d8668412a"
+  }
+}

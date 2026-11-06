@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e9f45c050676e597532c42cb4b1d355de66f11007173d5cbe1396edf0dc7ee7f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwie siostry dostają 14 cukierków. Pozostałe 16 wystarcza dla 4 chłopców po 4 cukierki. Jednym z nich jest Jacek, więc ma 3 braci.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.060333+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9d359058901eecfad375c57ac930e2f2a67daf22554fad152268189a58d570ef"
+  }
+}

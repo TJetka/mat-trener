@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7f3408bf0d154872c59c6cdc0ad241e5153e7b2b202dd9bf4a60d90ad28bbe39",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cała trasa składa się z 3 przebytych części i 1 pozostałej. Jedna część ma 140 : 4 = 35 km. Tyle zostało do Łodzi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.051089+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "aeeda676cf494a87d9c455030f88e4fa83e6da2222f7be8b578516464feb6edd"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8a2f2ced674ef5ab9241422bb138f89b14602e92511737ffc16d9c69b158c187",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przez trzy lata bracia zyskają łącznie 9 lat, mama 3. Ich łączny wiek nadrobi 6 lat: z niedoboru 3 przejdzie do przewagi 3 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.300688+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b367975cb8c0d071bf4c9c7506725fc06d7d0d4b0798f058e8513a4f28dd90f1"
+  }
+}

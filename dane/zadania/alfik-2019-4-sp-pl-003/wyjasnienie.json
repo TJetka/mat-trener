@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "00061b428766f49e3b5cb6d6ebdb1546e470bffc879274027c78ac792d09f1f8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rok ma 12 miesięcy, więc 15 lat spłacania co miesiąc oznacza 15 · 12 = 180 rat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.051717+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "38a9e9fa735c7c40d4836f3c71235e830b087c6c1bcf372f5a10b208879a7071"
+  }
+}

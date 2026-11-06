@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "37b566d59594120d2811432407f74900a97daabbf1496cc9b022cf0318fed8a8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery banknoty po 50 zł zostawiłyby 30 zł, których nie da się wypłacić dwudziestkami. Weź 3 · 50 + 4 · 20 = 230 zł. To 7 banknotów i najwięcej możliwych pięćdziesiątek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.051566+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2ef2b1ff52a687a3dbbd7966c10b328ba4ebe8ed78bbd718428f89bb47315028"
+  }
+}

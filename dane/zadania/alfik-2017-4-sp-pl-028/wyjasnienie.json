@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9017463dda9765e3ccca0d18f30c5b977cefef13ad4a4d43cfc81edf3631f5ed",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jedności muszą być o 1 większe od dziesiątek. Pasują 12, 23, 34, 45, 56, 67, 78, 89 — osiem liczb, więc więcej niż 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.045113+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "61f566ec11277401f823adb953fa95f3e9a42039e226057b08cf57e1164086b1"
+  }
+}

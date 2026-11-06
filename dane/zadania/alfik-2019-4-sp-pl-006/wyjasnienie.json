@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "bef2bfdd63446cd5d25073a49e0fcf06b7c78c5882d705da0361bc169b59da7e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W kolejnych wierszach jest 3, 2, 3, 2 i 3 białe pola. Razem 13; na szachownicy o nieparzystym boku kolor rogów ma jedno pole przewagi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.052131+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "603785035c93c70a35455e8d54efee8edfef78d4362924c62fc2f24895664d97"
+  }
+}

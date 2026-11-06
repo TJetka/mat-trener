@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "49ef65ebe0d01db3c8383b0f1cfd27cbd111b4357656b9a4f4af420e6c4d6818",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od tamtej godziny do chwili za pięć kwadransów upłynie 10 kwadransów, czyli 2 godziny 30 minut. Dodaj je do 2:45: otrzymasz 5:15.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.298788+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f7e5a55896400db11a851e54aea7b34c12c7bb31095c9d2d506684b63e80d324"
+  }
+}

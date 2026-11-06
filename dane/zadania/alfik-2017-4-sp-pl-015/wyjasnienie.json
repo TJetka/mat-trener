@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6d1bb201abc99300bbebdd3d70c8197c8cd3a9591fddea0bc695f66e51707d2a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Lalka kosztowała połowę tego, co wózek, a wózek połowę tego, co hulajnoga. Cofając się: lalka 30 zł, wózek 60 zł, hulajnoga 120 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.042769+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6837823a1c0aa606b19b8c299f733355e78e61b43af509688f8582d5dad75ff7"
+  }
+}

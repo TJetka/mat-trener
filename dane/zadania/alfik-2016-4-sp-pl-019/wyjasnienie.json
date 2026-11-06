@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8587638b7a7af6770ad3a1d5faceb4620ea8db8eda60fed16b737a9aad00027e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po ostatnim piątku może zostać najwyżej 6 dni roku. Najwcześniej wypadnie więc 31 − 6 = 25 grudnia. Piątek 24 grudnia nie byłby ostatni, bo kolejny byłby 31 grudnia.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.037956+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5b98a2be381999607f02d720ef4be882b52a86a364adf94b153d6f1eb8f3b61f"
+  }
+}

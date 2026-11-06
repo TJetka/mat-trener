@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a85f7b08b7915c160cd009777f83e1919c54e2c4f60686ff764f1d1e88358403",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Numery 1–9 to 9 cyfr, numery 10–99 to 90 · 2 = 180 cyfr, a numer 100 to 3 cyfry. Razem 9 + 180 + 3 = 192.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.058686+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f7b042f2abde69e501a2d885db399e4d8ae44415d6f68c904a84cf0fb06e04fc"
+  }
+}

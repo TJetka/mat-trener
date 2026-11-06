@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f15950482c0f805ac07d979208be1e90a194292f71bc0a78716cc451e83d2e60",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa pokoje siedmioosobowe i pięć czteroosobowych dają 14 + 20 = 34 miejsca. Łącznie jest 7 pokoi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.044202+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "862af7948c71409345ab6bd9707e735f6ecccf4820893ca6f6ae4977cf835a47"
+  }
+}

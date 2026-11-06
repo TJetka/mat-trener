@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b5b39c9084c3a167d1b2940937f1fa5d94eba1432494287d87f17e36585e0bb2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jeśli każdy chłopiec dostał 6 piątek, chłopcy zdobyli 18. Zostaje 32 − 18 = 14 piątek, po 2 dla każdej z 7 dziewczynek. Pozostałe odpowiedzi nie dają całkowitej liczby piątek dla dziewczynek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.054092+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b00cb04e226638caad6cc62b1f76a587fc2c6101ca75248d368737d76cc5e130"
+  }
+}

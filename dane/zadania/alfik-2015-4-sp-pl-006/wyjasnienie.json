@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "adaa0f0ef08809478fe6e39627b75f287b2fd509548cab66d55a95396a93ae25",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sześć stóp to 6 · 12 = 72 cale. Z 80 cali zostaje 8, więc belka ma 6 stóp i 8 cali.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.298200+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7e5ff8c377897e905ffa0df5b31dabb9e95222bd5cbea36ac5eee1de8cdfdb1c"
+  }
+}

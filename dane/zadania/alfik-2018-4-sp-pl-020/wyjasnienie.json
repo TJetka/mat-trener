@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7069a082371072355178e1f9d86c260b2e794874ddbb445280b12c4c275671e3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Różnica między półtora worka a połową worka to dokładnie jeden worek. Waży więc 15 kg.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.049535+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "44ce27529495d154a2c193ee488ec68d77a6669eb2b8e52faabef22c347b22e9"
+  }
+}

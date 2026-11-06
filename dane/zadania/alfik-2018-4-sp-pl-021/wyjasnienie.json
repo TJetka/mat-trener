@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ac1b624bb33da3ec29f4a9f0d3556be1c598d55b6950a727b510a50e23875fb9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na każdą pięciozłotówkę o wartości 5 zł muszą przypadać dwuzłotówki warte dwa razy tyle, czyli 10 zł. To 5 dwuzłotówek, więc jest ich pięć razy więcej.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.049676+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c503630088e568ed35bb2d7b09d0ac9cf848cc9466cab8db39fc57a186dc4859"
+  }
+}

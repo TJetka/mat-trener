@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8709ee7fca114bf307ca8a0bb6d2bc92df5c7478cd4437e8127c052681b39459",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dodaj oba zakupy: cztery długopisy i cztery ołówki kosztują 11 + 17 = 28 zł. Jedna para kosztuje 28 : 4 = 7 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.044480+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "44f48d41517658b3e22c9f4f764ea049db679dbc8e2df2a3165b53bd6f2e95fc"
+  }
+}

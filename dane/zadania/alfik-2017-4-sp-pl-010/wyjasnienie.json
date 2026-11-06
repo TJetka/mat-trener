@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4a3e107f685f25b0dff3bd0057fab894279c12c3f7f26e4f8c82e220bbac4617",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsza liczba trzycyfrowa to 100, największa dwucyfrowa 99. Różnica wynosi 1.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.041742+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "88cb750e12b05fe1944a53e0133c11cf52256e1745bfa8ad27aa332fd070b80c"
+  }
+}

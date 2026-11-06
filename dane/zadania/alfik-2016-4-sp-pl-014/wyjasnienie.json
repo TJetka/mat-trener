@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "efd7a6e02a8a54b996daf0259de62bde559e8f04b7d7a5bb7644ba12f6137983",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "32 kartki to 64 strony. Cyfra 6 występuje jako jedności w 6, 16, 26, 36, 46, 56 — sześć razy — i jako dziesiątki w 60–64 — pięć razy. Razem 11.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.037136+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "be742a12a3d940f738a2d66af6cbd6c8a8ddd1afb6be99de195af2f52b214d02"
+  }
+}

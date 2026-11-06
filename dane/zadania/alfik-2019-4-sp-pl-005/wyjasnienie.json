@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5db61d05a76806830c2b3789b34e2f708fdaabb7732c7be1d3cdc2421c452ead",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pięć największych pokoi mieści najwyżej 15 osób. Sześć wystarczy, np. cztery trzyosobowe i dwa dwuosobowe: 12 + 4 = 16 miejsc.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.051996+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d934a1765f15783481c5eb451ebd3a66f72cafe8a3513ecbadbc79bd5aa31d55"
+  }
+}

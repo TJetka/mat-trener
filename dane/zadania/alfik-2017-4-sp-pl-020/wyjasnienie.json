@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f01295ae93d5ab69393e572f006f3ebda215e69b6b2c1ae94203e7873b77a3c3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Teraz zegarek Maćka pokazuje 10:42. Prawdziwy czas to 10:39, a zegarek Jacka pokazuje jeszcze 2 minuty mniej: 10:37.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.043911+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "28d4d7a9c975e10a893572159598b6b517cb0af82326b488bbe68e73afe02c57"
+  }
+}

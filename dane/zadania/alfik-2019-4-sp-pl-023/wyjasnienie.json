@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8c2f97035cee5f30e072e5b2ce67ef600e1383100fc1bb069fc9abb6b8c9e79b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jeśli Bartek ma 3 lata, ma 36 miesięcy, a tata 36 lat. Różnica wieku wynosi 36 − 3 = 33 lata, zgodnie z treścią.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.055173+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6970946bcaad81f157dc73faa8842a2c3ccc6b25e4d9b26a9e28d2293f4962f1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "096e5ee3ddb464d4548a706d5b165def979318075c5e18280893cf953ba00ded",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rok ma około 52 tygodni. Sto tygodni to prawie dwa lata, czyli około 104 tygodni.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.053435+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4b738ba09cec5e4095194ea06b432b0b1af7d264a1b6c0fff4cc28d18f1d067d"
+  }
+}

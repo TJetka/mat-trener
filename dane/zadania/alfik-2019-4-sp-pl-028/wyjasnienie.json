@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4c265228d607e1bb7b052874f144ea15a2893251345fc83b79a82114b6c1e632",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Można wyrzucić 4, 4 i 6, uzyskując 96. Liczby 97, 98 i 99 wymagają w rozkładzie czynników większych niż dopuszczają kostki: odpowiednio 97, 7 i 11.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.055955+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f9583155c2b542b4bf780fb9677fa80c5accfeaaf7b653785d655d8234427f07"
+  }
+}

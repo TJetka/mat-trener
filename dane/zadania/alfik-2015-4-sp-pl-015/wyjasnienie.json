@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "794e248ab7a051368db2b4223a38de96127a89881795eadae37a0737d35169d8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Urodziny wypadają co 12 miesięcy. Po 100. miesiącu najbliższa wielokrotność 12 to 108. Pozostało 8 miesięcy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.300092+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "34fb8bdde4c0e650c1b020d07153468977b02e8b72a7efc8001a9db15c329d29"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "702cbc45c5882f9e5c7eb2f21b8ba0f8353a2d333ba78c3635a342943ce74341",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dziewięciolatków jest 8 + 4 = 12, więc cała klasa liczy 24 osoby. Dziewczynki stanowią jedną trzecią, czyli 8 osób. Wszystkie osiem to dziewięciolatki, więc dziesięcioletnich dziewczynek jest 0.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:39:09.302492+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b1a907317122946e29efe3cabb9fb3e233371b1fe5c06eab21bda39c70281ac3"
+  }
+}

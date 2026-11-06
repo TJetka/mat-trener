@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "99d585bd1b7ae50f76d9c36116d6a82150920dd1d3377f883ace9d47e421c956",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zajęcia trwają 5 godzin. Minęła jedna z czterech równych części, czyli 1 godzina 15 minut. Jest 9:15, a minutowa wskazuje 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.038352+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b2e7eca830db3e9180c6f7606b6cbf5e674d72e8235ec411961435113ab4b7cb"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "182e6a567386ee350ceb83d4bfb47925b6621d632fd159127329305d6b57d4de",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa ostatnie treningi dzieliły 2 dni, więc odbyły się w środę i piątek. Trzy dni po piątku jest poniedziałek. Następny trening, w środę, będzie za 2 dni.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.047916+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b38e36d28accc24ab8a516c886f5b55419597971533582329fb08be2938fa246"
+  }
+}

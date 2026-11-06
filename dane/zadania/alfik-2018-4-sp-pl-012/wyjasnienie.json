@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "43a3d12e52bb21c02a576b341484494e8767e494651c3eba3c018fd4f175d80e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po zamianie cyfr liczba rośnie o 9, więc jedności są o 1 większe od dziesiątek. Przy sumie 9 cyfry to 4 i 5: 45 zamienia się w 54. Cyfra dziesiątek to 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.048071+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3aade73e24b1784afd346685ebfc69d7cbebd6b55fe0fb354317706362e398d0"
+  }
+}

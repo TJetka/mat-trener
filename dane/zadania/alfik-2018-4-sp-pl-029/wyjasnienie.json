@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c71875ba614a03019cbdd597dafbedd2cc616699378d68f162793c174ac1bf78",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Taki miesiąc ma 29 dni, czyli to luty roku przestępnego. Poprzedni styczeń ma 31 dni. Cofając się od soboty o 31 dni, otrzymujemy środę.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.050963+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5f06b04ebaf7927bd12fee5499234146a5c55dfaced4d214c70180f2f709c012"
+  }
+}

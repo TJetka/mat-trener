@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "224b6afff36cd0a2952f8e9bb48f4c60efc4b4cb600a623f2345b19318ae467e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzeba dołożyć tyle piątek, by łączna liczba kamyków dzieliła się przez 4. Najmniej to 3 dołożenia: 21 + 15 = 36. Potem 9 razy zabieramy po 4. Razem 3 + 9 = 12 ruchów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.055038+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f0e25618ee507e9c0a1f93842e0206ccde2f7a2ab8f20278bf7291b5adc7c18d"
+  }
+}

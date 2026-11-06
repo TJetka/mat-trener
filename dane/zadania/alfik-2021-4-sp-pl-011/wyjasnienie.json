@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "80a486a766611d013b0084cb78d89f365980e8759f0dbaefb81f16c958b785d4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Teraz zegarek Bartka wskazuje 14:12, czyli prawdziwy czas to 14:07. Zegarek Zosi jest 3 minuty z tyłu, więc pokazuje 14:04.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.058238+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f1aebe489f3d00f4ec63754632083679dac5726d69c92693f85f528b9d776257"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1e21cc1b6d7ed6bf113763d79ab93148a6a166e34e6354f97639df71a3acd3ee",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każdy z 7 graczy gra z 6 innymi, ale w rachunku 7 · 6 każda partia jest policzona dwa razy. Partii jest 42 : 2 = 21.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.039619+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ee83e9130ec5473909302155a20ce0523ed2bb5b75253d54e47f55780f1c4a94"
+  }
+}

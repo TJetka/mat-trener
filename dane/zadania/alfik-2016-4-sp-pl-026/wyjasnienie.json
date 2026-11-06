@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "131c7c710c2ba6397342b7238efdd7f8a97531fcfa11ad72060e3bdbdc93a602",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przenieś jedno oczko ze ściany z 3 na ścianę z 1: powstaną trzy ściany z 2 oczkami. Drugie przenieś z 6 na 4: powstaną trzy ściany z 5 oczkami. W każdej trójce każda ściana ma sąsiada. Jeden ruch pozostawiłby ściany bez równego sąsiada.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.039193+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "36f1e3b125e54ad2a70042e53c0de10b4d6e777bfb5f8f4e457b819ba8bc1ace"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "09be0bcd10c697c0cc00a1b376214f94c8c0e650528f739bd5a7eb1137a49970",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cyfry 2 i 2 spełniają 2 + 2 = 2 · 2 = 4. Warunek dla cyfr a, b można zapisać (a − 1) · (b − 1) = 1, więc to jedyna możliwość. Suma jest mniejsza niż 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.061340+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1fdd2756fdc25a3ef2e0dda6f90798a1fe3617dd0eaa50558468d0e67af2f974"
+  }
+}

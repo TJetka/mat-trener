@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "25cfcc971339ec7ce5ddcdc2589f65d551c67b39eca05f6d76a1ff54fb131486",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od wspomnianego południa do chwili za 20 godzin minie 40 godzin. To doba i 16 godzin, a 12:00 + 16 godzin daje 4:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.040751+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ea6427d042c47d2bdbd5c7ff737f677b0e2612803d58f2db554e3cf1b98aba9b"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "214858bd032e0d76bca9c21b1903e27b840ea7d9b5deb52860c0fe976e8a082c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przy cenie 50 gr pięć ołówków kosztuje 2,50 zł: monety 2 zł i 50 gr. Cztery kosztują 2 zł: dwie złotówki. Oba zakupy da się opłacić dokładnie dwiema monetami.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.036504+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d495ee0b636be0e26879e8c79ebee5cce7dd98b87871a58188408e603f8aaa53"
+  }
+}

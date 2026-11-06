@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "142af3af4076d0cff21af886ee63990d34bd23c2c12b8c8ccd7688b9bd6ae67f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wypisz liczby o sumie cyfr 1 lub 2: 100, 101, 110, 200. Są cztery; setki nie mogą być zerem.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:38:21.041049+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "22d0943d6d7457f0ffb7ae81b9da012577a083cf705c3ea17a15212ac0a2e378"
+  }
+}
