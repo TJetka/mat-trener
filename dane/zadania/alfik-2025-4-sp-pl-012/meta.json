@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2025-4-sp-pl-012",
+  "id_edycji": "alfik-2025-4-sp-pl",
+  "numer": 12,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "zamiana-jednostek",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2025-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2025-4-sp-pl-klucz",
+    "litera": "A",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 12",
+    "bbox": [
+      287.63116,
+      283.608607,
+      294.278264,
+      292.821603
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.101158+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "d25b27f340060946bffdb8f0700eac10d0348fae104eff965521ea0877357dd3"
+  }
+}

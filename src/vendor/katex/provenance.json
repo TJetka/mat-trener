@@ -1,0 +1,8 @@
+{
+  "package": "katex",
+  "version": "0.16.21",
+  "license": "MIT",
+  "origin": "Visual Studio Code, markdown-math extension, notebook-out",
+  "upstream": "https://github.com/KaTeX/KaTeX",
+  "sourceSha256": "5afec7f3a69465b399df31c1fab6b0199a3e5ee1fde509780fae28270b65ed1b"
+}

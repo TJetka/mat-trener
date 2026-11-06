@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-019",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 19,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "reszta-z-dzielenia",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 19",
+    "bbox": [
+      302.991435,
+      395.002876,
+      309.718498,
+      404.326883
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.087915+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "e52a0086133d1d58a5104b14decdb83960bf6e20d40d48d16d3ccd7d498506db"
+  }
+}

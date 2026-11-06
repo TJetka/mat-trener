@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-029",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 29,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "uklad-warunkow",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "A",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 29",
+    "bbox": [
+      302.991461,
+      521.242977,
+      309.718524,
+      530.566984
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.091538+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "3558a3e55ac7f8592df126b08e341378c03bf84f690b569a409582bfb8ecbec6"
+  }
+}

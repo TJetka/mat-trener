@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-026",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 26,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "wlasnosci-liczb",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 26",
+    "bbox": [
+      302.991454,
+      483.802947,
+      309.718518,
+      493.126955
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.090394+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "bac5ba28a6a107c427c077642a4797eee91fc373b8e5a8acb5f9442eb120a1af"
+  }
+}

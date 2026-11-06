@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2025-4-sp-pl-026",
+  "id_edycji": "alfik-2025-4-sp-pl",
+  "numer": 26,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "logika",
+  "tag": "uklad-warunkow",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2025-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2025-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 26",
+    "bbox": [
+      287.391434,
+      474.64853,
+      294.58665,
+      483.861526
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.107288+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "37f83a48c9f0511c58626f91afeb40c66058bbbace152ac28f2ae5171e222d3c"
+  }
+}

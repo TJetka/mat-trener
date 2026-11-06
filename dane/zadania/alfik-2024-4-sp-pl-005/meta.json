@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-005",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 5,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "mnozenie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 5",
+    "bbox": [
+      302.991242,
+      215.722733,
+      309.718306,
+      225.04674
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.083131+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "d1dd19b4642f71dee831125a855df7850125ed4e1823c7acc6d8b3c41e14a69f"
+  }
+}

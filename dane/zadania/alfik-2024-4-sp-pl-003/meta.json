@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-003",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 3,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "sumowanie",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 3",
+    "bbox": [
+      302.751434,
+      190.282712,
+      310.033203,
+      199.60672
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.082488+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "bf8c52ef63312ecdbcaa0e63bea0706f9f71a417f585c1784ad83957bbd947da"
+  }
+}

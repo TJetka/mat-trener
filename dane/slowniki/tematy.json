@@ -1,0 +1,106 @@
+{
+  "grupy": {
+    "liczby": {
+      "nazwa": "Liczby i działania",
+      "opis": "Obliczenia i własności liczb."
+    },
+    "geometria": {
+      "nazwa": "Geometria i wyobraźnia przestrzenna",
+      "opis": "Kształt, położenie i własności figur."
+    },
+    "logika": {
+      "nazwa": "Logika i zależności",
+      "opis": "Wnioskowanie z kilku warunków."
+    },
+    "kombinatoryka": {
+      "nazwa": "Kombinatoryka i wzorce",
+      "opis": "Zliczanie przypadków i rozpoznawanie wzorców."
+    },
+    "miary": {
+      "nazwa": "Miary i dane",
+      "opis": "Czas, pieniądze, jednostki i odczytywanie danych."
+    }
+  },
+  "tagi": {
+    "uplyw-czasu": {
+      "nazwa": "Upływ czasu",
+      "opis": "Oblicz różnicę lub przesunięcie czasu."
+    },
+    "minimum-maksimum": {
+      "nazwa": "Minimum i maksimum",
+      "opis": "Wskaż najmniejszą lub największą możliwą wartość."
+    },
+    "zamiana-jednostek": {
+      "nazwa": "Zamiana jednostek",
+      "opis": "Przelicz jednostki tej samej wielkości."
+    },
+    "wartosc-monet": {
+      "nazwa": "Wartość monet",
+      "opis": "Powiąż liczbę monet z ich łączną wartością."
+    },
+    "cykl-kalendarza": {
+      "nazwa": "Cykl kalendarza",
+      "opis": "Wykorzystaj powtarzalność dni i miesięcy."
+    },
+    "wlasnosci-liczb": {
+      "nazwa": "Własności liczb",
+      "opis": "Wykorzystaj cyfry, parzystość lub wielokrotności."
+    },
+    "rownowazenie": {
+      "nazwa": "Równoważenie",
+      "opis": "Porównaj dwie wielkości po zmianie."
+    },
+    "proporcja": {
+      "nazwa": "Proporcja",
+      "opis": "Przelicz wielkości przy stałym stosunku."
+    },
+    "uklad-warunkow": {
+      "nazwa": "Układ warunków",
+      "opis": "Połącz kilka zależności, aby ustalić niewiadome."
+    },
+    "podzial-figury": {
+      "nazwa": "Podział figury",
+      "opis": "Rozpoznaj skutki cięcia lub ułożenia figur."
+    },
+    "eliminacja-mozliwosci": {
+      "nazwa": "Eliminacja możliwości",
+      "opis": "Odrzuć przypadki niespełniające warunku."
+    },
+    "gwarancja-wyboru": {
+      "nazwa": "Gwarancja wyboru",
+      "opis": "Rozpatrz najmniej korzystny możliwy wybór."
+    },
+    "obwod": {
+      "nazwa": "Obwód",
+      "opis": "Powiąż długości boków z obwodem."
+    },
+    "sumowanie": {
+      "nazwa": "Sumowanie",
+      "opis": "Dodaj składniki z uwzględnieniem ich znaczenia."
+    },
+    "systematyczne-zliczanie": {
+      "nazwa": "Systematyczne zliczanie",
+      "opis": "Policz wszystkie przypadki bez powtórzeń."
+    },
+    "odwracanie-dzialan": {
+      "nazwa": "Odwracanie działań",
+      "opis": "Odtwórz wartość sprzed zmian."
+    },
+    "mnozenie": {
+      "nazwa": "Mnożenie",
+      "opis": "Oblicz iloczyn lub liczbę równych grup."
+    },
+    "odczyt-skali": {
+      "nazwa": "Odczyt skali",
+      "opis": "Odczytaj położenie lub wielkość na podziałce."
+    },
+    "obrot-figury": {
+      "nazwa": "Obrót figury",
+      "opis": "Rozpoznaj figurę po obrocie."
+    },
+    "reszta-z-dzielenia": {
+      "nazwa": "Reszta z dzielenia",
+      "opis": "Ustal resztę po podziale na równe grupy."
+    }
+  }
+}

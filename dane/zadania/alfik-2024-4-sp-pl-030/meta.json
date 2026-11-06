@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-030",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 30,
+  "punkty": 5,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "eliminacja-mozliwosci",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "B",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 30",
+    "bbox": [
+      302.991461,
+      533.722987,
+      309.718524,
+      543.046994
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.091889+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "8fb1102845a51dc71b8b6279a3218fde2aa7b862e2085a526360d37aa3443ef7"
+  }
+}

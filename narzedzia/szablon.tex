@@ -1,0 +1,11 @@
+% Compile with LuaLaTeX; run from the directory containing zadanie.tex and images.
+\documentclass[12pt]{article}
+\usepackage[polish]{babel}
+\usepackage{fontspec,amsmath,amssymb,graphicx}
+\usepackage[margin=2cm]{geometry}
+\newenvironment{tresc}{\par\noindent}{\par\medskip}
+\newenvironment{wariant}[1]{\par\noindent\textbf{#1)} }{\par\smallskip}
+\newcommand{\rysunek}[2]{\par\includegraphics[width=.6\linewidth,keepaspectratio]{#1}\par}
+\begin{document}
+\input{zadanie.tex}
+\end{document}

@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-020",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 20,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "liczby",
+  "tag": "wlasnosci-liczb",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "A",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 20",
+    "bbox": [
+      302.991242,
+      407.242886,
+      309.718306,
+      416.566893
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.088240+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "7be803b0bba41d8b7f1e60448e0f319194c2dc69f66888d6f0fbb1d298a62bc5"
+  }
+}

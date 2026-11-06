@@ -1,0 +1,25 @@
+{
+  "name": "mat-trener",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "importuj": "uv run python -m narzedzia.cli importuj",
+    "sprawdz:dane": "uv run python -m narzedzia.cli sprawdz",
+    "bank": "uv run python -m narzedzia.cli buduj",
+    "dev": "npm run bank && vite --host 127.0.0.1",
+    "test": "uv run pytest -q && node --test tests/unit/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "uv run ruff check narzedzia tests/python && uv run ruff format --check narzedzia tests/python",
+    "build": "npm run bank && npm run typecheck && node narzedzia/check-math.mjs && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test:e2e": "playwright test",
+    "release:check": "node narzedzia/release-check.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "typescript": "7.0.2",
+    "vite": "8.3.5"
+  }
+}

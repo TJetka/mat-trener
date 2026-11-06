@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2024-4-sp-pl-018",
+  "id_edycji": "alfik-2024-4-sp-pl",
+  "numer": 18,
+  "punkty": 4,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "cykl-kalendarza",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2024-4-sp-pl-arkusz",
+    "strony": [
+      2
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2024-4-sp-pl-klucz",
+    "litera": "E",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4SP, pole 18",
+    "bbox": [
+      302.991435,
+      382.522866,
+      309.718498,
+      391.846873
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.087584+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "6b9730ca0b1f254d565db1096a431d10b3cf7759cf83ea7b19e87d83c2d9f865"
+  }
+}

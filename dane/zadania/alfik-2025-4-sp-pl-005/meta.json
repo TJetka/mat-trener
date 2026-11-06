@@ -1,0 +1,34 @@
+{
+  "id": "alfik-2025-4-sp-pl-005",
+  "id_edycji": "alfik-2025-4-sp-pl",
+  "numer": 5,
+  "punkty": 3,
+  "latex": "zadanie.tex",
+  "grupa": "miary",
+  "tag": "cykl-kalendarza",
+  "stan": "zatwierdzone",
+  "tresc_zrodlo": {
+    "dokument": "alfik-2025-4-sp-pl-arkusz",
+    "strony": [
+      1
+    ]
+  },
+  "klucz": {
+    "dokument": "alfik-2025-4-sp-pl-klucz",
+    "litera": "C",
+    "strona": 1,
+    "pozycja": "sekcja klasa 4P, pole 5",
+    "bbox": [
+      287.391761,
+      187.128645,
+      294.586977,
+      196.341641
+    ]
+  },
+  "weryfikacja": {
+    "osoba": "Codex — source review",
+    "data": "2026-11-06T07:07:56.098107+00:00",
+    "uwagi": "2026-11-06: compared every question and A–E option with rendered paper pages 1–2, and every class-IV key row with key page 1. No question/option illustrations. Answers transcribed from key, not solved.",
+    "sha256": "c9d045027dfef194db0d7f17e075fdebf1af1af81ce0bc26f32289b48c7f9c7b"
+  }
+}
