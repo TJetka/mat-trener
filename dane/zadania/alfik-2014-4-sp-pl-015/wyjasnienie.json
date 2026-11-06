@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "219e806e7a11001f4f5b8db0349beb1622219a9b1d54a75f3d950f62def05863",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczby zielonych, czerwonych i żółtych czapek są w stosunku 1:2:6. Dziewięć części to 18 krasnali, więc jedna część to 2. Czerwone czapki nosi 4 krasnali.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.089342+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c29ca702b44b19c53533c2a0e8e2e63bf05d429e66719e45fea798658d641baf"
+  }
+}

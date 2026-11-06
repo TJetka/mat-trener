@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8e5f8f30629bf7ee7b3cf4e54afa8b4b396cf2bbf58350fc849eb0798fc92649",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Suma liczb na ścianach wynosi 45. Trzy pary przeciwległych ścian muszą mieć po 45 : 3 = 15. Naprzeciw 11 leży 15 − 11 = 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.082601+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "924f81c4c55e4321fd15572c3d8443ccd14adeb296441ffe3d5fcc05150b2fc9"
+  }
+}

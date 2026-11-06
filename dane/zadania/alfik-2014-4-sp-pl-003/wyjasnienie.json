@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6fbfe6974d52ffe4fc2c88c59db45e7889db74f042b6dc9b82163c51587a75d1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Łącznie jest 18 kulek, więc docelowo ma być po 9. Przemaluj 2 zielone na czerwone: 7 + 2 = 9 i 11 − 2 = 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.086961+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9a3115ed24fc15f0917dac61fea621623583e654cc6d33250e706149f29394c4"
+  }
+}

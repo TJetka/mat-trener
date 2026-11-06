@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "76d516c479e760d6d9338765f119a7539f084c14635a865af16b319f5af21854",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jabłek jest o 1 więcej niż gruszek. Pasują 4 jabłka i 3 gruszki: po dołożeniu gruszki jest po 4, a po zjedzeniu zostają 4 jabłka i 2 gruszki. Razem 7 owoców.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.074948+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ac9d1c603be8f87b9e8f206413d8cb35b18149ce83c932b97e1a5c972bd2e389"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c67e08c3c6cbb37c52ce957929115ebcdf9178811d3927d14ec83d442925cf7e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Długości są w stosunku 1:3:6. Razem to 10 części na 200 cm, po 20 cm każda. Najdłuższy kawałek ma 6 · 20 = 120 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.085118+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e4a43edcbd0e65fb5e62a6a16b8b174c59af034a24f7d4a664dfd89e17e228bb"
+  }
+}

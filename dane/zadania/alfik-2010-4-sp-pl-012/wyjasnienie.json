@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6f57c759f64999c5148097f5c4e29a847d01fa788b8d7514c89e0cf5d6dbde69",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Już liczby 10, 20, 30, 40, 50 mają iloczyn cyfr równy 0, mniejszy od 2. Takich liczb jest więcej niż 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.064393+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8038e3186c2b10f0376d09d55d6c90cac488835ebfd90ffca7460964e287a3d7"
+  }
+}

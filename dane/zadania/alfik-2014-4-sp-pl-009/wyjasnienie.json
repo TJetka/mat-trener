@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "760c84d98c75088dd5c43eec7430af296a7cc54cf39cedd551f2bbe5c6bb17e9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Użyj roku arkusza, 2014: oboje już się urodzili. Pasują lata 2001 i 2010, z tym samym zestawem cyfr. Różnica wynosi 2010 − 2001 = 9 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.088207+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c8a6d1bd0dee65de9adb7b43a3f9fb2ba9ac2589b4a2baaa63b4ae3f469f5cae"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e638a4b8eb6c8eddefd879f8d4708936c3ae99bae70e99758116b564b8afac75",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od 1 stycznia do 31 grudnia upłyną 364 dni, czyli 52 pełne tygodnie. Obie daty wypadają w sobotę.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.068411+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a9ab7e31cd7e9a0b8ddea5365abe39d1cc879d69b23e92e5784fc377feafbeaf"
+  }
+}

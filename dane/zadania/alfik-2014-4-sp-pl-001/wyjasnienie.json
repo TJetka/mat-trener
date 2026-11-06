@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "03d623cb0456d3e7f8d3fcb3ff0d289c97ee3989fab3015dfbd2a68b6893048e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Obie dziewczynki starzeją się w tym samym tempie. Różnica wieku jest stała, więc nadal wyniesie 3 lata.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.086674+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "32dd723952b9bc2bba5b1680244285bd7c4365e3e81522767b417c4a3e06e888"
+  }
+}

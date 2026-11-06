@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e066ad7a4b3a54241d8be41a180c0593eb6ad52e80bf211f76c526738230e3d5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dodaj trzy podane sumy: 7 + 10 + 11 = 28. Każdy kolor został policzony dwa razy, więc wszystkich kulek jest 28 : 2 = 14.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.086378+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dc198600dcbcedac2e1e058b1342e18a2055d63faf10bd32b9a5f1b9bbce6400"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a418ccea65485e7ffea8416fcfeba5b9eeaa800ebd3282406c1e330f088f8adc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wytnij kwadrat 2×2 w rogu, a pozostałe pięć pól zostaw osobno. Otrzymasz 6 kwadratów. Dwa kwadraty 2×2 nie zmieszczą się bez nakładania, więc mniej części nie da się uzyskać.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.077368+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "50efe1755f2d31a52ec7640fb5dabee58654e6e2b0efbf42d88dc4db44c634b2"
+  }
+}

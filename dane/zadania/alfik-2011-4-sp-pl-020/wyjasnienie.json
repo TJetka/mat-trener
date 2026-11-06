@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "636a2cefbd83bbaf4763912e86b3ec3234a8ff6c15d26258a6955f27b2045b51",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od tamtej północy do chwili za kolejne 80 godzin minie 160 godzin. To 6 dób i 16 godzin, więc będzie 16:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.073451+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cffa5d3b4f14685f9b8c17fb1cd7e745fd02aba2f07823dc88ea4f8c6ca908ce"
+  }
+}

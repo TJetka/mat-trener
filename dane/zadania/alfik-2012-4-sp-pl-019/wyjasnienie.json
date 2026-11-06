@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8549bba5dbefd2464901e61dae93b25b4cf963200b0d9a175121166866dd8fbc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Suma musi wynosić 1 lub 2. Pasują 100, 101, 110, 200. Są cztery takie liczby.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.079180+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9c8720413d2d962633d8f134203be67e4eea8943fc4f9491cec786e674445d7e"
+  }
+}

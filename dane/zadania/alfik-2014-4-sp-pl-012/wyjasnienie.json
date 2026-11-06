@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "72853b7aa0bf29f8f58a9a02c9d07474d17333ae847bfec9f1342a19982b5c1c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Bez dwuzłotówek pięć monet mniejszych od 5 zł da najwyżej 5 zł. Jedna pięciozłotówka i cztery mniejsze dadzą najwyżej 9 zł, a dwie pięciozłotówki już przekroczą 10 zł po dodaniu trzech kolejnych monet. Dwuzłotówki są konieczne.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.088827+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0ea75cfc5a50aeba8d02f96139b934bbfded25849bbe3cf43734157a7ae92853"
+  }
+}

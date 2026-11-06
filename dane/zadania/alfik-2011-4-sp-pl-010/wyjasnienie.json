@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ec87be639c427018b2a61d4c0b857c51fd83538b2dcbedd2ee81884a3a288d7c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każda liczba z zerem ma iloczyn cyfr równy 0. Już 100, 101, 102, 103 i 104 to pięć przykładów. Jest ich więcej niż 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.071405+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a8ed27498a0d446228fbce2385bc4d580a25a1c1ad53b05ea2f39d46d5e820b7"
+  }
+}

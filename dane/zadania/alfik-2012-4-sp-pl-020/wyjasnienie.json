@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7b03ff3fad8082654922bb8105e6e85cbb8ac4fa9da4fe57ba8345cf73924bba",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Bieżący rok arkusza to przestępny 2012. Trzynaście tygodni ma 91 dni. Luty, marzec i kwiecień mają 29 + 31 + 30 = 90 dni, a styczeń–marzec już 91. Zwolnienie zaczęło się w lutym.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.079332+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "33af4ae929f28efeea1b6ec3a4f616541a104189e38cfbf50e4cfbfa07cf9af4"
+  }
+}

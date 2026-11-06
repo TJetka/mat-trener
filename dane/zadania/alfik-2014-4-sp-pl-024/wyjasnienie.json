@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a1cd3a3ddf714c8c9b88a87e8a99279ff7a57b13151c71cdc284997f16561edd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Urlop musi zaczynać się i kończyć w czwartek, by nie objąć trzeciej środy ani trzeciego piątku. Od pierwszego do trzeciego czwartku jest 14 dni, ale licząc oba dni urlop trwa 15 dni.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.090747+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f38dcf33840c82d94592df947bb8fd15348bd84a3c5d98acc57a34aab584a0d2"
+  }
+}

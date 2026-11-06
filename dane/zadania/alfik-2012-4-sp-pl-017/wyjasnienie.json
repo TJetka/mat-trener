@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b7a1c90dc073c8f0cefa960c91e0d6f107f187342b2be20081d6367c09acbca6",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Kolejne iloczyny dwójek to 2, 4, 8, 16, 32, 64, 128. Ostatni dwucyfrowy wynik to 64.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.078764+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5abe1de72a13c3b21d4354e7eb3d1cba5cb2291d72c8ec2e770ca594096abd93"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "42c831217c972021732f916f66163fadbffa7445f0ecf49443d8efc2cb81fabd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dodając 13 + 15 = 28, dwujęzycznych uczniów policzyliśmy dwa razy. Nadwyżka nad 21 osobami wynosi 7 i tyle osób uczy się obu języków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.083498+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a7421aa4f0e3e661f4f8bb01fb9de9a6893786044284db0b4f8225dd335189d4"
+  }
+}

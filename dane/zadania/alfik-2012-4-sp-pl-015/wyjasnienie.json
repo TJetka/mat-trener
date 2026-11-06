@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f52e48b9b4133f761c972f61d807350b0cf24a83b376525eeeba0aa39db3e462",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jeśli dziś Jacek ma 9 lat, za 5 lat będzie miał 14, a dwa lata temu miał 7. Ponieważ 14 = 2 · 7, warunek jest spełniony.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.078400+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "80e3f74608a96a4ce14a757d248e95b99ab056fe2822d68302abfaf3eb35369f"
+  }
+}

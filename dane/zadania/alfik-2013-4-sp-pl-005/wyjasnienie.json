@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d27a80dec39de84a1ff1d83042cccb1c64d45f84e026557c02f5b9f145a2f3ab",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Działa zapis 1 · 2 + 3 · 4 = 14. Wstawiamy jeden plus i dwa znaki mnożenia. Najpierw obliczamy iloczyny.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.082008+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ae003ca8630de8a2581a3589ea2b054ec8913fd437bc5be0f42172b71e1f0c2d"
+  }
+}

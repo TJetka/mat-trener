@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e2686a30e53867dee89fae441daa091c453ff18c8763d2f863517b6c4173989c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Oddziel górne dwa pełne rzędy jako jeden prostokąt i dolny rząd jako drugi. W rzędzie z pustą kratką zostają jeszcze dwa prostokąty: pojedyncze pole po lewej i dwa pola po prawej. Razem 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.065604+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a05400f5db5edc360b096c8cf045761b975477857f08f59ad81c0218158805cf"
+  }
+}

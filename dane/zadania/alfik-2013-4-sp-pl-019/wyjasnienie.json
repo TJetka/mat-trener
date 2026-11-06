@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "022732818cb263a9bf30e9642c7b36b20b5403f48f9f62180103b6f8361e1f52",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cała liczba przewyższa swoją połowę o drugą połowę. Ta połowa musi wynosić 10, więc liczba to 20. Jest dokładnie jedna taka liczba.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.084552+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f5556b2d4a5122fd7549de9caf0398ee47ec6b79368332f91e80dbad87670624"
+  }
+}

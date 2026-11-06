@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5c6f729cf293c0161f7fad22e1623642abae326252636684095829bc25fcb504",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Gdyby wszystkie 10 zwierząt było gęsiami, miałyby 20 nóg. Dodatkowe 10 nóg daje 5 owiec, po dwie dodatkowe nogi każda. Pozostałe 5 zwierząt to gęsi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.068895+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dd02a0fc61f32982ba07d7bb0417d2aa8e1d62ceae73ca41abf945260804e885"
+  }
+}

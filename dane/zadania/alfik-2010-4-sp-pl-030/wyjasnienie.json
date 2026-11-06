@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "64cf07cac8150d680872c601df399bb4652e098b6dd4ed3b7c39427c04023ea9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zmiana kolejności cyfr zmienia liczbę o 9 razy różnicę cyfr. Potrzebujemy różnicy 72 : 9 = 8. Pasują cyfry 1 i 9: 91 − 19 = 72, a ich suma to 10.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.069346+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ee134f289e8085520a950728afca48f10c95df99c13745df468e83f2f5f6d44d"
+  }
+}

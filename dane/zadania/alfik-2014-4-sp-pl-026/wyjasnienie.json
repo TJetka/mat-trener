@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "362ea1c1b8f6b2c5d77f8a60031b7d3a434d00c94e9e95e447de83c4c04042ca",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każda dziewczynka może zapewnić sąsiedztwo najwyżej dwóm chłopcom. Najwięcej chłopców uzyskamy, powtarzając układ chłopiec–chłopiec–dziewczynka. Cztery takie trójki dają 8 chłopców.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.091157+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "44fcbe85a0fef5cda8ebd185f24e24776e87409c655bd7dba9b7ee18010410cb"
+  }
+}

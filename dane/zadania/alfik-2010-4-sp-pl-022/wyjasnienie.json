@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "dc220fb73c5b31d8fb6e3f2abb541a973a738ed5dd27af5f1ea23ef06ce8b37c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zuzia ma 10 zł, czyli 5 dwuzłotówek. Agata ma 20 zł, czyli 4 pięciozłotówki. Agata ma mniej monet, mimo że ma więcej pieniędzy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.067877+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "daaa49ea491fde0a65ee4a193b3f42a5e1a58496d315c894cf5541154387cd32"
+  }
+}

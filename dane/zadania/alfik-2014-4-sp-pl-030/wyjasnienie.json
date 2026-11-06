@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "29d1eba0d72c4b6a5214592b807fb640e30cce66b3e4f5c42ad2a7679ee22f0d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szukamy liczby poniżej 30 dającej resztę 2 przy dzieleniu przez 5 i resztę 3 przy dzieleniu przez 6. Pasuje 27 = 5 · 5 + 2 = 4 · 6 + 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.092022+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "532e77d67f8ebf18bb1d1d9a266ccac39c28bb33e57ae62133966e031fc884c3"
+  }
+}

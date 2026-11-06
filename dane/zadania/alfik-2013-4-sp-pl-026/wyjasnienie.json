@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ad8e21ed23d6d5896c1eb443596362ad2fcbcec49bf522b0a40b61aaf54fda07",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zamiana dwuzłotówki daje 3 zł zysku, pięciozłotówki 3 zł straty. Zysk 12 zł oznacza cztery dwuzłotówki przewagi. Wśród 10 monet jest więc 7 dwuzłotówek i 3 pięciozłotówki, warte 29 zł. To „inna odpowiedź”.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.085735+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "edc775d1c46a8483f7afc315033e9757d3997e5e649ed10b50de2e38cb1d394f"
+  }
+}

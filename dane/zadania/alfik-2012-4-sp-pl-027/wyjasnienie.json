@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "884ffb8b142be3a759cd026a8b04aed059dad7e031241478f61435501f899791",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na cyfrę dziesiątek są 3 możliwości, na różną od niej cyfrę jedności 2. Powstaje 3 · 2 = 6 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.080527+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "16cda3874ea68eace8cabb9b74a39154dd62679b1d0046af6bbe670c1bdbed26"
+  }
+}

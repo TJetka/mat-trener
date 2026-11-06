@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "62c9372b03df3b8a5b216697f2895e6be6248550e92b71abf56592278fa7f9cd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Gdyby wszystkie mieszkania miały po 2 pokoje, byłoby 16 pokoi. Dwa dodatkowe pokoje oznaczają 2 mieszkania trzypokojowe i 6 dwupokojowych. Różnica wynosi 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.080661+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "206b7cb2384f6e1fbecdd9cd319b52095f7d554c1888a7c51503c2b7be120cc1"
+  }
+}

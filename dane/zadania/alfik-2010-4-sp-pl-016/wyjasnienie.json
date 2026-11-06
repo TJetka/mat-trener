@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ab01cfa7aaa831ff098e520ec5dbac41cc8945e88855e9e0e3449702fcc98c70",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Piasku jest 21 + 16 + 14 = 51 kg, czyli docelowo po 17 kg. Z największego worka odsyp 1 kg do drugiego i 3 kg do trzeciego. Łącznie 4 kg.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.066888+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a0c840bc376e9b504e382a30faa8f1ef0d8bde9452c4dee4a8ecf22f54cac483"
+  }
+}

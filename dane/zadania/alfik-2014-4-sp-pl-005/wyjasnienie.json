@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8f4de98d24239db1fec12e6709037ed898db79a04ebe48f9ca87d72b91d6f4d9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "100 godzin to 4 doby i 4 godziny. Pełne doby nie zmieniają godziny, więc będzie 4:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.087486+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ac76d9c44c50442bc59e2d86942c4de96b13d4aff27d071c09a429db89f541fd"
+  }
+}

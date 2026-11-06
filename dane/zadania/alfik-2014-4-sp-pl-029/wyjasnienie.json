@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "85ae1d9b42610b349f42f3c9d69e6344fcbf25cb0fe8cec85c5d77fa0c4f8fd8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują kosze z 3, 4 i 5 piłkami: ich sumy parami to 7, 8 i 9. Mniejsza pierwsza liczba wymusiłaby za duże pozostałe; większa dałaby sumę dwóch największych co najmniej 11. W pierwszym są 3 piłki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.091746+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "30bc33a781f3dda9275ce72c022528ad7ed78880c4e73532932e130807036d1d"
+  }
+}

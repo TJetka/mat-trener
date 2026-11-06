@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "eb1c1d0f3bb8fb4fddb2be9057bade5d094502ce22c840d2591812a0eb953493",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Powrót odbywa się w przeciwnym kierunku: północ zamienia się w południe, wschód w zachód. Należy jechać na południowy zachód.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.076450+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5275c5723fb7944db012d95b64a5fd97dde3905b4dbae7831e1a6ad04487df81"
+  }
+}

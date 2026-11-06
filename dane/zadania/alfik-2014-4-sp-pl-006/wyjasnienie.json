@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f59be811c433dbacc0b40ca08dd5d7fce7da1f41e1af641b9e608f135d4438eb",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofnij się o dwa dni do wypowiedzi Jacka, a potem o kolejne dwa do jego urodzin. Skończył 7 lat cztery dni temu.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.087675+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "779d7dab223aa1415acdb09d9fbc9e82d24c42ac0edc448989b7aabeb1eec250"
+  }
+}

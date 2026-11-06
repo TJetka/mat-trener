@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cdd1aec80c6da69e0c7e34dbb67a91f6ec60d4d52e74fd77bc77a617f71220c1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W lipcu sklep był zamknięty przez 31 − 12 + 1 = 20 dni, a w sierpniu przez 12 dni. Licząc oba końce przedziału, dostajemy 32 dni.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.071816+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2f5004e914bc02eca4dbd9416f4c7093c5b2e4cf4803bfcf0f7190be43ebbcbd"
+  }
+}

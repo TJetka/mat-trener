@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e6c9282729c89bcc4d12d56508547843f2cd5cbce02e42d6bb52393e705eaefe",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jacek i trzej bracia to cztery osoby. W trzy lata ich łączny wiek wzrośnie o 4 · 3 = 12, czyli do 52 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.077733+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c5d2effe1f2628bf0875d2c8559b2f93c4cd0360314d0c3f0ad001bd8f7d01ad"
+  }
+}

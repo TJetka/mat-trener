@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "274c362987d8a693fdb959cd38e4afe5d6fab2960f4a3af678cc5d30bff274f8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa razy więcej pająków zje dwa razy więcej much, a dwa razy dłuższy czas znów podwaja wynik. Otrzymujemy 5 · 2 · 2 = 20 much.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.086057+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "939db91f3babe5faabe750961815a35a80ed889143ce7473e8a2d78e43c1e75a"
+  }
+}

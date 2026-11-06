@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2fc68139db6f3c03634f595536da28731bcc64b2cce9e9a349330cff7ac016aa",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Niebieskie, czerwone i białe kulki są w stosunku 1:2:4. Siedem części to 14 kulek, więc część ma 2 kulki. Białych jest 4 · 2 = 8.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.075387+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "45d3c8627a2aa2228703b2b738a91f842fdce89a41a36e90ca9f26a04da88ee1"
+  }
+}

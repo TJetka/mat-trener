@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1d4cb6c9b89f96b42abef292f7d9b1485c060bad22cb3dcf565d689ac70969cb",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "80 minut odpowiada 160 km, więc w minutę samochód przejeżdża 2 km. W godzinę przejedzie 60 · 2 = 120 km.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.067067+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "96efb8cc55eb36673bc6061e5e8d1278055f80951c8bf780944eadba6c86ae20"
+  }
+}

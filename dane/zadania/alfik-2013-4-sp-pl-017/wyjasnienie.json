@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c8e00689e82611024fbf879f4d3be44ccc1d50116e3bea1cfec1cf91cd326422",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery małe i dwie duże skrzynki dają 4 · 7 + 2 · 11 = 28 + 22 = 50 kg. Dostarczono 6 skrzynek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.084153+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "379d78d4b694eed3816a83ac4c22b8bc7d2eef093928728c5df449580802d3a4"
+  }
+}

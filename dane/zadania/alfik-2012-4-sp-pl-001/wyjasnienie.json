@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4828660c61f0f4dbfba2e18e6da47d4ebcba5cb12e90415c51ac45321d8c3722",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzej bracia siostry to Bartek i dwóch innych chłopców. Bartek nie jest swoim bratem, więc ma 2 braci.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.075964+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b49fb9974abb83f8edb5d5db10b6c34e3342aab4c3dbe21f0ba88560bca98b93"
+  }
+}

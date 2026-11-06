@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "95ba55159fb0d30d69fbb1b21677f4e613f05850f3f07e127930610eb758da44",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują trzej chłopcy i jedna dziewczynka. Każdy chłopiec ma dwóch braci, a dziewczynka trzech, więc dostają 3 · 2 + 3 = 9 orzechów. Dzieci jest 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.080244+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3a1db9375aafb0d465be2b27ac56b492eb921b5d90942930e3d30e66fa5dbaff"
+  }
+}

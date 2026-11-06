@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e52921d0358c6e816eeef40dce9d968335c080f73bb2fc87f7a04aebef51aa18",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Luty z pięcioma wtorkami musi mieć 29 dni i zaczynać się we wtorek. Dzień 8. też jest wtorkiem, więc 10. wypada w czwartek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.075113+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "22f65bd6e83990e19d0b0663d944b405dfa3775fd5c3c69754873f0fbdceb7ae"
+  }
+}

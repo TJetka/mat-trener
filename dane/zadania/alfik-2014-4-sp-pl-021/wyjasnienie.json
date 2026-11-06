@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7368952e65958f98c0e2e580db474abfa18d881ff7f2a38b22a35f97874bd3d1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Równe kwoty dają pakiety: 5 dwuzłotówek i 2 pięciozłotówki, razem 7 monet wartych 20 zł. Maciek ma 21 monet, czyli 3 takie pakiety: 60 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.090318+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f156bb811b2a382f342aa37229719ee64da9c3af012e609246c7b364fd2561f0"
+  }
+}

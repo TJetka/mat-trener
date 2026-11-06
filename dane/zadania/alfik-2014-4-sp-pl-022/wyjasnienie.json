@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5a285f903e5e0024de4e110d6bdcae66043ed3a235d40e5412ab8b48b89d3b38",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W ciągu dwóch lat przewaga łącznego wieku braci rośnie o 4 lata. To 2 lata przewagi rocznie, więc braci jest o 2 więcej niż jedna Karolina: 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.090459+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "13764871334e60c2cae6bcb92223046df04242e43245c63d4d6b736bb2642e25"
+  }
+}

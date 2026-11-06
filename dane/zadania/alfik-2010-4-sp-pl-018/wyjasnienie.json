@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4c5c5813e4aaddd7f425738e09293a48716c937d251b9ef70c48d2e6ebadac96",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zastąp pięć ołówków dwoma długopisami. Wtedy cały zakup ma wartość sześciu długopisów, czyli 15 zł. Jeden kosztuje 15 : 6 = 2,50 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.067198+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d7d164244fa28622de7cdd0f9a7823a1476a1fe8dc99e53ce2368dc187406d38"
+  }
+}

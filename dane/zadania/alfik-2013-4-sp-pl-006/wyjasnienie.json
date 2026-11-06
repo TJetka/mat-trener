@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "222f88812a70ef70f841de7de8f3804c70286c618af3f201dc3aab6f5d2d24a2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Godzinowa wykonuje obrót w 12 godzin, a minutowa w godzinę. Na każdy obrót godzinowej przypada 12 minutowej, więc 5 · 12 = 60.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.082217+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "709c194ba10d28812724568e17b30d27b34eb6b3faaa0b25939ad310dddc69d8"
+  }
+}

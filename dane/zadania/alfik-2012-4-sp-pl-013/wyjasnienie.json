@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8a05cd372098878c91c14eec3e18fdcd81e7ae2520af98b240349be6f5edd224",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zegarek Jacka pokazuje teraz 7:58. Spóźnia się o 3 minuty, więc naprawdę jest 8:01. Zegarek Marka pokazuje 8:03, czyli spieszy się o 2 minuty.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.078107+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9ad642a3489f2ead9daf716b402299e307960a76ba896b23de21919d4b04bfb2"
+  }
+}

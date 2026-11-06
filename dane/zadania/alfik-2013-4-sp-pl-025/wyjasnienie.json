@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6fbc97a27a8e07baa0df318fca375a30e9644c3f95470bfffce6e7361441911e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od południa do północy jest 12 godzin. Podziel je w stosunku 1:2: minęły 4 godziny, a zostało 8. Jest 16:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.085537+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a6941cf24e7ba636c184cfd0f831254a6575fd89d7926b9ab20d9e8ab76f423d"
+  }
+}

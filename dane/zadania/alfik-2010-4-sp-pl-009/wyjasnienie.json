@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "95065db7f2d5fdcb8bf17aadec729223ce44a9200f599d4dd1127a6439e9698f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Milion to jedynka i 6 zer. Przy mnożeniu potęg dziesięciu liczby zer się dodają: 6 + 6 = 12 zer.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.062266+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e77667f2f58d8fa342e9184a11d444a38949b1a53ebcf5fb0793b777634c4a73"
+  }
+}

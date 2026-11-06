@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f2281a89375342a82d2c93fcdd28d288c09098bf9c63b7c5294d213bd5d07709",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W latach 19ab iloczyn cyfr wynosi 9 · a · b. Potrzebujemy a · b = 9, co daje pary (1,9), (3,3), (9,1). Pasują 1919, 1933 i 1991: trzy lata.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.061802+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "10fb7a3250874a705e9a9dadcb0c12d980a8c8953810466d1c0794a9b0b57c42"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f5d566c9790cd4ec96491da2c1b1285af59a1797037becf7a0a2e9b83f06c008",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rok ma 52 pełne tygodnie i co najmniej jeden dodatkowy dzień. Gdy zaczyna się niedzielą, właśnie niedziela występuje dodatkowo. Jest ich 53, także w roku przestępnym.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.085914+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "697ebf90448d6e933c00c8fb9f5f6e034efe35fd9af6d0b88729e4f0f797ec9b"
+  }
+}

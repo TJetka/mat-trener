@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "af5a4d6c2934c2a6f5d5b91a58b7adc1a5e0aa2c894f604065347749dd4c43d8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "100 godzin to 4 doby i 4 godziny. Cztery godziny po południu jest 16:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.081686+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b418140abb4503585837ed2a665ac683b0abe08aa12db2ebe30bffa653752eed"
+  }
+}

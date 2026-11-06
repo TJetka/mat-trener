@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b7842728355ae2b68f58f5eec57035f53ff61b1de7c1292f75207389289021c7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po 10 zł w złotówkach i dwuzłotówkach daje 10 złotówek i 5 dwuzłotówek. Do 25 zł brakuje jednej pięciozłotówki. Łącznie to 16 monet.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.085259+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dff6372907f4f5f093e36f27e817b286ce5258019c14556581e2b507cfc7e4ea"
+  }
+}

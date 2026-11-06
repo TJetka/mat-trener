@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c473810b8e0c28db665b892b7f11106b24018ef6651a71b67e46fe1d313cf69f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jedności muszą być o 1 większe od dziesiątek. Dla 45 po zamianie otrzymujemy 54, czyli o 9 więcej. Cyfra jedności to 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.072251+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "056842351463864e31634b2d4f293a599d5872279854ea15529a634740ead418"
+  }
+}

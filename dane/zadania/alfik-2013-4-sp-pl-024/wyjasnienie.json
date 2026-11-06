@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b44eebf8cf452fa31690a9873ec3675123811304f850e390b92fa070b4f3afea",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jedna dziewczynka może siedzieć obok najwyżej dwóch chłopców. Powtarzaj cztery razy układ dziewczynka–chłopiec–chłopiec. Cztery dziewczynki wystarczą; trzy zapewniłyby sąsiedztwo najwyżej sześciu chłopcom, a byłoby ich dziewięciu.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.085403+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "86e678443715e66d1d08173a420d445d55efe9d521322728ceff6db0c9bec43a"
+  }
+}

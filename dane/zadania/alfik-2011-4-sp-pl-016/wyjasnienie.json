@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cc3a2e90289bccd8d296f86a71ee5adfab29d188cd04aa8a94d64e6111bf9981",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Ruch 200 m na południe i potem 200 m na północ znoszą się. Pozostaje przesunięcie o 200 m na zachód, więc od domu dzieli go 200 m.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.072575+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "19a45fbe87ebbb183b5f6e3a6fb2da29e78335e12b32689ad389c415f1479578"
+  }
+}

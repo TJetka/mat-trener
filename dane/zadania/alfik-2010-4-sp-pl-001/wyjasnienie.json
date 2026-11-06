@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3395c656c1af5532a086d97c775cb40c291e0eaddec172322829345036c17585",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Kwotę 180 zł wypłacimy jako 100 + 50 + 20 + 10 zł, czyli cztery banknoty. Nie ma zestawu trzech banknotów o tej sumie. Pozostałe kwoty dają się wypłacić najwyżej trzema, np. 230 = 200 + 20 + 10.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.060031+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "971677ea9da00e1af2aa754a1808edf52e851653562bf830ea4aa44fdf86bf0f"
+  }
+}

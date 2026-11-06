@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0da1402bbd3367a3eac9c85651e94f9482ff8c4325c67e044b1faf86a3cc7709",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Obie paczki zawierają tyle samo banknotów, a banknot 100 zł jest wart 10 razy tyle co 10 zł. Cała paczka także jest 10 razy droższa.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.083092+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dae4d6b6da221145edcab5d2a5ebb6fdf329b8c84b65f32e7ff1a55cb3a9d43a"
+  }
+}

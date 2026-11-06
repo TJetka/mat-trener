@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5d22aaa62c09a872bea73995b037014f95ccae6d3f5d207056d301b94426fd98",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na boku mieści się 12 : 3 = 4 małych kwadratów. W całej siatce będzie 4 · 4 = 16.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.071068+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f188e666601042cbe73ba84e09198d01df0c76fdaf9c9d1798a906255f459e71"
+  }
+}

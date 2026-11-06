@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4ed9cbbfb6034b21662580c9067c3cc9b8c6c1ce11656f9acbe6402e224e16bd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każdy rok daje 1 do liczby lat i 12 do liczby miesięcy, razem 13. Zatem wiek Jasia to 52 : 13 = 4 lata.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.069134+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ba87326c5aab27c849c7f16f22945c853166619c37b08cc33f65621dd87f84a4"
+  }
+}

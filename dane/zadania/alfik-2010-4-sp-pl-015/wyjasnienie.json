@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a7810da5596a171b96f306284c532bd9ce75602de8cb96d792cf32caeb40a894",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "100 godzin to 4 doby i 4 godziny. Cofnij pełne doby, a potem jeszcze 4 godziny: z 19:30 otrzymasz 15:30.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.065987+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9054c59e1b8ac209a21efeb1d9469e39c91bbe7e0cd4c25d6e8f1ee89768f168"
+  }
+}

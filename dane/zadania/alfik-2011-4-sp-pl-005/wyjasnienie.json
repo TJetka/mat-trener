@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ce61ee0103695e422c9e11ed4e2ffdce870663bab9371b1197b5548d2c2f90a8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dodanie Joasi 4 lat i odjęcie Basi 3 lat zamyka różnicę wieku z dwóch stron. Początkowa różnica wynosi więc 4 + 3 = 7 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.070658+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5e7977928d493a1c6b1cf5b0e6e07a85e598e7cab7d3948fb35bff0d30a14ab4"
+  }
+}

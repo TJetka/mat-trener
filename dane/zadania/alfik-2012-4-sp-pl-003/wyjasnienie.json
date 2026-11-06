@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "259b29e937bfc90632bb0c7e6d96db3058129165ef9a1ac8b7d1abaf0f80a53c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Paweł i czterej bracia to pięciu chłopców. Po 4 cukierki wymagałoby 20 sztuk. W paczce był o jeden mniej, czyli 19.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.076281+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1949b3a6c6df76cde5ffb3bbb1bad24dc91f956100aca4a2b8b8acc8c4f6213b"
+  }
+}

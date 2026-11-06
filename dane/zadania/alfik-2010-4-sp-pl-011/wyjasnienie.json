@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "676fa96bdb86246b33d0f0b1d50ac13dcb4df704c4ed13612afea1c7236233c4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Z każdego opakowania zjedzono inną dodatnią liczbę cukierków, najwyżej 5. Muszą to być 1, 2, 3, 4 i 5, razem 15.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.063679+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9a41582c89378168ba13d1bcd08c82e49b5d1ec67e3925bff2cc661c061d3542"
+  }
+}

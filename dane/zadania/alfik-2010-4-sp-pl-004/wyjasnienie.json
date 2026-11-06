@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4abaddc8d380742f5ffbd625bb048615ccd72ed0bbcc0349cf6334c2a000042d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "25 = 5², 27 = 3³, 32 = 2⁵, 36 = 6². Liczba 35 = 5 · 7 ma różne czynniki i nie jest potęgą jednej liczby naturalnej.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.061512+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a4a547891f01be52ba40871b13cb3fd480395a5605187ff4d0912ba0e129de52"
+  }
+}

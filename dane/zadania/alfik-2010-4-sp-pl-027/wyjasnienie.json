@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e60980dac36fc6c71afe34246745968e43a5030880a53cbc6588640c8dfbdc20",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przed obniżką o połowę towar kosztował 24 zł. Cena ta była półtora raza większa od początkowej, więc początkowo wynosiła 16 zł. Obecne 12 zł jest niższe o 4 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.068694+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8ee017a70cd3cc90a792b198116af3b622dd3fb58783ce0cdb0692ed2ff2a4a3"
+  }
+}

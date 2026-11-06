@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "478eeae65f61e5e005077828861be9bb8ddf1591458ba9be135d10dc170742d7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwszą cyfrę można wybrać na 3 sposoby, drugą na 2, trzecią na 1. Powstaje 6 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.087339+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "628a143c4875c0b3aab1c5f28886bee828b07f34e446c210ac80bd8c23def21b"
+  }
+}

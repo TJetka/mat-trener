@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "16b98a9218df8626790b0a8675cd839b435c9da9bf87215d10d0f8baa86b2c3f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Różnica między wiekiem Jacka „o 2 mniej” a „o 3 więcej” to 5 lat. To zarazem różnica między dwu- a trzykrotnym wiekiem Staszka, więc Staszek ma 5 lat. Jacek ma 2 · 5 + 2 = 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.084971+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "462cb3484da773582e600aa74385d6b60816baeb50a45ba855c4a9f7250504a4"
+  }
+}

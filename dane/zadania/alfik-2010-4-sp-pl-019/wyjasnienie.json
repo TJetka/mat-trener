@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "11aa86c706c164c121bb50744c5d3cf0b9e2375e2b1a7924b6c8eeaac2acbd65",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każdy z czterech dużych trójkątów przy rogach podziel na dwa małe. Środkowy kwadrat podziel na cztery, a cztery małe trójkąty już są narysowane. Razem 8 + 4 + 4 = 16.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.067337+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "39ebe0afee86d2c19a35319494d78849ca07ac762844385b0a44ac55625ee53f"
+  }
+}

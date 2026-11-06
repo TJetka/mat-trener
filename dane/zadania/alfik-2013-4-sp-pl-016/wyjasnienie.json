@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "bb2deb46f3cbec74d292650d2ba2f1606b6ef359360959f368cdfe989f314112",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "24 minuty to 24/60 obrotu. Godzinowa dociera tam po 12 · 24/60 = 4,8 godziny, czyli 4 godzinach 48 minutach od 12:00. Jest wtedy 16:48.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.083946+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cc8b3e0b5e9912cca0b00ec647f260e00ebab7fb36a6225de979c41fdc9ac9c5"
+  }
+}

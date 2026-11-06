@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6901e9ce2b7d5541029e09351588d80771f061ce7c2af9005170b9453c0a0835",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwie kolejne liczby o iloczynie 56 to 7 i 8. Chłopcy mają razem 7 + 8 = 15 rybek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.075639+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f465a7efc8e14d0dc946ae87feba3eaadbbe795dbb4331c28d26d8c5d4ff84f7"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "19fba133b3ad0ad8a0b8845b3ab11019a91b5a0cf74a216555350ed45d79188c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wybierz sześć najmniejszych różnych liczb od 2: 2, 3, 4, 5, 6, 7. Ich suma wynosi 27.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.061955+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "94eb731b4dc8d5aeb2bcce25ce8320beb5f4bf65c12a503632a369aa0e6097ef"
+  }
+}

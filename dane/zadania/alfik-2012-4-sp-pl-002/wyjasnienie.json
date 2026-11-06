@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "65d3655bad86a3a527db2cc44e3cd85ca8e75b19712546d5bcc42b84d1582763",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Asia jest stale o 4 lata starsza. Gdy siostra ma 2 lata, Asia ma 6. Jest więc 6 : 2 = 3 razy starsza.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.076121+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "905321d7e6dd90ce6f29accbd0376707887d027f395c6a3361151d67d4a3614b"
+  }
+}

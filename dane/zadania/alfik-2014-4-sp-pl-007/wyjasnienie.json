@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9431b97d351ef6f313bbfb6a2d7f34982d014182d5cf57197a7e10be1cd3c4b1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jest 21 kulek, więc w każdym pudełku ma być 7. Z trzeciego przełóż 2 do pierwszego i 1 do drugiego. Wystarczą 3 przełożone kulki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.087816+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "525b0e963e9f3a187c2eceffb9a86b672ef108ed7917d86f435b0c1e69fcbadf"
+  }
+}

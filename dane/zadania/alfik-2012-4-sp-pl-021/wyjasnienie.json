@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c3cf779a9dec8bb2550eb96893657b22d7d7cc4ed281074fd20d27fc6e2b12e0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dziewczynki i chłopcy są w stosunku 2:3. Pięć części to 30 uczniów, więc jedna część liczy 6. Różnica wynosi 6 osób.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.079469+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b072c93f2b2cc6da785d1a1d9e4715e8e82f9bd132b154c5a6291c3153dc9aea"
+  }
+}

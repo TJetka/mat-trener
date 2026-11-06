@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1a10c96be6eab89953f3acc9768047982ef19af87d86dfee4532aa765f94a187",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W rodzinie jest 3 chłopców i 2 dziewczynki. Każdy brat ma te same dwie siostry, w tym Justynę. Rodzice mają 5 dzieci.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.070217+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3c10fc4b94c60776d7b9f33229679547ad9382ef42722d880dacb41e31659e6d"
+  }
+}

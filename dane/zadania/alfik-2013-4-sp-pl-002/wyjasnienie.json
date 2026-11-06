@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a9f1c6aa53ca4bd4ff734a5178b35de3b28493bcd10f0140cd969fb46e12b34e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Godzina ma 4 kwadranse. Dwie godziny to 8, a pół godziny jeszcze 2. Film trwa 10 kwadransów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.081556+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8e1ad7d1defa22d287d774b241159e5a9da88e5438566acbd3de2704a5287bc6"
+  }
+}

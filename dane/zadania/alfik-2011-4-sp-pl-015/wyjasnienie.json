@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3ebadb254c9c14a28a2d7e5bc93f30705e7d776912766568a88e77d304bf55e2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwszy kawałek jest równy sumie pozostałych, więc stanowi połowę całego sznurka. Połowa ze 150 cm to 75 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.072399+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "17261413cac88513e7d99e89b69ab3620f483a7562ccca4a136ad29566714392"
+  }
+}

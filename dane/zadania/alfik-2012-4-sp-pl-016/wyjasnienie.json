@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "88548cca912aa73a2e0fdb05d8ca707fd6bb2fe3373206a4d267cea6812922df",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofaj trzy podziały na pół: 4 niebieskookich blondynów to 8 blondynów, 16 chłopców i 32 uczniów w całej klasie.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.078545+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "18349415fe156622dd6a5483a84874d55b9e28b89ef680354e478460a75108ed"
+  }
+}

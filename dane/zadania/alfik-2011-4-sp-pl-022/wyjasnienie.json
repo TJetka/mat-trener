@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8528b4f74860287696a84f4160fceb869d10e471bc45f6c1b285b1ac4b0af465",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Aby wiek się podwoił, musi upłynąć tyle lat, ile ktoś ma teraz. Robert ma więc 8 lat, czyli mniej niż 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.073964+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d3505bd396e105511f91611396b01d6d69b7370191f72a6838f22cfd4735ed3d"
+  }
+}

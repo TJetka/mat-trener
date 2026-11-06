@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ee6941f2b1ef221b4ec2021ac3e614d7dabe6d14944a9d0b320427c6fd7a7780",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsza pięciocyfrowa to 10 000, największa czterocyfrowa 9999. Różnica wynosi 1.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.062107+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9eb8c14140a865fab54bc87ee4c0fb981b7034db75eb79b872ed5e00e21dba82"
+  }
+}

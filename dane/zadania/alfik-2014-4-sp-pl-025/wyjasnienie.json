@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e0b280401302afc429afeedfde69a891272a199a447a4704f9b3ea3448fa291c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rok zawiera 52 pełne tygodnie i jeszcze 1 lub 2 dni. Jeśli wśród dodatkowych dni jest niedziela, niedziel będzie 53. Więcej być nie może.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.091009+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2cf2728510b1e03133dc23e6cd0823b0d94c57cb9c05ea573992bee7ae93c9a1"
+  }
+}

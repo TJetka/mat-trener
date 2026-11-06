@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0bd3869b1fea7076c9c32fb025a7a3351e580c31844d2a20fbe4463fa369e717",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pozostałe wyniki da się uzyskać, np. 12 + 3 = 15, 12 + 4 = 16, 7 + 11 = 18, 15 + 4 = 19. Dla 17 żadna liczba nie ma w pudełku potrzebnej pary.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.081816+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "15c2d76c9a5be87736fcb86bda0da5b4e62bbdd3abf1e2e0292d47928551299a"
+  }
+}

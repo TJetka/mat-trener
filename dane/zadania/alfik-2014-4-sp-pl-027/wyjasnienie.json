@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2b00b85581361150f4179c7ce33b6310d4d23440966ad8c0e1840d9ab251c66e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofaj działania. Przed jedzeniem średniego brata były (1 + 1) · 2 = 4 ciastka. Na początku było (4 + 1) · 2 = 10 ciastek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.091310+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e4997e38a74bb8e1884ac5126712a925823b43d317addf7a5bc88acb4b4ab358"
+  }
+}

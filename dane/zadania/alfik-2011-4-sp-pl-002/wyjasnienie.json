@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "dcb03fe6636815df5378a5b1605b6928d3c0c5bfcfdea8a67f63c42d7b47fe54",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pająk ma 8 nóg, mucha 6. Razem 3 · 8 + 4 · 6 = 24 + 24 = 48 nóg.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.069980+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5af6e903fa1b7d5a1f2e922a65910685ea1048756a8dc42f76eaa32a1e816442"
+  }
+}

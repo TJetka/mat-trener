@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "13bec0cc905185d20448ed5ee79f7d291ebc3baff1315c52a11ad5cfd0ff4c7a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Podłoga ma 200×300 cm. Płytki można ułożyć w 5 rzędach po 15 sztuk, ustawiając bok 40 cm wzdłuż 200 cm. Potrzeba 5 · 15 = 75 płytek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.089802+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cae3404a33300c40b2572541ff7e73c1f84c0d0e9732a6801d1dde61d370958a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "53537399f61a4ba2c3c47a95e8a1522bd3e3b3ba6811f540c0cd16557da91470",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Między 1 stycznia a 31 grudnia upływają 364 dni, czyli 52 tygodnie. Ostatni dzień również wypadnie w środę.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.079613+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "905612c474db1b56f226e7ea2d4b4e0f82545ebfd8855588aabbfa1cd2590f32"
+  }
+}

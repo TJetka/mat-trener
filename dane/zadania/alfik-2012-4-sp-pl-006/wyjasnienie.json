@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8b1abb1ff801c448aee313a2aa6edfc4b1ee7ea3c2a165063febbb147d5fd688",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szachownica ma 25 pól. Kolor rogów występuje 13 razy, drugi 12 razy. Białych jest o jedno więcej.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.076891+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7c20a0ef25848328f51cbbf4ccaa2e6107a3fe4733ca85e20d54abb9c10703c7"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cd85c8365fa2a62ad88c05ff57df5fc0ebf7e67ff67a14544c7dbab1af3ffa17",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sto tysięcy zapisujemy 100 000: jedynka i pięć zer, czyli 6 cyfr.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.071202+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "651a1d162d2a9540dbc394e67018457565fbe211a0a5ac3c762e6b6e77ed5b7a"
+  }
+}

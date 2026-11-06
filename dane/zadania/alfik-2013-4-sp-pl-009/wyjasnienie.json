@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7506c61e205ea5f245abb5fecc30cd9205df02cc046e7879be5cbd0645888d85",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery pięciozłotówki i cztery dwuzłotówki dają 20 + 8 = 28 zł, czyli 8 monet. Przy 7 monetach pięć pięciozłotówek zostawiłoby 3 zł na dwie monety bez złotówek, a cztery pięciozłotówki zostawiłyby aż 8 zł na trzy mniejsze monety. To niemożliwe.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.082740+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4e3f5c038da0ad5b814e32c7200381ba4b62d8d416e1216f9fbfa2d35a4ed8c4"
+  }
+}

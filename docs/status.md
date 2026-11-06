@@ -12,4 +12,4 @@ Delivery: coherent commits on `main`, normal SSH pushes to `git@github.com:TJetk
 
 Offline review copy: run `node narzedzia/offline-preview.mjs` after a build, then open `lokalne/podglad.html`. This is not the deployment artifact.
 
-Explanations milestone: reviewed Polish guides for 2015–2019 and 2021–2025 (300 tasks), shown only for wrong answers in the final review. Guides have independent content approvals bound to the approved question/key version; older saved sessions remain readable. Remaining archive guides are in progress. New validation: 47 pytest and 24 Node checks, lint/build, and the mobile explanation/reload journey pass.
+Explanations milestone: reviewed Polish guides for 2010–2019 and 2021–2025 (450 tasks), shown only for wrong answers in the final review. Guides have independent content approvals bound to the approved question/key version; older saved sessions remain readable. Remaining archive guides are in progress. New validation: 47 pytest and 24 Node checks, lint/build, and the mobile explanation/reload journey pass.

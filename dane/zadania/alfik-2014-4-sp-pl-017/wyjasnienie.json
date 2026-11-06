@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5e8799e979bf11d08847882ab3e61b43c4bc59ef294537ff7364e383ac371d69",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Porównaj sumy Marta + Kasia = 20 oraz Jacek + Kasia = 14. Wspólny wiek Kasi się odejmuje, więc Marta jest starsza od Jacka o 6 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.089670+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "89c68bc5867c5bbf977e3e91e8c273abd92b40e0d7b32c6bb90820989e4fda63"
+  }
+}

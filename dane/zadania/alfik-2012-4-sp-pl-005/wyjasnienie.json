@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d91062076175efb693faa31ad7fa7dc84f9050f8004ed0a33ad9b14def7982f1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofnij działania: 19 − 7 = 12, następnie 12 : 2 = 6. Sprawdzenie: 6 · 2 + 7 = 19.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.076698+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9ef9e33f5b44f858be9260a9a08a8185c80951b175e4105858f84910dd224d8f"
+  }
+}

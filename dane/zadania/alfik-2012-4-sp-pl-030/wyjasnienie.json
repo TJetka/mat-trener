@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4f48ad260c7af57f3a21f2f484e377f3f733e000f9385af5e94769ad00c30817",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W 12 godzin minutowa zyskuje na godzinowej 11 pełnych obrotów. Kolejne spotkanie nastąpi po 720 : 11 minutach, czyli około 65 minutach.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.081089+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "849c429401f2af4df7c050c26b5fcfb47eceadd8c2cc48624d81b66a75105e6c"
+  }
+}

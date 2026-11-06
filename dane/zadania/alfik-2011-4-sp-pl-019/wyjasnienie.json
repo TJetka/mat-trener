@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d948d2d34b10348ac08b4420afbc3f4659afe96fc245b43b0536367ce7fdbda4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasuje cyfra 5: 5 · 5 = 25. Gwiazdka po cyfrze 2 oznacza jedności liczby dwucyfrowej. Piątki nie ma wśród A–D, więc wybierz „inna cyfra”.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.073271+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3a5579cc20c7f3c2b37bad210d6a4ecad364ab61571486fa0e5d2083743cd0f5"
+  }
+}

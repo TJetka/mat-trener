@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "742c6ef0d9493c1358c351051b23cc2e5ba160bdf90a59dcef4f56ebcebd539d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Połącz skrajne liczby: 11 + 19, 12 + 18, 13 + 17, 14 + 16 dają po 30. Zostaje 15, więc suma to 4 · 30 + 15 = 135.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.089944+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4f101cf3d8009f8425334600ac024154a0d75b194c08988130876a195819c2e0"
+  }
+}

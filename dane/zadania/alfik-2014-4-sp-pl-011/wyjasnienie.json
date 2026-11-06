@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "25f37ac57ac8b277613510f6c3ba955913e2e49a31e62c40535cbc472446bde0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wybierz cztery największe liczby: 19, 18, 12, 11. Ich suma wynosi 60.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.088477+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f0699dc79cd8b294d8205266d0e10df0b416317b284d767046325dae5b14b115"
+  }
+}

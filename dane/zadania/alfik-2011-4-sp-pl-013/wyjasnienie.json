@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0cf4623cf7ae603dca593341310e94fcb10029e37c67f8740e2ca721f86a66bc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najpierw zamień wiek na te same jednostki: 8 lat = 96 miesięcy. Marzena jest 96 : 8 = 12 razy starsza.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.072045+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3b557f3bb03e7db6fd7325a3dec9407ea5673d855c98a167c031ddaf7c07f28c"
+  }
+}

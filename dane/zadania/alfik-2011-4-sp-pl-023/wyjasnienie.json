@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a35d2521c831b9b67af5a20051510186abe3c05ef112b79476a53374ea780463",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Kwadrans temu prawdziwa godzina wynosiła 12:30, bo zegarek spieszył o 3 minuty. Teraz jest 12:45, więc do 13:00 zostało 15 minut.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.074294+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "30e662bbbf508e9c154762cb0594adf910dbca73d84298ae2c8b5a6469303acf"
+  }
+}

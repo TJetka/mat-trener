@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6803de70375c73e7bae527c11429cef45231fb7919e055d4baf33c7fe95fd4c3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Odejmij 5 dodatkowych dziewczynek od 19 osób. Pozostałe 14 dzieli się po równo na 7 chłopców i 7 dziewczynek. Dziewczynek jest 7 + 5 = 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.088339+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cdccaab8c8017e88b8c7ee40f87c57173134da0cf3b6446161eba282f50140e6"
+  }
+}

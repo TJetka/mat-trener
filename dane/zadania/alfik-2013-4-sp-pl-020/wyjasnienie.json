@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "360a3aba7cc12b3ad621d2a40c75002e2e2a679382f38dd22a3e7b99cecba874",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pole arkusza to 3000 cm², a kartonika 600 cm², więc najwyżej 5. Podziel bok 50 cm na pasy 30 i 20 cm: w pierwszym mieszczą się 3 obrócone kartoniki, w drugim 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.084816+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "72abb6a99209fea780cd69a14cba01d0a2cd7718bb2e85a715c82af1aae8e7db"
+  }
+}

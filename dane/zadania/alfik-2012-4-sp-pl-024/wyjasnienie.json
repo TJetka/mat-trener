@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "de1b8bf26e66b1d77fa2695c425ed18052256348a4d48f3f68162b7bddc616c4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsza wspólna kwota to 100 zł: pięć dwudziestek i dwie pięćdziesiątki. Razem 7 banknotów. Wyższa wspólna kwota wymagałaby już co najmniej 10 dwudziestek, a nie kilku.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.080090+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fc580eac1667e74284041ef8ced772b8ad44b0182011e8f87d386096fab923d1"
+  }
+}

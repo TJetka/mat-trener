@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "89bb82459e85a7e5805a2ab83ea527000a9fbf7eaa2881dcf87201b54369edd9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szachownica ma 64 pola. Identyczne części muszą mieć jednakową całkowitą liczbę pól. Liczba 64 dzieli się przez 2, 4, 8 i 16, ale nie przez 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.077950+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ec7dd1c0dd4172229d5f7de4e6538e752fc544dd91e5a68a242371b8af2b3ea2"
+  }
+}

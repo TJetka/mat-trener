@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0c4736788240ac37a2ef1f837e21438911d7b4328e37a892cf4e01a6e4fcbc60",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "XX wiek zaczyna się w 1901 r., a XXI kończy w 2100 r. Między tymi latami upłynie 2100 − 1901 = 199 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.061158+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ecac5e78807ffbce93db1c3bff537584f6fbfa47ac7dafc4e76b9afd707ae481"
+  }
+}

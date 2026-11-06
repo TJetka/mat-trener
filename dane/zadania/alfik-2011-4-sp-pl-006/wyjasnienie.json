@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "12f4b0273fbc0bb1863e396c8cf424b85d7c53942c473bc87790d9a10a43bae5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "2 · 2 · 2 · 2 = 16. To cztery jednakowe czynniki. Nie pomyl tego z kwadratem, który ma tylko dwa czynniki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.070790+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5b131844d1643f5163ff7a463875389b650afc27dcf457602b64179305c9f9ce"
+  }
+}

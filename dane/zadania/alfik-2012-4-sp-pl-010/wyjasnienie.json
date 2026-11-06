@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "85740a1936499e71dbdcf89ebb5a69a9a001c7750e0617dc0aa774e1bb69a737",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zwiększenie setek dodaje 100, dziesiątek 10, a jedności 1. Łącznie liczba wzrasta o 111.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.077528+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3f69d78254182939f99c9bd4a656041b5de5eeade2fd03b03f6467eb933249b2"
+  }
+}

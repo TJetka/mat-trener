@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "097d31a9079c95a1706d0b30c05dd2aa92258c3f255827f5f064c4af65e96906",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sześć różnych wyników musi być wszystkimi liczbami od 1 do 6. Ich suma to 1 + 2 + 3 + 4 + 5 + 6 = 21.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.086818+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "91a60173f2be4a4f2f640fb6024296af4886b7092bb858f882bdcc2b4e05dd8b"
+  }
+}

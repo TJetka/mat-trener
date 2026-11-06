@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f75f74b203edd0ed2e7b49b92d9e534ab6f01948274f01716878b57872faaa0b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Tylko miesiąc mający 29 dni zaczyna i kończy się tym samym dniem tygodnia. Taki luty może być najwyżej jeden w roku.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.089503+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bad09ea9dca345f39eaa1160a397aa2d10e33a7ed9af466e34d7a298af765abd"
+  }
+}

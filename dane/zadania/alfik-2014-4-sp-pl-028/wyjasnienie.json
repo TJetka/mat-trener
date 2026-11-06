@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "62021c3f3aab89bf6c42dfed7c43a7562f7a088be27c685f26405bb8d4c5b3cc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Stosunek długości to 3:2. Całe 200 cm dzielimy na 5 części po 40 cm. Długości różnią się o jedną część, czyli 40 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.091569+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "86ed48a8d3f57310cf18dfeca454e11d74467a8c57ca8d4bc31bcca981c02a38"
+  }
+}

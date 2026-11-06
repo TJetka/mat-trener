@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "46b81052878b36cfc12b2934d2770adbe9ed0a239318801162547198848b095d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na rysunku wieże mają 6, 7 i 9 klocków, razem 22. Liczba 22 nie dzieli się przez 4, więc z wszystkich klocków nie da się zbudować czterech jednakowych wież.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.072753+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b405a82ee48a1d105047d84e10faadb89c213879412a2b6f3d47e5255ac66d6a"
+  }
+}

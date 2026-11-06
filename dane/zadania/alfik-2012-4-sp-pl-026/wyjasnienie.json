@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "572d5d5cdd4984ef83b873f4250fc2e621fe561182774a9fadf2598b6552e527",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dodaj trzy ważenia: 30 + 40 + 50 = 120 g. Każda moneta została zważona dwa razy. Razem ważą 120 : 2 = 60 g.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.080390+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e93022705fe0e6098fe3e674e5e5bc90027f43cee1cff2e1e994f9488fa09ac1"
+  }
+}

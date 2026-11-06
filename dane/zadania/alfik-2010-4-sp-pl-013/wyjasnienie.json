@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "329981305eddfeb77e5c842006e9d858375434041255785b91b4cfbd2960658a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "XXI wiek obejmuje lata 2001–2100. Sumę cyfr 3 mają 2001, 2010 i 2100. Pamiętaj o ostatnim roku wieku: są trzy możliwości.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.065411+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fbb5ca5d4a8ac853a528d68fa377220c32f75f9a550706fa2cd84faf44cdda86"
+  }
+}

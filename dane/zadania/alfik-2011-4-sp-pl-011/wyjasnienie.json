@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e3ecafd23c7af29aadbee439192fbb2b5bdda82c46c549d39b36887f6315a0a1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rysunek pokazuje siatkę 5×5 małych kwadratów, z których każdy dzieli się przekątną na dwa trójkąty. Łącznie będzie 5 · 5 · 2 = 50 trójkątów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.071609+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c3e8a94ef969dae251c1fb0331b8460cdae53f817bd0e03b4a6dd8e1e20b3481"
+  }
+}

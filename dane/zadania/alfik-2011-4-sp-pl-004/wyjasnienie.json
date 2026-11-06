@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5bda68c6d02c23bab1b62ff23b0a6e3f419a565067f7adbdb5c6a8bd4eeab046",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Odlicz: 5 zł + 2 zł + 1 zł + 50 gr + 20 gr + 5 gr + 1 gr = 8,76 zł. To 7 monet, wybieranych od największych potrzebnych nominałów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.070426+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "66cb06598357a6a8535a914115cccc34dc95a139ff1d4776343cb2e30535a713"
+  }
+}

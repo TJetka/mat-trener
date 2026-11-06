@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "52f2aa382c6210122468a53a3101d4779c9c64430e012770503dea2c7fd82d3d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sprawdź 1,34 zł: trzy bułki kosztują 4,02 zł, a cztery 5,36 zł. Obie ostre nierówności są spełnione. Przy 1,33 zł pierwsza nie działa, przy 1,35 zł druga nie działa.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.089203+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "48126d7ac0569d38c01949dc2606840979048173e8a90f42e461b1dec0fe8906"
+  }
+}

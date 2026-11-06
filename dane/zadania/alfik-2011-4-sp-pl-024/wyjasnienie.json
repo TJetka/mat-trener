@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "66fd708e1c602433417f1da81ff3becf7bcf1b930528ec174f310f9576db100b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W wiadrach są kolejno 3, 5, 7, 9 i 11 litrów. Połącz skrajne: 3 + 11 = 14, 5 + 9 = 14, a ze środkowymi 7 daje to 35 litrów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.074462+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5ae89ef27fc7ebbc82f73c1cf28a62514ee09f4125c02b759bb6b696b276728b"
+  }
+}

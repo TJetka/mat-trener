@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5caa48a71d640f0f6b40738c5ad829cbf78776fe448590b7d055c34d2e8f6957",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Policz klocki warstwami, także te pod górnymi klockami. W dolnej warstwie jest 5 klocków, w górnej 3. Razem 8.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.062492+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "188473d75f7106dd15dc3c215d7e052bb8aace89abd4c8f337967d952e479da5"
+  }
+}

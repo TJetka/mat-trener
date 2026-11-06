@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a811a20f82df7a2f5b981b996dc27d9bc6e46b6def575f2890575471f6a1ed34",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Tydzień ma 7 · 24 · 60 = 10 080 minut. Ślimak pokona 10 080 m, czyli około 10 km.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.079861+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "40ee3c8df418f1a255c1a9c431fd0443869046bd65f8f754a7cc6741772517fd"
+  }
+}

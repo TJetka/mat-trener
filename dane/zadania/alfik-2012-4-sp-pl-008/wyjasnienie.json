@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d85e2987002e15fccde976b03232b92246fad90c41350daf35768abaf44b7292",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po zmianach czerwonych jest 3 − 2 + 1 = 2, a zielonych 3 + 2 − 1 = 4. Zielonych jest o 2 więcej.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.077221+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b81ecbfd6f48f7e88e56aaac3d58f01d69e41b8f34aa27b095e71815940e96a2"
+  }
+}

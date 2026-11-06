@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "dd33abffa61ed968638d020651d72f73e274b2d6105b5d0aca3f8c7867d0bdb9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pasują cyfry 4, 5, 6, 7, 8, 9: ich kwadraty to 16–81. Mniejsze cyfry dają wyniki jednocyfrowe. Pasujących cyfr jest 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.077063+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "56bf6adb7f1edc3bc7fdc3756610838718a0da4aac7cd11a9ec22ec7670d47f5"
+  }
+}

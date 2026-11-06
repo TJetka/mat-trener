@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e821f441872eb2ba6e21c4bc6ee12b9183d749a63190584b4304319d9ab1b8cc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dziewięć liczb 10, 20, …, 90 ma iloczyn cyfr 0 i dodatnią sumę. Do tego pasuje np. 11, bo 2 > 1. Mamy już więcej niż 9 przykładów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.078997+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "181e16fd46b5e4b6ce3af72da30fe0153498c54ef7cebdf15f23b4781c943e22"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "53800591fa7b147cfcedb34b6ab3739c170e43294aacf8435d33b1375fd70593",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczymy zarówno stronę 21, jak i 42: 42 − 21 + 1 = 22 strony.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.082877+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5e57c21d97501376171a6b3c668f4b355bbf299ef5e9ce2d8573e16679ac6951"
+  }
+}

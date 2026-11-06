@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4e662d0907d5fdec8cbdb6c9c72b272d132c105f7e2cd76e44af1f255799dd01",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Czterech sąsiadów mają tylko pola poza brzegiem. Po usunięciu skrajnych wierszy i kolumn zostaje kwadrat 6×6, czyli 36 pól.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.084386+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b396369cb81cc9ee9b7a2867895daa63c9ac60eb62f0ca786707d40258904a3b"
+  }
+}

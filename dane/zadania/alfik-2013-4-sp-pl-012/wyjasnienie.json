@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "800c13fe8d18047e9c68c1cb5fd7381b18900ebe1328ea422c2394a3dfccb6c5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W ciągu 4 lat dzieci nadrabiają 8 lat względem taty, czyli 2 lata rocznie. Ich łączny wiek rośnie o 3 lata rocznie, więc dzieci jest 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.083320+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "66a1a51947eab990d79778894a71c5486499579b17a7f4ad7fb71a8a494f75d6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a1291f03b57b5ed9b6b623cc67b02ae3009637f185733877452134fd85c627a7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na pierwszą cyfrę są 3 możliwości, na drugą 2 pozostałe. Liczb jest 3 · 2 = 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.074637+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cdecb1d91b6f488f4a0cbb00169189b6a6d42c63a1bd4713792f4659efc266cc"
+  }
+}

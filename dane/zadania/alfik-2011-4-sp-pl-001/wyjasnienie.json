@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "238e4a8b8788b3e316f17e709203aaadd65a8432af04b2e0524b73dfdf33e568",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczba ma postać A5A, gdzie A może być cyfrą od 1 do 9. Zero na początku odpada. Dostajemy 9 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.069743+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "71336ef43a12fce60153c4df1e3c6e0a69f4a3f200407d11285f9dcf69e935cf"
+  }
+}

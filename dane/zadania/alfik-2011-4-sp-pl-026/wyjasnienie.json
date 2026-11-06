@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e267672c711761676ee5e3f935b11e3d34040c70e50abf9d96d2fb90f8741e53",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Z samymi plusami suma wynosi 31. Aby otrzymać 15, trzeba ją zmniejszyć o 16. Wystarczy zmienić +8 na −8: 16 − 8 + 4 + 2 + 1 = 15. Jest jeden minus.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.074795+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c039335f958a5e9f8271bd8c0096caf8c74ea44268189ae92725d9aa0ad7c38a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "440a9d8b03c6bd2aee02b72d0f8532823cc7e7dcf46be470459ed2c06c436cff",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwanaście godzin od południa do północy dzielimy na jedną część minioną i dwie pozostałe. Część ma 4 godziny, więc jest 16:00.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.090174+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b97915fe2299959ce7d75b5a43693b8ca18da3a46043de80209b323609173caa"
+  }
+}

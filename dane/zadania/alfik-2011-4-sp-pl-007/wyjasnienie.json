@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4abb10d4223530eca55698c8a417ca5d1eadaaa7ffc2fabac5ff6e9f54d2a232",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Staszek dał 200 zł, a buty kosztowały więcej niż 150 zł. Reszta była mniejsza niż 50 zł, więc cztery jednakowe banknoty musiały być dziesięciozłotowe. Buty kosztowały 200 − 40 = 160 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.070936+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "414a6dee0ba5849a324a453fdfb908357e9578d360f4a26c5f0e353dbdd6676b"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2c00c4aee93996f3275157d2146087040af1e4b5838de218134748c120423e41",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczba samochodów podwaja się i droga także się podwaja. Zapotrzebowanie wzrośnie czterokrotnie: 150 · 2 · 2 = 600 litrów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.068069+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bf8e0002753f2192a11c7e70195cc3ca673ce069389b084130fbad1b863287fe"
+  }
+}

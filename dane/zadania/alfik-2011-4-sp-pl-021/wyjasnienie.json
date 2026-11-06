@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "22831d1cb260141adbd4b4b064626ab2612ddc46c0b5984d40a80b9ca28843d7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po Jacku zostały 4 pierogi zjedzone przez brata i 3 niezjedzone, czyli 7. To połowa początkowej liczby, więc na początku było 14 pierogów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.073657+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2472a02358d558a77d0aad5c4e3c3363fdb34464201fbd2aa4b5fcc9613c29ed"
+  }
+}

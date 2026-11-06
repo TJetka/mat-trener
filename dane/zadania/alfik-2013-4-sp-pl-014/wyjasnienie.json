@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f9498daddf16788da28c93bf41b9ee1f0c0cf212bb49a3bbe455cadddabda8e7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "90 km to 90 000 m, a godzina to 3600 sekund. W sekundę samochód przejeżdża 90 000 : 3600 = 25 m.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.083647+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4bbed322842ca1a0b9953738a735f61fbb3221dcf938b654535e0dd45dd30abe"
+  }
+}

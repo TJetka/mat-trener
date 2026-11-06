@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cecb5cbce1b6fb19039852aeb404bcd4d3fe0e5396f38ae5539d9a17385a4c1b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wskazówki spotkają się około 9:49, 10:55, dokładnie o 12:00, około 13:05 i 14:11. Następne spotkanie jest po 15:00. Razem 5 spotkań.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.086228+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8c7808019333415ebef609041997763d1b58a3f9675aead36cfda54922a3767e"
+  }
+}

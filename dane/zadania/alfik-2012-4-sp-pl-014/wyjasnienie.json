@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "18b1b099cff318ea634911655a7b26d2f96dff95b1659140fab19239205a2091",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rok 1999 ma sumę cyfr 28. W roku arkusza, 2012, osoba z tego rocznika może mieć 12 lub 13 lat, zależnie od daty urodzin. Zadanie nie określa tej daty. Oficjalny klucz akceptuje D i E; obie odpowiedzi dostają pełne punkty.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.078256+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "24ba066ebcd35ed854f63bdec35c5b5719e7ebc47c8b5b942b91bf7735440c1c"
+  }
+}

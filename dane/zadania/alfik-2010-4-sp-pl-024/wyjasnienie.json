@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "94917a10b3908aef27327c61ccf932c9efdfac9ffb7d8da8399796d625fbd29f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "25 można rozdzielić na dwie liczby kwadratowe: 9 + 16. Układamy kwadraty 3×3 i 4×4. Mniejszy składa się z 9 kwadracików.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.068240+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "656f74468d6fd0b2e62d79b207929d2b0ff83dad8dc1afe18c035a01506db953"
+  }
+}

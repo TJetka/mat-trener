@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0db32ba75adfac3fcb2b064b25648b2fb30f8d04c796637c77db7c27d62ea0f8",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jest 15 kulek, więc docelowo po 5 każdego koloru. Przemaluj 1 niebieską i 2 zielone na czerwono. Potrzeba 3 zmian, bo czerwonych brakuje trzech.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.060745+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "65a4a2c77f6160f6284cd2e454a7ebbad2e22bddfea9ccd4e0774b18a6a53ea3"
+  }
+}

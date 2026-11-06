@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d5a02dbd95449248e334991246d6fbe0767e82affb5493ef4b9ac22046b9335e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dziś ma 15 lat, a 10 lat temu miał 5. Ponieważ 15 = 3 · 5, warunek jest spełniony. Wybierz „więcej niż 14 lat”.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:44:20.083798+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f87b6c504f1bfd176caf56719f65e8fbdf315ceb0c0d4b936e8df7e6e5372f65"
+  }
+}
