@@ -11,5 +11,7 @@
 | A3 | Scoring, review, image zoom, keyboard/mobile UI | User journeys and 360px browser checks passed |
 | Q1 | PRD acceptance tests, build, browser evaluation | 49 unit and 5 browser tests passing; build/release and screenshot checks passed |
 | R1 | Git commits/push and Pages publication | Deployed through Actions; compiled assets, 60-task bank and live start/refresh verified |
+| F1 | Result colors, visible tags, running score, easier mode choice | Implemented; 51 unit and 8 browser checks pass |
+| F2 | All available class-IV editions | 18 additional years under source review |
 
-MVP deployment complete. Kangur remains release two; isolation/scoring are already tested on authored fixtures.
+Next: finish F2 and verify deployment. Kangur remains release two; isolation/scoring are already tested on authored fixtures.

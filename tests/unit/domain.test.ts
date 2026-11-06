@@ -131,6 +131,23 @@ test('all three training budgets are exact', () => {
   }
 });
 
+test('running score replaces changed answers and survives recovery without double counting', () => {
+  let a = startAttempt(bank, profile, { kind: 'year', editionId: 'random' }, 0, fixed);
+  a = answer(a, 'D', 1); assert.equal(score(a).quarters, 132);
+  a = answer(a, 'A', 2); assert.equal(score(a).quarters, 117);
+  a = answer(a, null, 3); assert.equal(score(a).quarters, 120);
+  a = answer(a, 'D', 4);
+  const recovered = restore(JSON.stringify(a), 5)!;
+  assert.equal(recovered.status, 'active');
+  assert.deepEqual(score(recovered), score(a));
+  assert.equal(score(finish(recovered, 6)).quarters, 132);
+});
+
+test('snapshots with missing topic metadata are rejected', () => {
+  const a = startAttempt(bank, profile, { kind: 'mix' }, 0, fixed);
+  assert.equal(restore(JSON.stringify({ ...a, tasks: a.tasks.map(t => ({ ...t, tag: null })) }), 1), null);
+});
+
 test('storage corruption, schema mismatch and quota failures do not crash', () => {
   const a = startAttempt(bank, profile, { kind: 'mix' }, 0, fixed);
   for (const invalid of ['oops', 'null', '{}', JSON.stringify({ ...a, schema: 2 }), JSON.stringify({ ...a, answers: {} })]) {

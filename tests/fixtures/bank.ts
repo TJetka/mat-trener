@@ -2,7 +2,10 @@ import type { Bank, ContentNode, Edition, Points, Task } from '../../src/types.t
 
 /** Authored fixtures only. The two contests deliberately share years and task numbers. */
 export function fixtureBank(): Bank {
-  const bank: Bank = { schema: 1, version: 'fixture-v1', tasks: [], editions: [], profiles: [], dictionary: { grupy: {}, tagi: {} } };
+  const bank: Bank = { schema: 1, version: 'fixture-v1', tasks: [], editions: [], profiles: [], dictionary: {
+    grupy: { liczby: { nazwa: 'Liczby i działania', opis: 'Autorskie zadania liczbowe.' } },
+    tagi: { mnozenie: { nazwa: 'Mnożenie', opis: 'Autorskie zadania o iloczynach.' } },
+  } };
   for (const [contest, category, count] of [['alfik', '4-sp', 30], ['kangur', 'maluch', 24]] as const) {
     const profileId = `${contest}/${category}`;
     bank.profiles.push({ id: profileId, contest, category, grades: [4], trainingSeconds: { 3: 90, 4: 150, 5: 210 } });

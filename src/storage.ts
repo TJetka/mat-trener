@@ -18,6 +18,7 @@ function task(value: unknown): value is Task {
   if (!record(value) || !record(value.options) || !record(value.source)) return false;
   return typeof value.id === 'string' && typeof value.editionId === 'string' && Number.isInteger(value.number)
     && [3, 4, 5].includes(Number(value.points)) && typeof value.version === 'string'
+    && typeof value.group === 'string' && typeof value.tag === 'string'
     && LETTERS.includes(value.answer as never) && nodes(value.stem)
     && LETTERS.every(letter => nodes((value.options as Record<string, unknown>)[letter]))
     && record(value.source.paper) && record(value.source.key)

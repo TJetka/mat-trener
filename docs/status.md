@@ -10,6 +10,8 @@ Pages repair: the branch/root publisher served uncompiled source HTML, while the
 
 Deployed: repair `ef757fb` passed the full Linux build/browser workflow and Pages deployment ([run 42186879988](https://github.com/TJetka/mat-trener/actions/runs/42186879988)). The live URL serves compiled JS/CSS and all 60 tasks, with matching Git provenance. Live Chrome checks confirmed the home screen, training start and answer recovery after refresh.
 
-Remaining MVP deployment blockers: none.
+Follow-up UI: result navigation and answers distinguish correct, wrong and blank responses; named topic tags appear on questions/review; scores update immediately; the header links to mode choice. Verified with 51 unit tests, eight browser journeys, lint/build/release checks and desktop/mobile screenshots.
+
+In progress: expand class-IV content from two years to all 20 available editions (2005–2019, 2021–2025). Older diagram questions and scanned keys are under source review; the 2012 key includes an officially accepted pair of answers requiring explicit support.
 
 Offline review copy: run `node narzedzia/offline-preview.mjs` after a build, then open `lokalne/podglad.html`. It embeds the bank and fonts; it is not the deployment artifact.

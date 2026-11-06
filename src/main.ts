@@ -4,7 +4,7 @@ import { answer, completeEditions, durationForMode, expire, finish, formatPoints
   navigate, score, startAttempt, unavailableReason } from './domain.ts';
 import { base, button, content, element, zoom } from './render.ts';
 import { restore, save, STORAGE_KEY } from './storage.ts';
-import type { Attempt, Bank, ContentNode, Mode, Points } from './types.ts';
+import type { Attempt, Bank, ContentNode, Mode, Points, Task } from './types.ts';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 const profileId = 'alfik/4-sp';
@@ -58,6 +58,7 @@ function render(focus = false): void {
   const brand = element('div', 'brand');
   brand.append(element('span', 'brand-mark', '+'), element('span', '', 'mat-trener'));
   header.append(brand, element('span', 'class-label', 'Alfik · klasa IV'));
+  if (attempt) header.append(button('← Wybierz tryb', confirmHome, 'text-button mode-home'));
   const main = element('main', attempt ? 'workspace' : 'home');
   main.id = 'main';
   const warning = element('p', 'notice', storageWarning);
@@ -101,7 +102,7 @@ function renderHome(main: HTMLElement): void {
   const count = bank.tasks.filter(t => bank!.editions.some(e => e.id === t.editionId && e.profileId === profileId)).length;
   const years = completeEditions(bank, profileId);
   const heading = element('div', 'section-heading');
-  heading.append(element('h2', '', 'Na co masz dziś ochotę?'), element('span', 'bank-count', `${count} zadań · ${years.length} pełne roczniki`));
+  heading.append(element('h2', '', 'Na co masz dziś ochotę?'), element('span', 'bank-count', `${count} zadań · pełne roczniki: ${years.length}`));
   main.append(heading);
   const cards = element('div', 'mode-grid');
   const training = modeCard('01', 'Krótki trening', 'Jeden poziom, osiem małych wyzwań. Dobry początek albo szybka powtórka.', 'green');
@@ -142,7 +143,7 @@ function renderHome(main: HTMLElement): void {
   addStart(full, { kind: 'year', editionId: selectedYear }, 'Zacznij arkusz');
   cards.append(training, mix, full); main.append(cards);
   const note = element('aside', 'gentle-note');
-  note.append(element('strong', '', 'Spróbuj. Pomyśl. Wróć do zadania.'), element('p', '', 'Poprawne odpowiedzi zobaczysz po zakończeniu. Zapisujemy tylko bieżącą próbę w tej karcie. Bez konta i bez rankingu.'));
+  note.append(element('strong', '', 'Spróbuj. Pomyśl. Wróć do zadania.'), element('p', '', 'Wynik aktualizuje się po każdym wyborze. Poprawne odpowiedzi zobaczysz w podsumowaniu. Zapisujemy tylko bieżącą próbę w tej karcie. Bez konta i bez rankingu.'));
   main.append(note);
 }
 
@@ -165,6 +166,30 @@ function timerText(): string {
   return `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, '0')}`;
 }
 
+function taskTags(task: Task): HTMLElement {
+  const tags = element('ul', 'task-tags'); tags.setAttribute('aria-label', 'Tematy zadania');
+  const dictionary = bank?.dictionary;
+  for (const label of [dictionary?.grupy[task.group]?.nazwa ?? task.group,
+    dictionary?.tagi[task.tag]?.nazwa ?? task.tag]) {
+    tags.append(element('li', '', label.replaceAll('-', ' ')));
+  }
+  return tags;
+}
+
+function updateLiveScore(): void {
+  const display = document.getElementById('live-score');
+  if (!display || !attempt) return;
+  const result = score(attempt);
+  display.textContent = `Twój wynik: ${formatPoints(result.quarters)} / ${formatPoints(result.maxQuarters)} pkt`;
+}
+
+function outcome(task: Task): 'correct' | 'wrong' | 'blank' {
+  const choice = attempt!.answers[task.id];
+  return choice === null ? 'blank' : choice === task.answer ? 'correct' : 'wrong';
+}
+
+const outcomeLabels = { correct: 'poprawna odpowiedź', wrong: 'błędna odpowiedź', blank: 'bez odpowiedzi' };
+
 function renderQuestion(main: HTMLElement): void {
   const current = attempt!;
   const task = current.tasks[current.index];
@@ -175,9 +200,14 @@ function renderQuestion(main: HTMLElement): void {
   clock.append(element('span', '', 'Pozostało '));
   const time = element('span', '', timerText()); time.id = 'timer'; time.setAttribute('role', 'timer');
   clock.append(time); top.append(clock); main.append(top);
+  const liveScore = element('p', 'live-score'); liveScore.id = 'live-score';
+  liveScore.setAttribute('role', 'status'); liveScore.setAttribute('aria-live', 'polite');
+  const result = score(current);
+  liveScore.textContent = `Twój wynik: ${formatPoints(result.quarters)} / ${formatPoints(result.maxQuarters)} pkt`;
+  main.append(liveScore);
   const title = element('div', 'question-heading');
   title.append(element('h1', '', `Zadanie ${current.index + 1} z ${current.tasks.length}`), element('span', 'point-badge', `${task.points} pkt`));
-  main.append(title);
+  main.append(title, taskTags(task));
   const progress = element('progress'); progress.max = current.tasks.length;
   progress.value = Object.values(current.answers).filter(v => v !== null).length;
   progress.setAttribute('aria-label', 'Liczba zaznaczonych odpowiedzi'); main.append(progress);
@@ -196,6 +226,7 @@ function renderQuestion(main: HTMLElement): void {
       attempt = answer(attempt!, letter); persist();
       if (attempt.status === 'finished') render(true);
       else {
+        updateLiveScore();
         progress.value = Object.values(attempt.answers).filter(v => v !== null).length;
         main.querySelectorAll<HTMLButtonElement>('.question-nav button').forEach((b, i) => {
           const done = attempt!.answers[attempt!.tasks[i].id] !== null;
@@ -227,12 +258,28 @@ function questionNavigation(): HTMLElement {
   const nav = element('nav', 'question-nav'); nav.setAttribute('aria-label', 'Przejdź do zadania');
   attempt!.tasks.forEach((task, index) => {
     const done = attempt!.answers[task.id] !== null;
-    const item = button(String(index + 1), () => move(index), done ? 'answered' : '');
-    item.setAttribute('aria-label', `Zadanie ${index + 1}, ${done ? 'zaznaczona odpowiedź' : 'bez odpowiedzi'}`);
+    const finished = attempt!.status === 'finished';
+    const state = outcome(task);
+    const symbol = finished ? { correct: '✓', wrong: '×', blank: '–' }[state] : '';
+    const item = button(`${index + 1}${symbol ? ` ${symbol}` : ''}`, () => move(index), finished ? state : done ? 'answered' : '');
+    item.setAttribute('aria-label', `Zadanie ${index + 1}, ${finished ? outcomeLabels[state] : done ? 'zaznaczona odpowiedź' : 'bez odpowiedzi'}`);
     if (index === attempt!.index) item.setAttribute('aria-current', 'step');
     nav.append(item);
   });
   return nav;
+}
+
+function confirmHome(): void {
+  if (!attempt || attempt.status === 'finished') { home(); return; }
+  const dialog = element('dialog', 'confirmation');
+  const heading = element('h2', '', 'Wrócić do wyboru trybu?'); heading.id = 'home-title';
+  dialog.setAttribute('aria-labelledby', heading.id);
+  dialog.append(heading, element('p', '', 'Bieżąca próba zostanie przerwana. Nowy trening zacznie się od początku.'));
+  const actions = element('div', 'dialog-actions');
+  actions.append(button('Zostań przy zadaniu', () => dialog.close(), 'button secondary'),
+    button('Tak, wybierz tryb', () => { dialog.close(); home(); }, 'button primary'));
+  dialog.append(actions); dialog.addEventListener('close', () => dialog.remove());
+  document.body.append(dialog); dialog.showModal();
 }
 
 function confirmFinish(): void {
@@ -270,9 +317,9 @@ function renderResult(main: HTMLElement): void {
   main.append(element('h2', 'review-title', 'Przejrzyj swoje odpowiedzi'), questionNavigation());
   const task = current.tasks[current.index]; const chosen = current.answers[task.id];
   const edition = current.editions.find(e => e.id === task.editionId)!;
-  const card = element('section', 'question-card review');
+  const card = element('section', `question-card review review-${outcome(task)}`);
   card.append(element('h3', '', `Zadanie ${current.index + 1} · ${chosen === null ? 'Pominięta odpowiedź' : chosen === task.answer ? 'Poprawna odpowiedź' : 'Błędna odpowiedź'}`),
-    element('p', 'source-label', `Alfik ${edition.year} · zadanie ${task.number} · ${task.points} pkt`));
+    element('p', 'source-label', `Alfik ${edition.year} · zadanie ${task.number} · ${task.points} pkt`), taskTags(task));
   const stem = element('div', 'question-stem'); stem.append(content(task.stem)); card.append(stem);
   for (const letter of LETTERS) {
     const row = element('div', `review-option ${letter === task.answer ? 'correct' : letter === chosen ? 'wrong' : ''}`);

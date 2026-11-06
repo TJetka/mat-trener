@@ -115,6 +115,7 @@ test('full-year official ordering, source attribution and blank score', async ({
 });
 
 test('all historical tasks render exact text and options from the compiled bank', async ({ page }) => {
+  test.setTimeout(120_000);
   const bank = JSON.parse(await readFile('public/bank.json', 'utf8')) as Bank;
   await serve(page, bank); await page.goto(origin + base);
   await page.screenshot({ path: 'test-results/desktop-home.png', fullPage: true });
@@ -133,4 +134,67 @@ test('all historical tasks render exact text and options from the compiled bank'
     await page.getByRole('button', { name: 'Tak, zakończ test' }).click();
     await page.getByRole('button', { name: 'Wybierz inny tryb' }).click();
   }
+});
+
+test('running scores, named tags and distinct review outcomes', async ({ page }) => {
+  const bank = fixtureBank();
+  bank.dictionary.grupy.liczby = { nazwa: 'Liczby i działania', opis: 'Liczby' };
+  bank.dictionary.tagi.mnozenie = { nazwa: 'Mnożenie', opis: 'Iloczyny' };
+  await serve(page, bank); await page.goto(origin + base);
+  await page.getByRole('button', { name: 'Zacznij trening' }).click();
+  await expect(page.getByRole('list', { name: 'Tematy zadania' })).toHaveText('Liczby i działaniaMnożenie');
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 0 / 24 pkt');
+  await page.locator('#answer-D').check();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 3 / 24 pkt');
+  await page.reload();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 3 / 24 pkt');
+  await page.locator('#answer-A').check();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 0 / 24 pkt');
+  await page.getByRole('button', { name: 'Wyczyść odpowiedź' }).click();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 0 / 24 pkt');
+  await page.locator('#answer-D').check();
+  await page.getByRole('button', { name: 'Następne' }).click();
+  await page.locator('#answer-A').check();
+  await page.getByRole('button', { name: 'Zakończ test', exact: true }).click();
+  await page.getByRole('button', { name: 'Tak, zakończ test' }).click();
+  const nav = page.getByRole('navigation', { name: 'Przejdź do zadania' });
+  await expect(nav.getByRole('button', { name: 'Zadanie 1, poprawna odpowiedź', exact: true })).toHaveClass('correct');
+  await expect(nav.getByRole('button', { name: 'Zadanie 2, błędna odpowiedź', exact: true })).toHaveClass('wrong');
+  await expect(nav.getByRole('button', { name: 'Zadanie 3, bez odpowiedzi', exact: true })).toHaveClass('blank');
+  const colors = await nav.locator('button').evaluateAll(buttons => buttons.slice(0, 3).map(b => getComputedStyle(b).backgroundColor));
+  expect(new Set(colors).size).toBe(3);
+  await expect(page.locator('.review')).toHaveClass(/review-wrong/);
+  await expect(page.getByRole('list', { name: 'Tematy zadania' })).toContainText('Mnożenie');
+  await page.screenshot({ path: 'test-results/review-feedback.png', fullPage: true });
+});
+
+test('full-year running score includes starting points and penalties', async ({ page }) => {
+  await serve(page); await page.goto(origin + base);
+  await page.getByLabel('Wybierz rocznik').selectOption('alfik-2024-4-sp-pl');
+  await page.getByRole('button', { name: 'Zacznij arkusz' }).click();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 30 / 150 pkt');
+  await page.locator('#answer-A').check();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 29,25 / 150 pkt');
+  await page.locator('#answer-D').check();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 33 / 150 pkt');
+  await page.getByRole('button', { name: 'Wyczyść odpowiedź' }).click();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 30 / 150 pkt');
+});
+
+test('mode choice is accessible during a session and confirms abandoning it', async ({ page }) => {
+  await page.setViewportSize({ width: 360, height: 800 });
+  await serve(page); await page.goto(origin + base);
+  await page.getByRole('button', { name: 'Zacznij trening' }).click();
+  await page.locator('#answer-D').check();
+  await page.getByRole('button', { name: '← Wybierz tryb', exact: true }).click();
+  await page.getByRole('button', { name: 'Zostań przy zadaniu' }).click();
+  await expect(page.locator('#answer-D')).toBeChecked();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 3 / 24 pkt');
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await page.getByRole('button', { name: '← Wybierz tryb', exact: true }).click();
+  await page.getByRole('button', { name: 'Tak, wybierz tryb' }).click();
+  await expect(page.getByRole('heading', { name: 'Krótki trening' })).toBeVisible();
+  expect(await page.evaluate(key => sessionStorage.getItem(key), storageKey)).toBeNull();
+  await page.getByRole('button', { name: 'Zacznij miks' }).click();
+  await expect(page.locator('#live-score')).toHaveText('Twój wynik: 0 / 31 pkt');
 });
