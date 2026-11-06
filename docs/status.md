@@ -8,6 +8,8 @@ Git/SSH access restored on 2026-11-06 using elevated execution. Initial implemen
 
 Pages repair: the branch/root publisher served uncompiled source HTML, while the app workflow failed on an incomplete npm lockfile. The lockfile now has registry metadata and Linux dependencies; the owner switched Pages to GitHub Actions. Workflow code is unchanged.
 
-Next: push the repair, confirm the workflow publishes `dist/`, then check the live `/mat-trener/` application.
+Deployed: repair `ef757fb` passed the full Linux build/browser workflow and Pages deployment ([run 42186879988](https://github.com/TJetka/mat-trener/actions/runs/42186879988)). The live URL serves compiled JS/CSS and all 60 tasks, with matching Git provenance. Live Chrome checks confirmed the home screen, training start and answer recovery after refresh.
+
+Remaining MVP deployment blockers: none.
 
 Offline review copy: run `node narzedzia/offline-preview.mjs` after a build, then open `lokalne/podglad.html`. It embeds the bank and fonts; it is not the deployment artifact.
