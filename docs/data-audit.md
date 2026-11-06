@@ -15,4 +15,4 @@
 | Combinatorics | 5 | 1 |
 | Measures/data | 7 | 12 |
 
-Boundary decisions: 2024/28 is combinatorics (double counting); 2025/25 is numbers (remainders); calendar/clock tasks are measures. These groups describe the decisive step, not the story setting. Browser rendering/mobile acceptance remains pending; no visual pass is claimed.
+Boundary decisions: 2024/28 is combinatorics (double counting); 2025/25 is numbers (remainders); calendar/clock tasks are measures. These groups describe the decisive step, not the story setting. All 60 tasks passed the historical-bank browser rendering check; desktop and 360px screenshots were reviewed on 2026-11-06.

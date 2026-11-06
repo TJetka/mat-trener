@@ -34,4 +34,6 @@ npm run test:e2e         # local request interception; no external services
 
 See [adding a year](docs/import.md), [status and blockers](docs/status.md), [stories](docs/backlog.md) and [source audit](docs/data-audit.md).
 
+GitHub Pages must use **Settings → Pages → Source → GitHub Actions**. The existing workflow validates the app and publishes only `dist/` to <https://tjetka.github.io/mat-trener/>. Publishing the repository root directly serves uncompiled TypeScript and leaves the loading message on screen.
+
 Tasks and official answers: **Łowcy Talentów JERSZ**, [Alfik archive](https://jersz.pl/konkurs/alfik-matematyczny/). Each edition records exact URLs, PDF hashes and the owner's publication instruction. Raw PDFs remain local. KaTeX 0.16.21 and WOFF2 fonts are vendored under their included MIT notice; runtime requests use no CDN.

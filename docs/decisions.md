@@ -5,3 +5,4 @@
 - **Publication:** owner instructed “Just use them and say what is the source.” Record this decision and attribution; do not claim an open license.
 - **Architecture:** static Vite/TypeScript, local KaTeX assets, Python standard-library importer using Poppler. No backend, accounts, analytics or daily history.
 - **Deployment:** GitHub Pages at `/mat-trener/`. No Sites hosting. Owner follow-up authorizes pushing and online publication/testing; the Pages workflow is now prepared locally.
+- **2026-11-06 — Pages repair:** branch/root publication served the source HTML instead of the compiled app. The owner switched Pages to GitHub Actions. Regenerated the incomplete npm lockfile from the registry (same direct dependency pins), including integrity hashes and Linux native packages; a regression check rejects incomplete entries. Publish only the workflow's validated `dist/` artifact.
