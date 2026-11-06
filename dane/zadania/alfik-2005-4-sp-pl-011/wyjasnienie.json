@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "496b2d322f3a18037370e4ed3dc4efa725ab13bc9f772f1553127a3c9c3f3961",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Średnie opakowanie ma dwa razy tyle co małe: 1000 g. Duże ma dwa razy tyle co średnie: 2000 g = 2 kg.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.483389+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "01f0276f5cc566fec69ba6a5a1f79f5bc90764c77a0a0b135cd98dc2d34c8184"
+  }
+}

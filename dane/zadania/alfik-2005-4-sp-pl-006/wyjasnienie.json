@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "455d52b3c68169624e83a0baa0cd79c70a645cc1d57ca6373e073070df9fff34",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Tysiąclecie ma 1000 lat, a stulecie 100. Zatem 1000 : 100 = 10 stuleci.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.482043+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "449a9b2dba726a2c0bc6629cde9a21653c84de6cfd664608fbd4d0aced950d5d"
+  }
+}

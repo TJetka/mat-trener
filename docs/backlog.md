@@ -9,11 +9,11 @@
 | A1 | Train/mix/year selection, unbiased sampling, pool isolation | Tested |
 | A2 | Editable answers, deadline, recovery, single finalization | Tested |
 | A3 | Scoring, review, image zoom, keyboard/mobile UI | Tested |
-| Q1 | Unit, browser, build and release checks | 63 unit and 10 browser checks pass |
+| Q1 | Unit, browser, build and release checks | 72 unit and 11 browser checks pass |
 | R1 | Git commits/push and Pages publication | Existing Actions publisher; normal pushes |
 | F1 | Result colors, visible tags, running score, easier mode choice | Implemented and browser-tested |
 | F2 | All available class-IV editions | 2005–2019 and 2021–2025, including source diagrams and key exceptions |
 
-| F3 | Per-question Polish explanation after a wrong answer in final review | Display and versioned content pipeline tested; 450/600 guides reviewed |
+| F3 | Per-question Polish explanation after a wrong answer in final review | 600/600 guides reviewed; full browser walkthrough and version-binding checks pass |
 
-Remaining: finish and verify archive explanations. Kangur remains release two.
+Requested follow-ups implemented and verified. Kangur remains release two.

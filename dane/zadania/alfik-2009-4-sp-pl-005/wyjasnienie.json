@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d8e7c3341407dda939c1784710e78931c1317f04e18b08d27bc161ae4e633dd2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Brakujący środek jest sześciokątem. Połącz jego środek z sześcioma wierzchołkami: powstanie 6 trójkątów takich jak kafelki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.508737+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9d65e844f9c9bb30755e78b45077c9584904c7acf3d76da2c62a9d88134bc496"
+  }
+}

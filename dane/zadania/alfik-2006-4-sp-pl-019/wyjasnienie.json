@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "29073caadefb44eb5ce0b33e2d52405a6ff147f78ed60fb784d64079c1d6902b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pole materiału to 3500 cm², a ściereczki 600 cm², więc zmieści się najwyżej 5. Podziel szerokość 50 cm na pasy 30 i 20 cm: w pierwszym ułóż 3 ściereczki, w drugim 2 obrócone.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.492541+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2baa5b2d5e99b08abb9ef255ae5193b37971975edf05c7ebbdce8bbe537c8b48"
+  }
+}

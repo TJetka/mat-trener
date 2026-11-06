@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3119bdc962ad82f2415db3eaf4b61b8ef71195aca37ea72b7b05d95542c75cca",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Soku jest 100 · 200 = 20 000 ml. Szklanka mieści 250 ml, więc napełnimy 20 000 : 250 = 80 szklanek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.504877+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "52459b775fff06170e1c850bf09a866a3bf6ed0c4e0efe668a09a2ce3455b77a"
+  }
+}

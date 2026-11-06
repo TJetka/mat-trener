@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "10629ccb0112977a40cbbd03f69ca6cbb5200bc35e750502bc6591c7b131abf1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pół kostki minus ćwierć to ćwierć kostki. Skoro ćwierć waży 50 g, cała waży 200 g = 20 dag.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.493750+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5a367092bdf795a6e4272d7191628b4869f686cca4330567a74fffad2d53ea8d"
+  }
+}

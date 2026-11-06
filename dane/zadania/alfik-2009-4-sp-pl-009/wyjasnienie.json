@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "23362a4c764e187ecfbe464418a395e3dd5f5d9ebde617883089e5e0ddecc46d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od poniedziałku 21:00 do piątku 9:00 mijają 3 i pół doby. Godzinowa robi dwa obroty na dobę, czyli 7 obrotów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.509466+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "98021bb895ac9eb8cb98577cd5ee75896ef2ba996347165067a77f82e6e854eb"
+  }
+}

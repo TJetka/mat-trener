@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d3e9833e4e1a128bc67de4007eeb1b6e9dc6a9d838bbab1093f347f7ea588c72",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zegar wybije pełne godziny od 7:00 do 19:00 włącznie. Jest ich 19 − 7 + 1 = 13. Liczymy godziny, nie pojedyncze uderzenia dzwonu.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.501461+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d479985412e75c296355f4ca486bb1ecdabd5227eea25e1994a63a077d6c3a4b"
+  }
+}

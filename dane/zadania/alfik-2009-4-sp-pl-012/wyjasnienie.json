@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "30d8c8845403008d3b458ec3d3007563f9614b4e0fd8b1d83dfd7e159e351210",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zapisz liczby cyframi: 112 000; 101 000; 1 000 123; 1 014 014; 102 102. Druga liczba ma cztery zera, a pozostałe mniej.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.509990+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bec146dbad51a02f318df250bae6dbf7899ad0aaae9dba84e2ba3aea75076dea"
+  }
+}

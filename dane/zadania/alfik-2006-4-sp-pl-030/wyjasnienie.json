@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f07b7448507f48346a1bd7c634b42eef343e454fd1652d1025e0398fd4844451",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dłuższy kawałek to trzy części, krótszy dwie. Różnica jednej części ma 30 cm. Cały sznurek ma pięć części, czyli 150 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.494969+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "713fc565de02d664bb03281e8f38f62777a580d2ebc258c8b6e230fdc1a82ffd"
+  }
+}

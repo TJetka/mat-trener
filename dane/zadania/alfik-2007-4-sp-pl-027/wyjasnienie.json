@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "505a7c784941a401732650ea88b02d9e70742f8ef68ba11f97a4f96ba5f9ef93",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wypisz przykłady: 19, 80, 90, 91. Różnice cyfr wynoszą 8 albo 9. Są cztery takie liczby, czyli więcej niż 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.500462+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2aa388500a36212418a3cbdf7fabd68ee40abdba6b6f9138d21a1afbe9e2f456"
+  }
+}

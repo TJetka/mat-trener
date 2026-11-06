@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "80d5f815474b5859ba78c8438987a1967cdeadd8f0650ea7d7057324e0cff6a3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rok 2008 jest podzielny przez 4 i jest rokiem przestępnym. Ma 366 dni.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.498392+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6e0a061290272ab63896fca0842ef584741bc57c7f010b68e0007e22aa721bba"
+  }
+}

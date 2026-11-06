@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "92e4355467e7f438380a0f744cb2f882973e855ee2eb3fc981df37c58346ad3c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwsza i druga plus trzecia i czwarta dają 8 + 11 = 19. Druga i trzecia plus czwarta i pierwsza dają 13 + 7 = 20. To ta sama suma wszystkich liczb, więc sprzeczne wyniki oznaczają sytuację niemożliwą.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.486150+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9722eca579bd72b756a00a4d10a0f115e9e52763e6d9ad47e469c2ce1fb4da2d"
+  }
+}

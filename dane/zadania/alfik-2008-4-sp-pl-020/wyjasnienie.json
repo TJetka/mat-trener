@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "865034b2d4ed8f0e2ca83c30a18edf97f5610f7599f324301cd3ec120c752135",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Aby po podzieleniu przez 4 wynik był dwucyfrowy, liczba musi wynosić co najmniej 40. Wtedy po pomnożeniu przez 4 otrzymamy co najmniej 160, już trzy cyfry. Żadna liczba nie spełnia obu warunków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.505568+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "26649724eed4bf40588f4cadca4a9132358f08a2e974c9cea4acefafce3e10b5"
+  }
+}

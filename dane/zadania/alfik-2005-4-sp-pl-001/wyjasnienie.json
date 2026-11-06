@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "fe9fb674a5faee2475b532cfb58ade0a681c05c85e53976cb8cadf0244cd18b7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery kolory mają po tyle samo kart. W jednym kolorze jest 52 : 4 = 13 kart.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.479942+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "37dc486762e84568ff36d51eef24df38b9b82e8752be3a22e85b9b2ef0397629"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "89160d8b9d3023641dc71b7815a4f54bad90688f9fa76020eed796564f64a0f4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofnij działania w odwrotnej kolejności: 10 − 7 + 5 = 8, potem 8 · 3 = 24 i 24 : 2 = 12. Pomyślana liczba to 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.488416+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "672cbf1abebbd21ab6f650cc4ee76b49a267622161a545f804a6032ea89ce924"
+  }
+}

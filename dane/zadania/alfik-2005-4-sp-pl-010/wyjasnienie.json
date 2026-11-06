@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1ac5d1a97d3462cf185d5fc1bd9c908c841bbf500f718b04144fe4b410d82a77",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Półtora litra to trzy razy po pół litra. Potrzeba 3 · 2,5 = 7,5 szklanki. To „inna odpowiedź”.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.483238+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8ebc9cae2c903ec3ceca060767fd8d602c28098764f7efccd4aa549c33c4d7dd"
+  }
+}

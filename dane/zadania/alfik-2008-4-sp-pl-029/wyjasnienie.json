@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d7f7e397602c066622bbb91a45b75c6494052780742dfd87f5edc1e7f5539d6d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Starszy brat ma dwa razy tyle lat, więc różnica 6 lat jest równa wiekowi Jacka. Mają 6 i 12 lat, razem 18.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.507405+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bc113d1b6c06332233ab7709de0b991b61f285e92098f76562de1b3e8c5fc47e"
+  }
+}

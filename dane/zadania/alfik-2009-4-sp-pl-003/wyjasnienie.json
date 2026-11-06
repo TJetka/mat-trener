@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "44f93c5ca2fb8a4f260d1935581376047563e33490166f713c803a4e5a438bff",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sześć zewnętrznych obszarów pomaluj na przemian dwoma kolorami. Środek dotyka wszystkich i potrzebuje trzeciego. Dwa kolory nie wystarczą, bo środek i dwa sąsiednie sektory wzajemnie sąsiadują.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.508417+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6158f838bba1f28815c9b348628e90ce691e6a5827b0815492ef7fcda6900162"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3c10661b98ccb15c66890da8cbf2a87a02cdb54e629b846376f0716d051e380b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sześć pięciozłotówek daje 30 zł, lecz reszty 3 zł nie można wydać dwuzłotówkami. Siedem daje 35 zł i resztę 8 zł, czyli cztery dwuzłotówki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.492894+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bbb2c029bf1af30a7f2b09ee8b2f3fa20ccff27bca9917ecaca9fb3893323dcb"
+  }
+}

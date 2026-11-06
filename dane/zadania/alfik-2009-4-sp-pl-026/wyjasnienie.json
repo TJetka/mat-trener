@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2bea2a16a99d5244ca613cddb94403a3a9b220b607a58529e2f25448c79f3a3a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dziesiątki wybieramy spośród 2, 4, 6, 8 — cztery możliwości. Jedności mogą być także zerem, więc jest pięć możliwości. Razem 4 · 5 = 20 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.513088+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3dea249083d92efa012245b2f7f365c63a5146951690bf2c6e5ff67b07f5c476"
+  }
+}

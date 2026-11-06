@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8e5d20c7a38913a5a05a37a4b7cbb8cc995a1467452f7a71325e386ca8724a03",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zamień kolejno cyfry: 2 na 3, 7 na 8, 3 na 4. Otrzymasz 384.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.503500+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d50fd33960642db89ff2be3781f7c68c06c2016653f43ed4085657a43b6b65e2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8d8c58bf0fa78f2396d4930c0843ba02f1f509f8ff67a6c8e057e3dc0f574941",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Białych kwadracików są 4, a czarnych 16 − 4 = 12. Czarnych jest 12 : 4 = 3 razy więcej.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.496392+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9ea232f34ffdaa08f8afc18e06f0c24bd89e04208ee501a2a5dfb818eb17a7fe"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "51481b283a57b4f8a370423dcf5c5eca0947e277d5df0f8ff2db276f98db41d1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Marzec, kwiecień, maj i czerwiec mają razem 122 dni. Od pierwszego do ostatniego upływa 121 dni, czyli 17 tygodni i 2 dni. Środa przesuwa się na piątek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.506089+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0723bf494d5bca7616f1700ea136ab630cd6ceedc5ef0370e3088da3b3434a5f"
+  }
+}

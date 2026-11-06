@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ee2216b76c17d5375fd48596c93d57974555c67610dcfea38e30e1169c03a083",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wypisz liczby według dziesiątek: 10, 11, 12; 20, 21; 30. Wszystkie mają sumę cyfr najwyżej 3. Jest ich 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.493936+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "049c6e49395c6034196460df21e90d56cc3716fcfa760eace4ea8f5e6a3f60aa"
+  }
+}

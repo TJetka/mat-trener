@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "81fc1e24e3f60dde099ae407b02cde153c51ac2b6784010763c39fbbb58ea323",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rozkład 70 = 2 · 5 · 7 daje sumę 2 + 5 + 7 = 14. Dzieci mają 2, 5 i 7 lat. Najstarsze ma 7.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.499556+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2ca956b304095bf1c487b06f791be5106229099d626c32d90cd95666f7b09301"
+  }
+}

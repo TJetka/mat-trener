@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2d15cd5bed3cae80a5442cdb40b9aa48c1c8c6ba4372050bbde3966e917e22aa",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sto milionów zapisujemy 100 000 000. Za jedynką jest 8 zer.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.502100+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4dcb77e86b3ff2ae9a087ef3df77c8eb685cb550fd9bfd3c4448e157fb587290"
+  }
+}

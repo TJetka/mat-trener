@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b3d4a884d50a316c8246192e4bec92cf9325f520d4d08be2fe60a49924f18104",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cyfra jedności może być 0, 1 lub 2. Liczby to 50, 51 i 52 — trzy możliwości.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.489650+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fec9f0c9083e1372fe650cdf1c6533f5eea0658f758cfcb20d184bb262da4984"
+  }
+}

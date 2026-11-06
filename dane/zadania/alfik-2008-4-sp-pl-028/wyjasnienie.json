@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5a009dd6426f16309afc1c132592c172489d1a85455c577ea41eded8aae504c9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Stosunek jednogarbnych do dwugarbnych to 1:4. Pięć części daje 20 wielbłądów, więc są 4 jednogarbne i 16 dwugarbnych. Różnica wynosi 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.507239+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0cdfe4598e566b4d7540ea2cd9d07cf25829759d803752046886d685da1a4b4a"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5295948270906b244396b332d0522c4947df226ad9daa4ee21826c8173f67769",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "„Do tej pory” odnosi się do roku 2006. Rocznice wypadały co 4 lata od 1952 do 2004 włącznie. Jest ich (2004 − 1948) : 4 = 14. Samego dnia urodzenia nie liczymy jako rocznicy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.492729+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "84b7ea234b944c76d48f13518d3c03b2e6b2c3a080d7c0f9a13fd726f6649e6a"
+  }
+}

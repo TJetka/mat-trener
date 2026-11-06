@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4f746ffd13b73d53d6b0dcd547b139df917903f81def1c5a445d31408f41e5a2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Kilometr ma 1000 metrów, a metr 1000 milimetrów. Pasują milimetry.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.498247+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0f457c06321ee6abc07862dec4ef00eeb7b9714d80a1e0ab9219a313e61012d9"
+  }
+}

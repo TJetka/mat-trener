@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9f75433c0118ebf2b10c7845e0d95bbbdb0f07908c288ffda2480cc5086445f9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy pomalowane ściany mają tylko małe klocki w narożnikach dużego sześcianu. Sześcian ma 8 narożników, więc takich klocków jest 8.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.500272+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b13cc43fa0f67b81f28a7651a7ba5dbb620e3169c02bab7ddb01dff0639da54d"
+  }
+}

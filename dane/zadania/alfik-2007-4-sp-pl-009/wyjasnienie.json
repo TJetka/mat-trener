@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f70296a44348f705268b438bc838848813731adf82d328560aa9990feaa175d5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sumy cyfr wynoszą kolejno 10, 8, 13, 7 i 11. Najmniejszą, równą 7, ma liczba 70.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.496820+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "52351893bec44421c4e73b2e57953682b12ac7a26181f938f946a1c3021b1459"
+  }
+}

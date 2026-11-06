@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "600ce32d6acb28be1f7794306b32ba240eaa32e4783c1cc0fd0abd2d30168325",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "52 tygodnie mają 52 · 7 = 364 dni. Rok nieprzestępny ma 365 dni, czyli 52 tygodnie i jeden dzień.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.504165+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a0c7eb9813dff18bcc95b085815267896b09a417bba5b99f008514d5eb34dea7"
+  }
+}

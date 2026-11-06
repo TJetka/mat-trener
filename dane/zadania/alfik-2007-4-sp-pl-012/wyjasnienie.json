@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "033bc72e3b45a82d0258f5ebb1227d0b4ba34fc6b06577804ba698f0a5de6a97",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Równanie na rysunku to x + x · x = 72. Pasuje 8 + 8 · 8 = 8 + 64 = 72. Najpierw wykonaj mnożenie.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.497299+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "53052cd36c9215b5d8f944babbc485d4c7e059a74a6b073a0f8180d7574d0032"
+  }
+}

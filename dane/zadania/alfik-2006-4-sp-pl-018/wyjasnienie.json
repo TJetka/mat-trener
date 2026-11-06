@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a6c98b556b14e88158f06023034fcd11225c93f733b024662426875acb37988d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa lata to około 730 dni, a pół roku około 183. Razem około 913 dni, więc 900 dni jest najbliższe dwóm i pół roku.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.492365+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "625deea3dda6327fb04895165c29dbf1ad7c757c66eb48b8925574ec9ce4e5c1"
+  }
+}

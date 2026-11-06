@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "61ee80aea6755edb20a442ef4c3d9e7c64942717d550cb2bca80c5c2798ea702",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Godzina ma 3600 sekund. Przy stracie 2 sekund na dobę potrzeba 3600 : 2 = 1800 dni, czyli około 5 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.493074+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "85618a3f2b8384fef797809275a6716ea9675536eeaa674f0b50c0528dc1fa1c"
+  }
+}

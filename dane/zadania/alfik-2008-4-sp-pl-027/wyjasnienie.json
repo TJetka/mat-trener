@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e26e45a386baf6287ebb4f7b46148e1f34a0211c6a2950c06da148419b39c7fb",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Podziel 200 cm w stosunku 2:3. Pięć części ma po 40 cm, więc kawałki mają 80 i 120 cm. Różnica wynosi 40 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.506968+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c08b0cd34db847049f03ad9d667f5c70ae7f2c54741666f68c6b42b11f30a2a1"
+  }
+}

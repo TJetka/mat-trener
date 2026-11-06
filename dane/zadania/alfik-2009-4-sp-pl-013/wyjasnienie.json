@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cd59a3f8fd3b4c89da1116fdc532e1b7c71df9a48ad1e12d9455f4989f6d0c26",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jedna ciężarówka zabierze najwyżej 5 kontenerów, bo 6 · 700 = 4200 kg przekracza 4 tony. Trzy ciężarówki zabiorą 3 · 5 = 15 kontenerów. Niewykorzystanych ładowności nie można połączyć między pojazdami.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.510229+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a7002bfe596444e42df908615960f020c45b16ce1af7618ede87158c0060e9f9"
+  }
+}

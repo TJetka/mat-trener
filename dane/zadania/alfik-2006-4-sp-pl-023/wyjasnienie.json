@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "eb404e2a94259eab38e53caa1e4c772658f7a8fa7ee20746dd249dce118eeeed",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Ułóż słowo KRASNOLUDEK, wykorzystujące wszystkie litery. Ma 4 samogłoski warte 8 punktów i 7 spółgłosek wartych 7 punktów. Razem 15; więcej niż wartość wszystkich liter uzyskać się nie da.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.493261+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0521b22474844e5d439e9c2d0bc6265885a6c0d1ecb2d38c9f01524bbe58b2aa"
+  }
+}

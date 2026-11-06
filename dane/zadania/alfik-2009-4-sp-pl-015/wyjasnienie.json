@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "991c3a0fc7e87894d8e9e6f757a4fe06a04da9d3e98e3131f26132be65583dcb",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Osiemnaście klocków ma pole 18 · 2 = 36 cm² i układa się w kwadrat 6×6 cm. Pozostałe podane liczby klocków nie dają pola będącego kwadratem całkowitej długości boku.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.510590+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dc55b9adc3eac95dc7132db80092a5bfb31b7a119e9289bb3eb01e77713367f5"
+  }
+}

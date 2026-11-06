@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a6bf99c7d1e1f75adcfc21899eeadceb89958fd090d235764462e61445e11890",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pojemności są w stosunku 2:3. Pięć części ma 2000 ml, więc część ma 400 ml. Tyle wynosi różnica pojemności.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.486421+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7a71069a88b939683b91c0f77ada6af8e693145f8058122dc33319a61d054fae"
+  }
+}

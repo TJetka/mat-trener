@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9969d70c7d545543de76d48ead1620feed7fdf2a727600929a7819e91ca9df10",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Odtwórz powtarzający się wzór: w pustym środku brakuje dwóch dużych ośmiokątnych kafelków i trzech małych kwadratowych. Razem 5 kafelków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.481800+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8d5d84265a23dda5d307b4f89f67c5e63197c75ad50cce863f25ef8f1d625a07"
+  }
+}

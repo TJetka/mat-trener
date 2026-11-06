@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8aa9d981419fe26ab84d2b188af03fdb4a31b6257f161685cabfda8b8b3779fa",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na trzydziesty kartonik przechodzimy po 29 zwiększeniach. Zapisana liczba to 14 + 29 · 7 = 217.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.491927+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c92d9ab2fc7fa9adb35775416f3da9d634a4a0bea1f95e6daa40845e99321c28"
+  }
+}

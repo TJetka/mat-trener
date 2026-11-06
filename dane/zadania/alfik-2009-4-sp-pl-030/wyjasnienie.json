@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "427e38944cc811a2fa4b722716c007679f3ed55238bb8e7aec286808751b8393",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Butelka ma 1500 ml. Kubek mieści 1500 : 5 = 300 ml, szklanka 1500 : 6 = 250 ml. Różnica wynosi 50 ml.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.514049+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6bbd25612f622c736eb6fbb76103724ced028cde54346935054177cd4a41b446"
+  }
+}

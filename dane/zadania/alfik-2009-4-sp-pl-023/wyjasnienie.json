@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9cb0aa83d91e39f61bc8396d512266566f855fad6a2c2e88ce7950e43f2d5792",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dzieje się tak o 0:00, 6:00, 12:00 i 18:00. Gdy minutowa jest na 6, godzinowa leży między liczbami, więc nie dochodzi żaden dodatkowy przypadek. Razem 4 razy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.512579+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a2d4bd97794e24b60c940a61b1375c8f5b512bf35619e66c1f1b3c11a7d44132"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4a45b1c8cba1f125b05fe7b3a2007e6d1a5cc458b4516c8ece628c4659156820",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Kup opakowania po 100 i 50 kołków: kosztują 35 + 20 = 55 zł. Dostaniesz 150 kołków, czyli wystarczająco. Kupowanie dokładnie 140 sztuk byłoby droższe — wolno mieć zapas.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.483860+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "34c4a03abb8ca39902a15e40035ec7f4e2914e2e6dd85ea9fe037ae493a088ad"
+  }
+}

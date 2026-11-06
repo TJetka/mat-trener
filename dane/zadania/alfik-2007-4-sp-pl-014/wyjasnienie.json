@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "17020ad3157787ce60da503b3b138dc3312511e4197ef8cb73f61ae368c65dd5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Buty lub skarpetki ma 6 + 5 − 3 = 8 osób; trzy osoby z obiema rzeczami trzeba policzyć tylko raz. Boso jest 12 − 8 = 4 osoby.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.497802+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "85ae3a1062295123a3dece960f886b6a4aef187f792140132263307222644336"
+  }
+}

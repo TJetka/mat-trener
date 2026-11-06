@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "fcc2953e79bbb98e25fc01edd91df4e0647caa2557bae3ec24fc30defb30cb80",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pary drzew stoją w odległościach 0, 10, 20, …, 100 m. To 11 par, bo liczymy oba końce alejki. Drzew jest 22.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.490094+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "967a0b521d48878999a6aeddc8aaf91754434f71d9346ead25c7db767170f55d"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7395d4cf372bdbd72db6606d3a6f4b8118df0fd5eeed94bb46a94bdf31177651",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery środkowe kwadraty są całe zamalowane. Pozostałych 16 − 4 = 12 ma po jednej białej trójkątnej połówce.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.488931+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9f0048cea36b362815ec1bedb10941679ebaba92059b6e923abb13aa2aca3860"
+  }
+}

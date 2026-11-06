@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c1d8d41a58d6c20d3a645d2e2ac9bc751ca8b874599af6283b5feaf0358933e0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W żółtym pudełku są 2 czerwone, w nich 2 · 3 = 6 zielonych, a w tych 6 · 2 = 12 niebieskich. Razem 2 + 6 + 12 = 20 pudełek. Żółtego zewnętrznego nie liczymy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.511774+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9d57667ed436dcb27a0080a1b8ffcf5661829c599c0d5724db60fd6578f3b2ee"
+  }
+}

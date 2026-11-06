@@ -114,7 +114,7 @@ test('full-year official ordering, source attribution and blank score', async ({
   await expect(page.getByRole('link', { name: 'Oficjalny klucz' })).toHaveAttribute('href', /#page=1$/);
 });
 
-test('all historical tasks render exact text and options from the compiled bank', async ({ page }) => {
+test('all historical tasks render exact questions, options and wrong-answer explanations', async ({ page }) => {
   test.setTimeout(120_000);
   const bank = JSON.parse(await readFile('public/bank.json', 'utf8')) as Bank;
   await serve(page, bank); await page.goto(origin + base);
@@ -132,10 +132,20 @@ test('all historical tasks render exact text and options from the compiled bank'
       await expect(page.locator('.task-image')).toHaveCount(images.length);
       if (images.length) await expect.poll(() => page.locator('.task-image').evaluateAll(elements =>
         elements.every(element => (element as HTMLImageElement).naturalWidth > 0))).toBe(true);
+      if (!task.awardAll) {
+        const wrong = (['A', 'B', 'C', 'D', 'E'] as const).find(letter => !(task.acceptedAnswers ?? [task.answer]).includes(letter))!;
+        await page.locator(`#answer-${wrong}`).check();
+      }
+      await expect(page.locator('.explanation')).toHaveCount(0);
       if (task.number < tasks.length) await page.getByRole('button', { name: 'Następne' }).click();
     }
     await page.getByRole('button', { name: 'Zakończ test', exact: true }).click();
     await page.getByRole('button', { name: 'Tak, zakończ test' }).click();
+    for (const task of tasks) {
+      await page.getByRole('button', { name: `Zadanie ${task.number}, ${task.awardAll ? 'poprawna' : 'błędna'} odpowiedź`, exact: true }).click();
+      if (task.awardAll) await expect(page.locator('.explanation')).toHaveCount(0);
+      else await expect(page.locator('.explanation > p').first()).toHaveText(task.explanation!.text);
+    }
     await page.getByRole('button', { name: 'Wybierz inny tryb' }).click();
   }
 });

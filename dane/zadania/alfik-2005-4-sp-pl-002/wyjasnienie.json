@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1ed94b238c871a9d50e606cdcfec6af2e9ca85cdd78be55a29fa57dd029f2def",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Lata 1401–1500 to XV wiek, a 1501–1600 to XVI. Rok śmierci 1503 leży tuż po przełomie XV i XVI wieku.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.480708+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "adbee5203e2868f55fc78d1cde7e15fd92168bbcd5c5c4c89a121419e998b5b6"
+  }
+}

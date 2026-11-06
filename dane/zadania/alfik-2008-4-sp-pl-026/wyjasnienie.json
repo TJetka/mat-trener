@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ef0e8ba70c66c51a1a47dce55c5960944ef99ec26b2c1289b1dae6db2c5bacf7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Środkowy numer to 24 : 3 = 8. Kolejne strony to 7, 8, 9, więc ostatnia ma numer 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.506766+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "af329350976a5ade68894b7fb800ce114b7746bdcca39298502ad69bfb4cc874"
+  }
+}

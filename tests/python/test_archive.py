@@ -49,3 +49,21 @@ def test_archive_clock_notation_and_footer_boundaries() -> None:
             footer in text
             for footer in ["PARTNERZY", "PATRONI", "Zapraszamy do konkursu", "COPYRIGHT"]
         )
+
+
+def test_every_archive_task_has_a_reviewed_source_bound_explanation() -> None:
+    bank, _, _ = compile_bank(ROOT)
+    assert len(bank["tasks"]) == 600
+    for task in bank["tasks"]:
+        guide = task["explanation"]
+        record = read_json(ROOT / "zadania" / task["id"] / "wyjasnienie.json")
+        assert record["wersja_zadania"] == task["version"]
+        assert guide["text"] == record["tekst"]
+        assert 20 <= len(guide["text"]) <= 1600
+        assert guide["author"] == "Mat-Trener · opracowanie własne"
+        assert len(guide["version"]) == 64
+    guides = {task["id"]: task["explanation"]["text"] for task in bank["tasks"]}
+    assert "D i E" in guides["alfik-2012-4-sp-pl-014"]
+    assert "anulował" in guides["alfik-2018-4-sp-pl-016"]
+    assert "2006" in guides["alfik-2006-4-sp-pl-020"]
+    assert "2025" in guides["alfik-2025-4-sp-pl-021"]

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7f61099c8fc0901b6e35e96ce1eab8e082a80169c07e556857d9ad8cb821fc2e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Możliwe liczby to 111, 222, …, 999. Cyfra 0 nie może zaczynać liczby trzycyfrowej. Jest 9 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.496090+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cb66278f3896a357ec83c8e96dc973bd537dfaf9f2eac6537cbb068d5bf943ec"
+  }
+}

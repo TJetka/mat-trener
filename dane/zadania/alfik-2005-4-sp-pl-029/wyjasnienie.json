@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d87292e713429140281c3194d5915b096847f91fa5bacd1451c0989f42d3e70a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Gdyby wszystkie 30 zwierząt były krowami, miałyby 120 nóg. Brakujące 12 nóg oznacza 6 kaczek zamiast krów. Krów jest 24, więc jest ich 24 : 6 = 4 razy więcej.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.488135+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bbc173cf2f9c7df4ccce3ee5e2880c7f9be04c463b39fccafd23622bbfc7e9f1"
+  }
+}

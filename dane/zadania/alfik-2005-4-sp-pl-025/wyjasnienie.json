@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2fd9e7b8bcc6be92a944e4e2491293b9df3fd859331cd97d2658dc08bb5a118c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sprawdź 1,28 zł: siedem długopisów kosztuje 8,96 zł, a jedenaście 14,08 zł. Obie kwoty mieszczą się w podanych otwartych przedziałach. Przy niższej cenie drugi zakup jest za tani, przy wyższej pierwszy za drogi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.487026+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "db516f8e172fd52618a355a44df0d28f721347ea44094f102971cff91d4a082e"
+  }
+}

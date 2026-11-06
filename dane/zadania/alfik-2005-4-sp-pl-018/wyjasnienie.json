@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f653c5587c71d98f621b937dc2fca6e50daa475609630c0c7ceebbbf5c243307",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzecia godzina to przyrost ceny między wypożyczeniem na trzy i na dwie godziny. Kosztuje 18 − 15 = 3 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.484765+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "142a6a1c2b1b003fdbf6223113cd8ab3aef6da3b250a82d0b1ffaa3d337b88a9"
+  }
+}

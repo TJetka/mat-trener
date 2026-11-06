@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "902a736ea422c2f5f5403861cffc23923795dc3ec4edc056986859bd816f7a63",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sprzedano o jedno jajko więcej, niż zostało: połowę plus pół zamiast połowy minus pół. Skoro zostało 12, sprzedano 13. Początkowo było 25 jajek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.500003+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2a2e826472c552750c219472bdd378d8bc502a36f5b3f8fa35f7a52e65620be1"
+  }
+}

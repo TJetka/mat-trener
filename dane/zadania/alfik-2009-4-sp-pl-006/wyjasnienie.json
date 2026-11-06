@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "813d8e99e0029fbf824d491493e0ad4c36372f552ad4015f0f8efd370835cf85",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po wstawieniu zera powstaje 405. Sprawdź iloraz: 405 : 45 = 9. Liczba wzrosła dziewięciokrotnie.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.508894+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "26a01cbbfebba27abb06f4a552b03b40d1c33c97d7ac78b983a3fa3cb91cc87a"
+  }
+}

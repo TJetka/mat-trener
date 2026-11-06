@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ea2502a8d498dbd99e278c9e0148c0d33a200ad8d8fca85712aa58235e27efcc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W rodzinie są dwaj chłopcy i dwie dziewczynki. Bartek ma jednego brata i dwie siostry, a jego siostra dwóch braci i jedną siostrę. Oba warunki się zgadzają.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.506567+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fbec54bb6cb25d2d7f85661e72d69913b9cd1e59016ea4b781a05ff7c1416e16"
+  }
+}

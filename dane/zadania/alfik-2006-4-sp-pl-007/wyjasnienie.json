@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8275526754e00292f7c0f1ff29ec1508f3d558b4cc2853074869404bb225c030",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dopasuj ząbki i wcięcia wzdłuż linii cięcia. W B krótszy boczny występ wypełnia miejsce pod lewym ramieniem, dwa wysokie występy pasują do dwóch wnęk, a dół domyka prostokąt. W innych wariantach któreś wcięcie ma złą szerokość lub głębokość.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.489820+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e6ea27bd03934a0285cad077d92bbcae3b0e25cd23af74c01edc6e0f8b838364"
+  }
+}

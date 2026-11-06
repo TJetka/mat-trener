@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "createdAt": "2026-11-06T12:05:42.912969+00:00",
+  "toolVersion": "0.1.0",
+  "preparationGitSha": "87906fdab9e8fae0cb915ead0f82a24ac2b510e9",
+  "inputHash": "e910d07144bdeb8ed08c5d277751b57e519ac7a07fd89429ca9e3ecdaf82421c",
+  "contentHash": "130696c9af8d581a534408508103fca38586c2ba3d2ca73d0af8e6bb94d24e47",
+  "randomSeed": null,
+  "config": {
+    "language": "pl",
+    "format": "plain text",
+    "display": "final review, wrong answers only",
+    "sourceRecordsChanged": false,
+    "taskCount": 600
+  },
+  "method": "Codex-authored explanations individually checked against task text, options and unchanged official keys. Referenced diagrams visually inspected. Review is model-assisted, not independent human sign-off.",
+  "exceptions": {
+    "alfik-2012-4-sp-pl-014": "Explain missing birthday information; preserve official D/E acceptance.",
+    "alfik-2018-4-sp-pl-016": "Document organizer cancellation; no invented answer. Full-credit tasks never have a wrong-answer panel."
+  },
+  "perEdition": {
+    "2005": {
+      "count": 30,
+      "contentHash": "e44956f5b5c3e3eb2eb65180a1cea6d181cfce5e21e5c26b694338961f872c6f"
+    },
+    "2006": {
+      "count": 30,
+      "contentHash": "0d276305d20e8bb768b4edb882b27edd09321fbee102cdf2c9633497640849a3"
+    },
+    "2007": {
+      "count": 30,
+      "contentHash": "c27447ae085255699a1d70175d61b4f57350f15aba2e0a108fb1fa86147a78de"
+    },
+    "2008": {
+      "count": 30,
+      "contentHash": "fe3378e4cb17e64dcf972b71a6329516e59cd5221891d8f7b57a0c3d23055194"
+    },
+    "2009": {
+      "count": 30,
+      "contentHash": "287a4f054be0560e6137b3fc75d256b3c5b357230a033dbb13bced04cc4e2339"
+    },
+    "2010": {
+      "count": 30,
+      "contentHash": "04ffb92eadfbf89312ff51a088013f4a4938c56987f9404dc331cd1f205cf1bf"
+    },
+    "2011": {
+      "count": 30,
+      "contentHash": "bc412ddb839c24560dc82125ebbb48448c648f3e1ca7243bb53bae9965f04b45"
+    },
+    "2012": {
+      "count": 30,
+      "contentHash": "959fac34b06f210e381f2b47cf6bfc74e81f8521b0023258ecb4e89bee63acb6"
+    },
+    "2013": {
+      "count": 30,
+      "contentHash": "441ecc88541b086b8b0946d3255de4dfd37d0a00f97995bc730d507d4fa15636"
+    },
+    "2014": {
+      "count": 30,
+      "contentHash": "eab0ba7678ef7880fde4a351bfc5beb17f6070b148499a8fdd888dfb8a9ee362"
+    },
+    "2015": {
+      "count": 30,
+      "contentHash": "23328fab9d1b94b5c93bbea6cda20796d92c7686018d2d8723ac7554a23e92e6"
+    },
+    "2016": {
+      "count": 30,
+      "contentHash": "bbf25b334ec525a8e39355f6dee71ceaf1855d23f3a82f8ccca2cd76e7270a05"
+    },
+    "2017": {
+      "count": 30,
+      "contentHash": "4b6c2f4a7d0d163b3dcb09f369f3edce5f4e2a374e29a5142ffcfd5107a340a8"
+    },
+    "2018": {
+      "count": 30,
+      "contentHash": "eb65e1d06fe4dedba297ddd39cb79dae21f24fb84d94e18f5130d60cae62ef8d"
+    },
+    "2019": {
+      "count": 30,
+      "contentHash": "9a6d0271b1f791b46444f440d02d694c2945d2ebcb1205c74913dd9d1a6d6272"
+    },
+    "2021": {
+      "count": 30,
+      "contentHash": "6d3e8755b0f4c875249c7df095c229b9d21571e33687e1ce467b6a4564d6223e"
+    },
+    "2022": {
+      "count": 30,
+      "contentHash": "e50d0bbb38ba50a9cbb967d261a78376d9a29a54b3b56a37f7fd6e09f4694da5"
+    },
+    "2023": {
+      "count": 30,
+      "contentHash": "4959804ae7c8749a68a0bc8bce7456704e9435ae255a33c9ebeae287f4bf5554"
+    },
+    "2024": {
+      "count": 30,
+      "contentHash": "2c36ef48b0e0e80a0f227992945ae8187f71f2b3303a2254d8ffc6f84b874d09"
+    },
+    "2025": {
+      "count": 30,
+      "contentHash": "b4b882d1f690028fb0b0e59ea0d9e819384265dfc6250bdd93306deea7d2327e"
+    }
+  }
+}

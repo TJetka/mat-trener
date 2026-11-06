@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5e4db8622e4e765ca81eef38e0f6f32b751f6ed82aaaffd1c083e5779fb8673a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od południa tydzień temu do wczorajszego południa minęło 6 dni. W tym czasie zegar stracił 3 minuty przewagi. Opóźnia się o 3 : 6 = 0,5 minuty na dobę.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.487952+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fc6158d1be7571659afd43e95c3438b969631b25ef09e77f7bd5d04e95a9956e"
+  }
+}

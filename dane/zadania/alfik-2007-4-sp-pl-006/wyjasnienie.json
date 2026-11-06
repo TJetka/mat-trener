@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8589a425c23fee27773c61f984595f7a9e9d9daf42c5c42c5a565eebfbebfad7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Tydzień ma 7 dni. Oblicz 105 : 7 = 15 tygodni.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.496238+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1a14526458f15053ec7051a7ff5b7354d576f3e8c27741f6ac6290bf2a3bf30d"
+  }
+}

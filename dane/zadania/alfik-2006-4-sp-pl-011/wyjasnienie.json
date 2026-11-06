@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5c37fff00072fd07ce19bd7c9f9ed32c1932fd60addbf06e55367acf34404dc3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Milion to jedynka i sześć zer. Milion milionów to iloczyn dwóch takich liczb, więc ma 6 + 6 = 12 zer.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.490790+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f4695fc0a420aef77cbb3a35522d58f0dbc1970c52e2b3e1c1c2924cf1e65f8a"
+  }
+}

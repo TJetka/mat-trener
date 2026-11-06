@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1a50585845fa99899a0bf61522462698d408e561bb332b295aa8c76d44068739",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jedna para butów wystarcza na dwie nogi. Na 100 nóg potrzeba 100 : 2 = 50 par.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.495270+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c335da27be31e9311d626174732607e6d63dd6e3438ec425f36abc00d778e792"
+  }
+}

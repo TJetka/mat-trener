@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1f458a1d1db4ae38e83481df6bbaef3d21c29a253b875faeacea1b6e496e417c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wieże mają wysokości 5, 3 i 4. Przenieś z pierwszej po jednym klocku do drugiej i trzeciej: otrzymasz 3, 4 i 5. Jedno przełożenie nie wystarczy, żeby pierwsza była ściśle najniższa.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.505421+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d62c69cd9555be0bc761b10405722fffabfd94ca84ea6b31068fd15da9ac0990"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7634be82f00254eb6078a1c5c2542e34cea4f3f48e668596ec312c504a249580",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jeśli cyfra to a, dopisanie 4 daje 10a + 4. Ma to być 11a, więc a = 4. Rzeczywiście 44 = 11 · 4. Jest jedna możliwość.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.487702+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4bbc85e55c7bbeffa541745dc70a908cb5fb51e049b1e0ca87f8a3657f046572"
+  }
+}

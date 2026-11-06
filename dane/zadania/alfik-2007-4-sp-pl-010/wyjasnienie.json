@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "942a71d81a86a1b91b26f82318f54fbd38dbf4bd03e2fda73b803fae00edbe52",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwie tony to 2000 kg. Sześć skrzyń waży 1800 kg, a siedem 2100 kg, więc zmieści się najwyżej 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.496979+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e8e872f8f9c14359648509157b30e62ae3335837499a99ea0079a1e663b25498"
+  }
+}

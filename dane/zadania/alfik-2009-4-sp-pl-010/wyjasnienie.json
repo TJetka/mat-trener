@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e5d34f2f86551c3aeba608ff8de4dafa1bd16b5ac5541d6c5d37f620612d7695",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery i pół tygodnia to 4,5 · 7 = 31,5 dnia. Żaden miesiąc nie jest tak długi. Odpowiedź to zero, czyli „inna odpowiedź”.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.509640+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cd9fe7173eb1fd8411d62124e0013e7696a93a7d80a27ad960f14e6a09b0c458"
+  }
+}

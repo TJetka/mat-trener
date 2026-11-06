@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "609755ac6ad021ffc67c7b0b3c9a69aa934190f0b24317c77d9eff09d51d64b2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofnij działania: (12 + 4) : 2 + 5 = 13. Pomyślana liczba to 13, ale pytanie dotyczy jej cyfry jedności: 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.499154+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "84173e9f467d6d2ac2df5c20c514639b1d13270f09903d1d0e5cb986d1fa18f2"
+  }
+}

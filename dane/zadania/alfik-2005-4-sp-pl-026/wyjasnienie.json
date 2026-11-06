@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f394798a2b6a51d93107399c71b5429bffd0c75d07f175d4ee9f3ab17d63a6af",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwadzieścia tygodni to około 140 dni. Po czterech miesiącach roku mija około 120 dni, więc dwudziesty tydzień przypada w maju.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.487363+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6da5ac70406809f4523cc383c11365435fa97be3a8cdd1bc32907ee10f3f8e3a"
+  }
+}

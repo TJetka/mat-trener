@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0ab3189a009bef34efd2093ba18f515beebecb4c64f3c44d86003d75d94849cf",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy jardy to 3 · 3 = 9 stóp. Każda stopa ma 12 cali, więc razem 9 · 12 = 108 cali.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.508168+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a29ecd54effa5b964184dabdb486e684e0c4898bdbfc57d8fa92c6f84ba29330"
+  }
+}

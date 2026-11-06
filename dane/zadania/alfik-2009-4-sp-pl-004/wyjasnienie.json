@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7f1cee7dd56fef93e931bd3005e9e2ebf24ed1d9a82b5c64eab8faf5e0759535",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dla miesiąca o numerze m dzień musi mieć numer 32 − m. Każdy miesiąc poza lutym ma taką datę; w lutym wyszedłby niemożliwy 30. dzień. Jest 11 dat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.508580+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "45d958bac6d1d80b0f6ac1d7f7ecdb567bc15d2bb7e676383b1f6b5ec7985725"
+  }
+}

@@ -1,6 +1,6 @@
 # Mat-Trener
 
-Polish, static Alfik Mathematics trainer for grade IV. Includes 600 source-checked tasks from all 20 available class-IV editions (2005–2019, 2021–2025), three test modes, live scores, topic tags and color-coded answer review. No accounts, backend or saved history.
+Polish, static Alfik Mathematics trainer for grade IV. Includes 600 source-checked tasks from all 20 available class-IV editions (2005–2019, 2021–2025), three test modes, live scores, topic tags, color-coded answer review and a short Polish explanation for every task. Wrong answers reveal the explanation in the final review. No accounts, backend or saved history.
 
 ## Run
 
@@ -27,7 +27,7 @@ npm run test:e2e         # local request interception; no external services
 | Directory | Purpose |
 |---|---|
 | `src/` | UI, random sampling, deadlines, scoring |
-| `dane/` | Editable edition manifests, LaTeX tasks, taxonomy |
+| `dane/` | Editable edition manifests, LaTeX tasks, reviewed explanations, taxonomy |
 | `narzedzia/` | Import, validation, review and build tools |
 | `tests/` | Authored fixtures and acceptance tests |
 | `lokalne/`, `public/`, `dist/` | Ignored local/generated artifacts |

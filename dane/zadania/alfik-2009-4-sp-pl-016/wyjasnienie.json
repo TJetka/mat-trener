@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ee279e4115875f5ba8ba95714f77e92f8d4f19009cc169aaabcfdc4bff450daf",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na rysunku jest 16 jednakowych trójkątów. Łącząc je parami, otrzymasz 8 małych kwadratów. Z czterech małych kwadratów powstaje jeden większy, więc możesz ułożyć dwa jednakowe większe kwadraty.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.510803+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5634d03fba4ab7c6ee266437cd0c3885815e0da55f587a212c31a22886e779f6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "5d2bfe4599c7c8e88fb01b35094a232edb914ec2bfc5f6b43f336abb8860a1c4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwszy warunek oznacza, że setki i jedności są równe. Dziesiątki to więc sześciokrotność tej cyfry. Jedyna możliwa niezerowa cyfra setek to 1, a cyfra dziesiątek to 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.513850+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c0db8b6c30509e8af1ee678604176929c2c0f41b7cf23f0209c0deabbd6c2649"
+  }
+}

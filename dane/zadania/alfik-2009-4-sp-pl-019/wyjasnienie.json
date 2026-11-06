@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4b8b3341e93ff43bc1f90da713dd423be3d235e5e29c44fae91f7ec8472d200c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Największa pasująca liczba to 90, bo 9 · 0 = 0 < 8. Każda większa dwucyfrowa ma dziesiątki 9 i dodatnie jedności, więc iloczyn co najmniej 9. Cyfra dziesiątek to 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.511502+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a6089cded61e96794988915c8e00f2193c5721a26f95cdf6c9ae21c543a3b374"
+  }
+}

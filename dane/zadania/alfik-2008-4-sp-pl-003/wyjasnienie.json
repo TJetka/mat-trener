@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a33665e9a31167812d16e846bc9e30059e8c114b8af8044c230aef64aa751409",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy samochody mają razem 12 miejsc, pozostałe dziewięć ma 45. Łącznie jest 57 miejsc, więc po zajęciu 50 pozostaje 7 wolnych.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.501934+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "77c15c754f73d3537dbfd6d066acff2a4178b98102a105227a988a107f0c6f4c"
+  }
+}

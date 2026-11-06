@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "18e2add3486a7ca2f7e3c38e565697bd4a3a67857c9b75c1cea470b3c25423bd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przedrostek kilo- oznacza tysiąc. Tak jak kilometr ma 1000 metrów, kilotona ma 1000 ton.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.482341+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9abab23b8277435b018b07650d0e83ec437de7f61ce64d2625a9f58cc216504d"
+  }
+}

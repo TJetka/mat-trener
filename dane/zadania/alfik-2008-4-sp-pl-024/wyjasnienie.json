@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cd64da9d7c8837ea132a82de09710eb0661eb517406c25f7c3268d900a502fb9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od pierwszego do czterdziestego rozbójnika następuje 39 zwiększeń po 2 monety. Ostatni dostanie 3 + 39 · 2 = 81 monet.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.506399+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "83390f27327b36b9a2e11c5d4dc11d219dd2c166735b835ff91a4063363d3fd6"
+  }
+}

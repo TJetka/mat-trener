@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d81db74d8a6671d67605a7a114f138e7de0bed5221d4092f616541ffc3dc6348",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Licz trójkąty według liczby wierzchołków leżących w rogach pięciokąta: 10 ma trzy takie wierzchołki, 20 ma dwa, a 5 ma jeden. Razem 35. Uwzględnij także większe trójkąty, których wnętrze przecinają inne odcinki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.485041+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cf56898de4d638affd37ba3b96c868cbdec836278ef800bfad768e19c3ca607c"
+  }
+}

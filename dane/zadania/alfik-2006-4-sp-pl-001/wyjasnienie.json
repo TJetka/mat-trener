@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "74070a975340a0ef2123c3e10a36c1653301e89f52f82ce067d0f32c944be830",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy chomiki zjedzą dziennie 15 dag, a przez 30 dni 450 dag = 4,5 kg. To 4,5 : 1,5 = 3 opakowania.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.488768+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2244978297be47a9f4e97d0454ce78228833cd1c9eec4c845a62031eb86f5956"
+  }
+}

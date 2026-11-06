@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "012b807c0db269a195c5834342b28e4bd805509d5944c0af93aedfeaf5980c74",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Czerwonych jest tyle samo co zielonych: po 10. Niebieskich jest dwa razy mniej, czyli 5. Razem 25 ołówków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.499402+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8f3bed1cf0277c3425e7ee5b06ac8bd8a27c80572f7963ee0b3ff0f25ed3abba"
+  }
+}

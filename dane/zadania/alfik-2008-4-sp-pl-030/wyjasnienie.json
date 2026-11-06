@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b68967a72274584997f9b8093c28f43bcddb81c939a2d58610e7da50372968ea",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Już liczby 10, 20, 30 i 40 mają iloczyn cyfr równy 0 i dodatnią sumę. To więcej niż trzy przykłady.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.507575+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6c00c5b292ca5d16734ec21b26ed83dae63f5b72c9d7efb315f1a239cf57e03d"
+  }
+}

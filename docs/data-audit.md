@@ -24,3 +24,7 @@ All 18 remaining class-IV papers (540 questions) and their keys were compared wi
 Preserved 33 diagram/option crops in 2005–2011. Crop coordinates and two masks removing adjacent prose are recorded per task; the diagram content is unchanged. Clock superscripts use readable HH:MM text. Removed publisher footers accidentally captured in the last option; repaired two printed word wraps in 2005. Original source files remain local and unchanged.
 
 2012/14 accepts D or E. The official 2018/16 cancellation awards full credit for A–E and blank. Both exceptions retain exact source references and are covered by scoring/validation tests. No answers were inferred by solving. Source hashes, extraction configuration, Poppler version and preparation Git SHA: `dane/audyty/archiwum-2026-11-06.json`.
+
+## Authored explanations — 2026-11-06
+
+All 600 records now have a separate `wyjasnienie.json`, bound to the approved task/key hash and independently hashed for review. Guides are original Polish plain text, not organizer solutions. All source diagrams referenced by guides were inspected; original TeX, metadata and edition records remain unchanged. Dates use the edition year. The 2012/14 guide explains the official D/E exception; 2018/16 records the cancellation without inventing an answer. Config, input/content hashes, per-edition counts and preparation Git SHA are recorded in `dane/audyty/wyjasnienia-2026-11-06.json`.

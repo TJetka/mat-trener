@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a098d9871e43cb635fc786a4cae5156cffa54f406f3e8b1b6213e6aa30411720",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Różnica między 1,5 tabliczki a 0,25 tabliczki to 1,25 tabliczki, czyli pięć ćwiartek. Pięć ćwiartek waży 200 g, jedna 40 g, a cała tabliczka 160 g.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.513251+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cabeb3b065d9b1e35a0b2a6923f7058835c32d1c6a4045f96819dd7b47b4e7e9"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "385f58c95a1722aaddc604f9669c322b9fa2d6f6fb88a73ef1ada8987b9ba38d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Oblicz kolejno: 32 · 5 = 160, 18 · 9 = 162, 24 · 6 = 144, 41 · 5 = 205, 19 · 10 = 190. Największy wynik daje 41.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.505109+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8a6251277f038e74d8ed040a65c24672f3014db3ad9123afb57a290d168dd37e"
+  }
+}

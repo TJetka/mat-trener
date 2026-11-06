@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6e88eaaba249ac65d5fed7853b247127bcb80aa519e5fcf66cf3c4c8587da0fd",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Godzina ma 4 kwadranse, doba 24 godziny. To 24 · 4 = 96 kwadransów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.498665+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "933edac4860ff23f2b6759a3fe852584de846d8e91e09d2dc0ca9f2fba8fbf30"
+  }
+}

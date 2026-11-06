@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d5e979c7c64efa9889c5cced22c098e9f27abdd2099889aa404d1734f1cb8f92",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dodając 7 + 3, rząd Jacka policzylibyśmy dwa razy. Odejmij jedno powtórzenie: 7 + 3 − 1 = 9 rzędów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.497140+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0c0fa480a8c882458adb8b46286dd21a96fe93bf626c350f397cabb622e10e57"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8ca461113a5e3f003a21f37668c4000897eebe9e5052e9848f917e8118489dee",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzech sąsiadów mają pola na brzegu, ale nie w rogach. Na każdym z czterech boków jest 6 takich pól, razem 24.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.509796+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1de88eb8e04311053dc23ccad72919d85081bfd41f38a988b39241363e5e5f3d"
+  }
+}

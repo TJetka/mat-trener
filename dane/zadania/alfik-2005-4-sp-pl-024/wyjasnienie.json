@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0b5d612f8b1052e8e9cfa8e79b7f67a82bce04c63b9c054484c5bf0e0e520eb4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najpierw zamień skrajne kółka w górnym wierszu. Potem zamień środkowe i dolne kółko w prawej kolumnie. Każdy wiersz i kolumna zawiera teraz trzy wzory. Jedna zamiana nie usuwa wszystkich powtórzeń, więc minimum to 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.486690+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ff8537dc4f629b64ce03d66f004a2589714cdfe6bbc5a27568cf9a015ea4c8a1"
+  }
+}

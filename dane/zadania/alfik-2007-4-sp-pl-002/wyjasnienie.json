@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c97b15a2d3ca281961fa8fa16efd77883d193ed9e4f9c866797002e599427b23",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po wykreśleniu 23 zostaje 24, 27, 29, 32 — kolejność rosnąca. Liczba 23 jest jedyną, która tę kolejność zaburza.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T12:04:20.495512+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4410132471db9dd33cde4b5a5a450eac95adf8cd9ddd5b9682735e85cd121837"
+  }
+}
