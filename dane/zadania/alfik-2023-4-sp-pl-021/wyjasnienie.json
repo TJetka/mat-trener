@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "171756c340ef59a59bb6226ab3b5113483b96b95648c27072af09148790901f4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Suma dwóch liczb trzycyfrowych i cyfry jest mniejsza niż 2000, więc A = 1. Wtedy pasuje 181 + 818 + 1 = 1000, czyli B = 8 i C = 0. Suma cyfr wynosi 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.123973+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6c8c8ef86cd5425ea443b0cde44710334323313b167a8f16713cbd801a6c630b"
+  }
+}

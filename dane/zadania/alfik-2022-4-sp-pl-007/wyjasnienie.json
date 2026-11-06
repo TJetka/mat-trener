@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "76020a8f1891aeb7be2f1b38acd648119c00a123ddd570f97040130412e0b584",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Duża szachownica ma 36 pól. Każda część ma 4 pola, więc powstaje 36 : 4 = 9 kwadratów, ułożonych po 3 w każdym rzędzie.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.797983+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4ddd4f5fa982e20dd6e8dc730630a64d272b35b669a37fdea688442cde137236"
+  }
+}

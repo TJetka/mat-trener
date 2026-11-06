@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cc8957ea1574ff4fbb13c89a4d22d92c2ba8802033878864533b966ce5de0e27",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofnij obniżkę o połowę: przed promocją cena wynosiła 2 · 19 = 38 zł. Potem cofnij podwyżkę: 38 − 5 = 33 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.798847+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d70d10ed0ad3527b10d7cb11ee9900e24a3c834b42263cf5908d4da61c5735be"
+  }
+}

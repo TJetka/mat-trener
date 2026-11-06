@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ef5ec5b05e88539fde6dce3c680852b0bdb1ee6555b056543751621b0da29631",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzech środkowych zawodników wygrało z ostatnim i przegrało z pierwszym. Między sobą rozegrali 3 partie: 2 remisy i jedno rozstrzygnięcie. Ich końcowe wyniki to 1,5; 2; 2,5 punktu, więc trzeci ma 2 punkty.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.800856+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1d1189eeb176dec1918fc34f778930e1484a09d068f9b509dd46699175865584"
+  }
+}

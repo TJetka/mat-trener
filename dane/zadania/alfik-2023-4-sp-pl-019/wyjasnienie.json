@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cef924e0004aafe16739ef3240c1b06fcac7f5ee2da516dd14ac9e59bc5fa5ec",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najgorszy przypadek to najpierw 4 zielone i 3 czerwone kule. Ósma musi być biała. Wcześniej można jeszcze nie mieć wszystkich kolorów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.123665+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d42978b9ef41a997a9f81842682865d27c0e61276716ca48bfad83b1c0f4a185"
+  }
+}

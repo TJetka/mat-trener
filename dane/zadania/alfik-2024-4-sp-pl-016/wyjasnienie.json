@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d8f27a340e7ac295270dadd770bfca9d8ae1262a463874960be3a3f3db54f4b1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "14 godzin przed południem to 22:00 poprzedniego dnia. Od 22:00 do północy są 2 godziny, a potem jeszcze 7; razem 9 godzin snu.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.129297+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2364b7802f9139ef7583c5c392bdf2a7a0881b523ff45ed95988d4690f113474"
+  }
+}

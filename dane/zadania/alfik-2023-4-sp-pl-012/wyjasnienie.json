@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "04b945fb583a3dc9dbbca9ab1ff0d69fb6c1bf3c66cdb6eca98d8db9f487dbad",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od południa do 19:30 mijają 7 godzin 30 minut. Zegarek odmierzy połowę, czyli 3 godziny 45 minut, i wskaże 15:45.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.122511+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dd52484750a47a47b472a72b42bbf720e9f53a7fa2a0c04565854b513208bc8e"
+  }
+}

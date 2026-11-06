@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "82544d23bfb9554fbfd7baf1db52d334640e727d8d8f545411f9c88e912b0be0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy zabrania usunęłyby tylko 9 kamyków. Cztery zabrania usuwają 12, więc trzeba wcześniej dołożyć 2 kamyki. To 4 + 2 = 6 ruchów; mniej nie wystarczy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.135470+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "dbb7a2c0aead5877a79c61eff5f4bf00f8551313205f18f1e0daa40d42c00b52"
+  }
+}

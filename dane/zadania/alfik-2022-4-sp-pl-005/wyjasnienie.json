@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0cec3d00a1721d8900f2bb5027ee1840461674195cc755c183e3f75603328d47",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Różnica wieku nie zmienia się z upływem czasu, bo oboje starzeją się jednakowo. Marek nadal będzie starszy o 2 lata.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.797706+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "730d5c18be546b580482c07808a59ed189da0e0ef562393c16c24ac0329f145e"
+  }
+}

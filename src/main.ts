@@ -334,6 +334,14 @@ function renderResult(main: HTMLElement): void {
     if (letter === chosen) body.append(element('span', 'answer-status', 'Twój wybór'));
     row.append(body); card.append(row);
   }
+  if (outcome(task) === 'wrong' && task.explanation) {
+    const guide = element('aside', 'explanation');
+    const heading = element('h4', '', 'Jak to rozwiązać?'); heading.id = 'explanation-title';
+    guide.setAttribute('aria-labelledby', heading.id);
+    guide.append(heading, element('p', '', task.explanation.text),
+      element('p', 'source-label', task.explanation.author));
+    card.append(guide);
+  }
   const source = element('p', 'source-label', `Klucz: ${task.source.key.pozycja}, strona ${task.source.key.strona}. `);
   const doc = edition.documents.find(d => d.id === task.source.key.dokument);
   if (doc) { const link = element('a', '', 'Oficjalny klucz ↗'); link.href = doc.url + `#page=${task.source.key.strona}`; link.target = '_blank'; link.rel = 'noopener'; source.append(link); }

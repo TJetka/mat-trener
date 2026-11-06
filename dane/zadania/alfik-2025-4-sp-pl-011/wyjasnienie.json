@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e02ce935515e07e83aefd25de4a24d4ff8ca0468ef3a0cbffeb81ff91fc52cca",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Trzy kolejne liczby o sumie 18 to 5, 6 i 7. Można najpierw znaleźć środkową: 18 : 3 = 6, a potem odjąć 1.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.134938+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0f97a8814d9847eb8426bca540426bd707649478c8b3781344d049908a29f7a9"
+  }
+}

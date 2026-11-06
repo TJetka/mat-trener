@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "49684a1f4b05b603c5cb00b1fe63b86d47c394d37de82a2d530d15b7ce7006c9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Czarnych jest o 2 więcej niż białych. Po dodaniu trzech czarnych różnica to 5, czyli tyle, ile białych. Początkowo było 5 białych i 7 czarnych, razem 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.801676+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7c3b5851d9dc860b99811e74d231b935d1c8702225f965a67a8446ea1cf1ece2"
+  }
+}

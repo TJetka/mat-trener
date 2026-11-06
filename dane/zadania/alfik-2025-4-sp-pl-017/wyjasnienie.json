@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ddf8a5b788480663763396999967afe2cca612311179b7330066e6f565ce9af3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Bok kwadratu ma 24 : 4 = 6 cm. Po przecięciu na pół powstają prostokąty 6 cm na 3 cm, każdy o obwodzie 2 · (6 + 3) = 18 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.136118+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f24d96ec8cbeabbf0916227970355f6f77a135756f6ff9ac1b88bc6d559d71c8"
+  }
+}

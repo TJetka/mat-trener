@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "060f13084aa338258be51cc12bd238bc9edc25197511fa2894f93e9ed155e507",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od poniedziałku 18:00 do soboty 6:00 mijają 4 doby i 12 godzin, czyli 108 godzin. Wskazówka godzinowa robi obrót co 12 godzin: 108 : 12 = 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.798617+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ab9064864e35244885c789b1bf27eec84fb0cc52585c17cfe1b702537d394b22"
+  }
+}

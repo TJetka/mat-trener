@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6377f4777735b0cc163adbafebb318087aa5ac66694ce7d8b585d01ceb4f1253",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Marysia ma 3 pięciozłotówki, czyli 15 zł. Jacek ma 6 dwuzłotówek, czyli 12 zł. Ma o 3 monety więcej, ale o 3 zł mniej — oba warunki są spełnione.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.799725+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "34d55df95ad5516cbb82db7b0718d9a3fb9990b9daa12bb7baa13e3802d13eeb"
+  }
+}

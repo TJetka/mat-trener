@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "22eb32071cff400e0cf4df9c26289cfd5459b493e4272ffb69011a83d7da51a7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa ruchy dotkną najwyżej 6 monet, a trzy ruchy dają nieparzystą liczbę orłów, więc nie wystarczą. Cztery działają: odwróć kolejno monety (1,2,3), (1,2,4), (1,5,6), (2,7,8). Każda zostanie odwrócona nieparzystą liczbę razy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.802327+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "82cd0dbc4c8add33b0104ab5a1c38ed46a5e376b9347c79fe793c81aca93b6ff"
+  }
+}

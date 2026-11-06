@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e8299bf3217848bce442d30a0a557d5a47330651e386dee703836fa2bfa90f2f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cyfry 1, 2 i 3 spełniają 1 + 2 + 3 = 1 · 2 · 3 = 6. Zero odpada, a przy trzech cyfrach co najmniej 2 iloczyn jest już większy od sumy. Suma wynosi 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.125194+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "54b377ffdc9a308180e750fa2288c20b40409eddd8f916c3ebefceb0ebe68cc1"
+  }
+}

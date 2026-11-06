@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "112f221dd207062e2d3adcc93ef871d871cbd70975f5e87b684a0c77d52c0f2a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dziewczynki siedzą parami, bo każda ma dokładnie jedną sąsiadkę. Między parami siedzi jeden lub dwóch chłopców. Trzy pary dziewczynek i 5 chłopców dają 11 osób; przy innej liczbie par nie da się spełnić warunków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.137242+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "278813f1bce8074fd48415126cc09bc56023fc4e9d1c2c8354b712a9076ab582"
+  }
+}

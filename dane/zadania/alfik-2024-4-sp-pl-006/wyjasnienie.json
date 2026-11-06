@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "512fca5ef927e874b114e4ed9ff21171373c3d22fb1bd9b8dcd79a7c5787bedf",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wypisz liczby bez powtarzania: 70, 61, 52, 43. Każda ma sumę cyfr 7 i większą cyfrę dziesiątek. Są cztery.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.127352+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bf69f8be82b91e1300cc0b39949d928e87640f4c361fc86ab690855b6c89395f"
+  }
+}

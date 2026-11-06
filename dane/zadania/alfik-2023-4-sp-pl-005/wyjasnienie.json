@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e31dee7402c4123adc5800a6245d85410235b5947b114b65b432d96aa10f07be",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Styki czterech pól są tylko wewnątrz szachownicy. Między ośmioma kolumnami jest 7 linii, tak samo między wierszami. Ich skrzyżowań jest 7 · 7 = 49.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.121387+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3c2ee812afe467b25ecad6273666358d42d670c5d148d5c840811ede95d08b2c"
+  }
+}

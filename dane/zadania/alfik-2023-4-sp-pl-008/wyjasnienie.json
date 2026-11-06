@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ba8771c599954a26bc19d703f6fb3cd2485d12dd190774dff7e79f9b8afcd22c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każda z 4 wysp łączy się z 3 pozostałymi. W rachunku 4 · 3 każdy most jest policzony z obu końców, więc mostów jest 12 : 2 = 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.121851+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5a9e8a3c7271b8edf3ac0b61197b2fef2fb48eecb73ba2916f2f1f4efff06970"
+  }
+}

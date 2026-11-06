@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "22e2359656370cfd0247452a5072285d461b2b1b76a19eb48b749e34b33d32cc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zgodnie z definicją 4! = 1 · 2 · 3 · 4 = 24. Wykrzyknik oznacza tutaj silnię.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.121247+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "fe6bb336fcb972daf2c5f04a5cd8c74f738417581e34deb995b884f2247b3b21"
+  }
+}

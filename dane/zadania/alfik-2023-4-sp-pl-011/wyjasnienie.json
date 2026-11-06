@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cf95403e8f00794b213b755231bf742309a6d71258fbcbfe2519b1a54e5ad2da",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każdy kwadrat ma bok 12 : 4 = 3 cm. Dwa takie kwadraty tworzą prostokąt 6 cm na 3 cm, którego obwód wynosi 18 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.122358+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "91cee6b6bbcf4294989f5565e23d892ccd8c0a2df1ba0b7f41227e54516a754a"
+  }
+}

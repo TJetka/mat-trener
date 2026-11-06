@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d79f9ea8254e3c97e561b156f478bc81ffb3d81a074fa7887074bc0706c259a2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sprawdź liczbę uczniów dla podanych liczb grup. Przy 5 grupach jest 25 uczniów, a wczoraj było 24 = 4 · 6. Pozostałe odpowiedzi nie spełniają tego warunku.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.137541+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "7773992b39478d57989940b2271bead740e0287f47a6c34665bcba16cf423f88"
+  }
+}

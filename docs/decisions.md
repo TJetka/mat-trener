@@ -10,3 +10,7 @@
 
 - **2026-11-06 — Full archive:** owner's request for all years expands the bank to all available class-IV editions, 2005–2019 and 2021–2025. The supplied archive has no class-IV 2020 paper. Preserve original wording; normalize superscript clock times to HH:MM and show the source year for date-dependent problems.
 - **Official key exceptions:** 2012/14 explicitly accepts D and E; store both. For 2018/16 the official footnote awards all answers, including blank, full credit. Represent that as a documented cancellation with `answer: null`, never an invented answer. A full year remains available when every cancelled record has an explicit official scoring decision; unresolved cancellations still fail validation. Exclude cancelled tasks from random practice. This refines the PRD's blanket exclusion of cancelled editions using the source evidence.
+
+## Authored explanations (2026-11-06)
+
+The user requested a short explanation per question and selected final-review display. Only wrong answers reveal the guide; correct, unanswered and active questions do not. `wyjasnienie.json` stores plain Polish text (safe text rendering), author, approved task hash and an independent review hash. Official source TeX and keys remain unchanged. Existing snapshots without guides remain compatible. These are Mat-Trener explanations, not organizer solutions.

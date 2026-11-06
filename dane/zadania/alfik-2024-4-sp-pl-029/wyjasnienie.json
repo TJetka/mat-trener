@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3558a3e55ac7f8592df126b08e341378c03bf84f690b569a409582bfb8ecbec6",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Osiem owiec miałoby 32 nogi. Brakuje 32 − 28 = 4 nóg. Każda gęś zamiast owcy zmniejsza liczbę nóg o 2, więc gęsi są 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.132472+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5f78b59b797a2ccb4d39d55022dab6e134434509823de1e07610a17edf72f158"
+  }
+}

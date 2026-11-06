@@ -245,3 +245,28 @@ test('mode choice is accessible during a session and confirms abandoning it', as
   await page.getByRole('button', { name: 'Zacznij miks' }).click();
   await expect(page.locator('#live-score')).toHaveText('Twój wynik: 0 / 31 pkt');
 });
+
+test('wrong-answer explanations appear only in review and survive reload on mobile', async ({ page }) => {
+  await page.setViewportSize({ width: 360, height: 800 });
+  const bank = fixtureBank();
+  for (const task of bank.tasks) task.explanation = { text: 'Dwie pary to 2 + 2 = 4. <b>To zwykły tekst.</b>', author: 'Mat-Trener · opracowanie własne', version: 'fixture-guide' };
+  await serve(page, bank); await page.goto(origin + base);
+  await page.getByRole('button', { name: 'Zacznij trening' }).click();
+  await page.locator('#answer-A').check();
+  await expect(page.locator('.explanation')).toHaveCount(0);
+  await page.getByRole('button', { name: 'Następne' }).click();
+  await page.locator('#answer-D').check();
+  await page.getByRole('button', { name: 'Zakończ test', exact: true }).click();
+  await page.getByRole('button', { name: 'Tak, zakończ test' }).click();
+  await expect(page.locator('.explanation')).toHaveCount(0);
+  await page.getByRole('button', { name: 'Zadanie 1, błędna odpowiedź', exact: true }).click();
+  await expect(page.getByRole('complementary', { name: 'Jak to rozwiązać?' })).toContainText('2 + 2 = 4');
+  await expect(page.locator('.explanation b')).toHaveCount(0);
+  await page.reload();
+  await expect(page.locator('.explanation')).toContainText('<b>To zwykły tekst.</b>');
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await page.evaluate(() => scrollTo(0, 0));
+  await page.screenshot({ path: 'test-results/mobile-explanation.png', fullPage: true });
+  await page.getByRole('button', { name: 'Zadanie 3, bez odpowiedzi', exact: true }).click();
+  await expect(page.locator('.explanation')).toHaveCount(0);
+});

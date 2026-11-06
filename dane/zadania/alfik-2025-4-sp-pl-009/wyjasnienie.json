@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "fc27f5a0a0e09d39985577e86bf395324032f52bdbcb34e5b39ff583f4affce9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W jednym litrze mieszczą się 4 ćwierćlitrowe buteleczki, a w połowie litra jeszcze 2. Razem napełnimy 6 buteleczek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.134290+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "44e904917ed32a1e8d4434b9c6a6a04fb510cc6ede7691951a64bb4c5d82ad3f"
+  }
+}

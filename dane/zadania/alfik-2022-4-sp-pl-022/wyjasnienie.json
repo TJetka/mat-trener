@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2c175d5e423edb0e0790f0756c8bdf1f4abbdd3cd1b8d5d2a38aa77cedc4f33d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najkrótsza droga to 21 → 18 → 9 → 6 → 3 → 0, czyli 5 ruchów. Pierwszy ruch musi zabrać 3; po dojściu do 9 potrzeba jeszcze trzech ruchów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.800617+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ff876a25232e1319b0c7689e612eefb4dd0b9b782f1cfbd03bf7763463d386c6"
+  }
+}

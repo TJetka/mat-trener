@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "42afa84f2ffd2c82ab8202e14f2f07fd940ee807a569a4919d29a9cff0704733",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "13 tygodni to 13 · 7 = 91 dni. Trzy miesiące mają około 90–92 dni, więc to w przybliżeniu 3 miesiące.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.797838+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a4e2a1bb6c777353e6fc7dbc985fa29dcc8145f97c6b39b2b2449f6b34f0b8e2"
+  }
+}

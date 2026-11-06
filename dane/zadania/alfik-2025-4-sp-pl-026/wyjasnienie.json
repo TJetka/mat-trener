@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "37f83a48c9f0511c58626f91afeb40c66058bbbace152ac28f2ae5171e222d3c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jeśli Bartek ma dwa razy tyle lat co Antek, różnica ich wieku jest równa wiekowi Antka. Antek ma więc 6 lat, Bartek 12, a razem mają 18 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.137851+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9e82b6aa82aa56b475a08784eacf45024b15c02549ac269ea12cb8c4356cd249"
+  }
+}

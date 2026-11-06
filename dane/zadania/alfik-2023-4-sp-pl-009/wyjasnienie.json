@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "dd497aff43f817f669c0d3b0300ed3fcec941bbbfdda8edfabf9628cc7ef4168",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zielony jest wart 2 czerwone, żółty 4, a biały 8. Razem żetony Basi są warte 8 + 4 + 2 = 14 czerwonych.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.122031+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3fe3ba5e8f35a14b750a5f9cb1fe95bd398a553f1c175855783d40ad89113f41"
+  }
+}

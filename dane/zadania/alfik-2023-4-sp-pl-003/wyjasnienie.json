@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cd4d5a47aba4f36989c0a4e05f55f366d6beb7cae560c81c04530b0c433f9417",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zapisz liczbę grupami: 101 000 101. Jest w niej 1 + 3 + 1 = 5 zer.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.121098+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0ae11747cd7379b25a206099f15ca9a8602f1ca27ff4c3932941bf844227630a"
+  }
+}

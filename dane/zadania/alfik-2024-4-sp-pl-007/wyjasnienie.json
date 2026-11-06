@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "92b8a04899293fb6b622ef7c32c366d10c9714bf68c718599cc9c2259f82fa03",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cztery największe pokoje dają 4 · 3 = 12 miejsc. Jeszcze dwa pokoje dwuosobowe pomieszczą 4 osoby. Potrzeba 6 pokoi; pięć dałoby najwyżej 14 miejsc.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.127583+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4170f1cc42f4b4c01a0c8c485eb440129bfb6224a2b67f01c954acf4122511ca"
+  }
+}

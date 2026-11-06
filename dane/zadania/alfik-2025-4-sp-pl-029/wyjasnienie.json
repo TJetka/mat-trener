@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "9f5728462e238a878b702e41d20132b0a0c9b9a881b06306b5186a85870deef7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Połowa czasu od południa do północy to godzina 18:00. Połowa czasu od północy do południa to 6:00. Od 18:00 do 6:00 mijają 12 godzin.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.138489+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "983b9844b91188dab040fda41939017c774367652b8217e82795efd064ac24fb"
+  }
+}

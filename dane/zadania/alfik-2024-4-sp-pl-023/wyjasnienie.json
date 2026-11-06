@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a630d10206f46b771b32271a7131649c73ea98e2fe12d486befad7d0a38395fc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najdłużej można omijać zielone: wyjąć wszystkie 4 czerwone i 5 niebieskich. Dopiero dziesiąta kula gwarantuje trzeci kolor.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.130579+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d78b4ad19f527120430b821773748b14b7b3cfeadd194a5b2bea6f983f961ef0"
+  }
+}

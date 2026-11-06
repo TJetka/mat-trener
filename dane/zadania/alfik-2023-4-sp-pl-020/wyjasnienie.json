@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3e12819cb8500774feac45c56058e82df6e02eee00762bcaf4b65727c0857dfc",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wstaw znaki tak: 6 + 12 + 3 + 9 = 30. Potrzeba trzech znaków; nie musisz rozdzielać wszystkich cyfr.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.123810+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d418c2d2b2181d9709477be3073483297c500ae680c3960a0c5d310f1a6e2e6e"
+  }
+}

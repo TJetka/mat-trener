@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "afdbc1e43208ff778601b8cfb2d4cad2def17564e778441ca2ff9fa011fcffd2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Reszta wynosi 10 − 3 = 7 zł. Pięć złotówek dałoby 5 zł; zamiana dwóch z nich na dwuzłotówki dodaje brakujące 2 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.134148+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "204c1a11bad7be3afc52b279b99e295af9c23fc9e2e866242691e210774fc9aa"
+  }
+}

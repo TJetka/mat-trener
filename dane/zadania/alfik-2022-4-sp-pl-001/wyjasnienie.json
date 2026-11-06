@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "341b8b496c128bf87480656255dc6d69f962c1ddebf58dd8ce11d52813a76781",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dziewczynki są cztery: Aneta i jej trzy siostry. Każda dostanie 12 : 4 = 3 cukierki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.796806+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "91df61d8132807dc79403de040717009d3a6177872f8ff7178b1a221cb4b7c1b"
+  }
+}

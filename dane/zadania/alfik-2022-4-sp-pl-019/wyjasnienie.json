@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b50118b71984b1b3ec3de49cdf59493bf737cf7084e3c5fd8d228eab79e001aa",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwszy wynik musi być mniejszy niż połowa sumy 11, więc najwyżej 5. Gdyby wynosił 4, kolejne byłyby najwyżej 3 i 2, co daje tylko 9. Zatem wynosił 5; pozostałe to 4 i 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.800140+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "494c1c66aae8625a29014dc6cc0ba6ba75dc327e49dfaf559990f774829c5136"
+  }
+}

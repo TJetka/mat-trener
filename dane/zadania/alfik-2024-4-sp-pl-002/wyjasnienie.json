@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e3920935a92e3db474d0eb99336617d1dc43ba5c3077694f699a4896e3f59549",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rozłóż 4 na iloczyny dwóch cyfr: 1 · 4, 2 · 2 i 4 · 1. Dostajemy dokładnie trzy liczby: 14, 22 i 41.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.126208+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "93c9edb1a5b208883c3b59a6b645b220d34e537618a24309a778edb1593498a0"
+  }
+}

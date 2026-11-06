@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b850f3142302597d4040dbc2a553c2ed5d7d3f123aa5b4223280483d562d659b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sprawdź cyfry 2 i 8: iloczyn 16, suma 10, różnica 6. Cyfrą dziesiątek może więc być 2. Warunek można też zapisać (a − 1) · (b − 1) = 7, co daje właśnie cyfry 2 i 8.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.801941+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8d252f62d4e30513b4bd68e8a2b39a5f2e52bc0cc0a938e858e53231d141237a"
+  }
+}

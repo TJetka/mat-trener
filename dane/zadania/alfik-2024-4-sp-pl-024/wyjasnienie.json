@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "0fb3b1f646eb7a0957ebeddd6d6aa1871ae518bfd683e63d703e824e6f57a2ee",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Numery 1–9 zużywają 9 cyfr. Pozostaje 111 − 9 = 102 cyfry, czyli 51 numerów dwucyfrowych. Książka ma 9 + 51 = 60 stron.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.130779+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d4846330e648afbfff9d146c7eca45622cf2b65034d9eb0757e67079a6d144bb"
+  }
+}

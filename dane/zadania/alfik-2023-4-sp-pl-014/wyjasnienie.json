@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6cd3849bfb31a7a4187f3909e46187786160beb32ce581853076d1ac63f9a2fe",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szerokość obu prostokątów jest taka sama. Cztery dodatkowe zapałki trzeba rozdzielić między dwa długie boki, więc każdy jest dłuższy o 2 zapałki.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.122818+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "16e31fef51a7f426231e4b0070ab26e096c8b74785801d3617c69d7d98467e77"
+  }
+}

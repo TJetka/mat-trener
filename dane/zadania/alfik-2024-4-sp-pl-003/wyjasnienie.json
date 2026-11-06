@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "bf8c52ef63312ecdbcaa0e63bea0706f9f71a417f585c1784ad83957bbd947da",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Średnich pudełek jest 2, a małych 2 · 3 = 6. Wewnątrz dużego pudełka jest razem 8 pudełek; samego dużego nie liczymy.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.126828+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d4adac0f39f443f9b5abff151f1da018217830285644dc771e59482e5025b392"
+  }
+}

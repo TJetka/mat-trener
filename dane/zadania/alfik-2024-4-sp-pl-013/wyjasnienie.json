@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "09d1878ee16292c471fa4ff13a7c55f835cf44031f109fb9e4b1ab3e07296646",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pół stopy to 6 cali. Dodaj: 4 stopy i 10 + 6 = 16 cali. Ponieważ 12 cali tworzy stopę, wynik to 5 stóp i 4 cale.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.128753+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c70a207b8819eb3e29e0cf440cc314d7cbd3b405c208509329a31c7b8217f568"
+  }
+}

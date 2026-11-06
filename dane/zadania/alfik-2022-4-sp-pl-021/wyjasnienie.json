@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f0532d28d54cadd434ad2ebfd892cd54f0225f17d7b7804407afa9f077bed137",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Sprawdź dwucyfrowe dzielniki 63: 21 i 63. Liczba 21 ma sumę cyfr 3, a 21 · 3 = 63. Cyfra dziesiątek to 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.800414+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "527d147d44cd81eb02c6ae5618e4cee4fd3e09fbcfe759d2acb57091cbbf661e"
+  }
+}

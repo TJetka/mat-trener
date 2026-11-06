@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e5d0016e0bac00e96259ec7e3af16705d7d49eb0d2d724b0fa3c44a09768f696",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na kostce największa liczba to 6. Po 4 muszą więc wypaść 5 i 6. Suma wynosi 4 + 5 + 6 = 15.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.798250+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "106b8bae37f52acd9b1bea8cb0a0373011f4da4d88c0646320e633cb1798e49c"
+  }
+}

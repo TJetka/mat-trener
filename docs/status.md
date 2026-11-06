@@ -11,3 +11,5 @@ Validation: 40 pytest and 23 Node checks pass, along with Ruff, TypeScript, prod
 Delivery: coherent commits on `main`, normal SSH pushes to `git@github.com:TJetka/mat-trener.git`. GitHub Pages uses the existing GitHub Actions workflow to publish validated `dist/` at <https://tjetka.github.io/mat-trener/>. Raw PDFs and generated artifacts remain excluded. No workflow changes were needed for this update.
 
 Offline review copy: run `node narzedzia/offline-preview.mjs` after a build, then open `lokalne/podglad.html`. This is not the deployment artifact.
+
+Explanations milestone: reviewed Polish guides for 2022–2025 (120 tasks), shown only for wrong answers in the final review. Guides have independent content approvals bound to the approved question/key version; older saved sessions remain readable. Remaining archive guides are in progress. New validation: 47 pytest and 24 Node checks, lint/build, and the mobile explanation/reload journey pass.

@@ -16,6 +16,9 @@ function nodes(value: unknown): value is ContentNode[] {
 }
 function task(value: unknown): value is Task {
   if (!record(value) || !record(value.options) || !record(value.source)) return false;
+  if (value.explanation !== undefined && (!record(value.explanation)
+    || typeof value.explanation.text !== 'string' || !value.explanation.text.trim()
+    || typeof value.explanation.author !== 'string' || typeof value.explanation.version !== 'string')) return false;
   if (value.awardAll !== undefined && typeof value.awardAll !== 'boolean') return false;
   if (value.awardAll === true && (value.answer !== null || value.acceptedAnswers !== undefined)) return false;
   if (value.acceptedAnswers !== undefined && (!Array.isArray(value.acceptedAnswers)

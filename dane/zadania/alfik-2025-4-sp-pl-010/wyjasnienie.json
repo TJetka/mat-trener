@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "18140329070ae06f5344dee1c7b1a1b3a73b56a1695ba895ccf89c420b1c60ac",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na metr przypada 12 : 6 = 2 kroki. Długość sali ma 9 · 2 = 18 takich kroków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.134622+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4a0a55cc28147d8d99e8a60df0ef06a2c9604487427aa3ca378f1bec7dd1a382"
+  }
+}

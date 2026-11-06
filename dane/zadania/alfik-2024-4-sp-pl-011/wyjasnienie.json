@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1601995d0894efdd59c71d3d77d36bcdf3da1f9f3873f8cf667839ac3ef32fca",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Boki z kolejnych liczb zapałek, np. 3 i 4, dają obwód 2 · (3 + 4) = 14. Ogólnie obwód to 4 razy krótszy bok plus 2; tylko 14 z listy pasuje.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.128360+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a8caa8bed37fbb4de70889afdaf28d1c9362984bfa24ebdb5d48243762f43cdc"
+  }
+}

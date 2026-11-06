@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "24133a9a79fb1bc28c5fb888ca02296ef5e7f120c37f195d366b64a6a486b392",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwa razy po 4 i trzy razy po 3 dają 8 + 9 = 17 cukierków. Pani Marta ma 2 synów i 3 córki, czyli 5 dzieci.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.122996+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f96d3fc8c0c50b6448bfa1a20d2891b4e84595d7a66c6b60da428c7d527ae6c6"
+  }
+}

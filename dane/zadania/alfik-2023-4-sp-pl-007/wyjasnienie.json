@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "a5224d62bf2248771b6d2b519c0be3463adaeeef396c46a0a72307f4aa068b51",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zmień cyfrę 1 na 9. Wtedy 29 + 38 = 67. Zmienia się tylko jedna cyfra, a cała równość staje się prawdziwa.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.121712+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "86f1f92cec39af3dc269af1a3b4b3dee1edc36c734b1b2e79c11e6124611f131"
+  }
+}

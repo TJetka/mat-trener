@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "83e0255458e2db061213ee3bc6ef03239c255ba81ced10aab3a8fc1281113099",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Prosta może przekroczyć 3 wewnętrzne linie pionowe i 3 poziome. Zaczyna w jednym polu, więc przetnie najwyżej 1 + 3 + 3 = 7 pól. Poprowadź ją ukośnie, omijając skrzyżowania linii.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.137082+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "968fc6879765cf8e1f0fa7a045032efc53c5382025c7089f4f6779fb0711f2be"
+  }
+}

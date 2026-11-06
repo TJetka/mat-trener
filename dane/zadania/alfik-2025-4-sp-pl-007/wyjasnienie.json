@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "69a59f2e985ab7cd264dc4abe1b4f77cdc83a6ce93d8f553eae4c110ddade106",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przemalowanie jednej kulki zmniejsza liczbę czerwonych o 1 i zwiększa liczbę zielonych o 1. Po dwóch takich zmianach jest 6 czerwonych i 8 zielonych — różnica wynosi 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.133998+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "993223ac7d0e249b9f7bf271f97626e98140926ded32fdd89f347ebd6518242f"
+  }
+}

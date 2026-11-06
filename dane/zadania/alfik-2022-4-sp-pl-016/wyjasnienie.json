@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d0001597d759f1590efab8820b4b60b53e9cad65288971418bd4c28347d73946",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "W roku arkusza, 2022, pasują lata urodzenia 2012 i 2021: mają te same cyfry. Starsza Ania ma wtedy mniej niż 18 lat, a różnica wynosi 2021 − 2012 = 9 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.799580+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "70408f01098ebbf244845cea9f1af2ec4743a8156d4eda02bad960fab4c0118b"
+  }
+}

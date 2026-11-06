@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "908f6dd89324d0a542e965cf9dbe5dceb676600d95b04884727cffd690db2996",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zielonych jest o 1 więcej niż czerwonych. Po zabraniu dwóch czerwonych różnica rośnie do 3, a zielonych jest dwa razy więcej: zostają 3 czerwone i 6 zielonych. Początkowo było 5 + 6 = 11 kulek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.130252+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9aba18e696014092a1cffa4c2ef9fbfc782f013d7643886235c296add8348a30"
+  }
+}

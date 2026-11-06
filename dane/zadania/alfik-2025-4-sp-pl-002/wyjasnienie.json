@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c1e31855905b506238eab08bb3a1507d04afb4fcbadd301bbec2764e0f223d3a",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najpierw zajmij największe pokoje: 6 · 3 = 18 miejsc. Pozostałe 2 osoby zajmą jeden pokój dwuosobowy, więc potrzeba 7 pokoi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.133113+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ee0c878c496c81a217f55598f2d17797e6628e7d590ff6466095d4f066091b54"
+  }
+}

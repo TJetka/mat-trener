@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "02c742fbb5e16b796c2278c16e74b0277600238a566c1f21439051e7db68c40d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szukamy sumy wielokrotności 7 i 11: 8 · 7 + 4 · 11 = 56 + 44 = 100. To 8 małych i 4 duże skrzynki, razem 12.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.123211+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9f1b54909f994af90d277227be13a99cdee21ed55b4ceea1330799b61cc81b77"
+  }
+}

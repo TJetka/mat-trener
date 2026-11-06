@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "23fd9d5bcf5379232bfc4f3532ed5fde7006e6c29ee564e97f413a1647dfee9c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dodatkowa połowa liczby chłopców to 3 dziewczynki. Chłopców jest więc 6, dziewcząt 9, a uczniów łącznie 15.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.124540+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a4c55586dcf0f18c58029a274956aa59c7c8ec435ef1706697d78858cc06cde2"
+  }
+}

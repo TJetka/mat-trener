@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "36f4ee2c63286899c9ae4f4a0e5c3d1607eb3331c7f31cf1cee3e4f702497bd1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Oblicz wyniki: 32, 33, 34, 35 i 31. Największy jest 35, czyli wynik 70 : 2.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.797259+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0ff6892eb97c82a1ef686a7e70136be30ce3be8af63d7af25504af848a1ea53a"
+  }
+}

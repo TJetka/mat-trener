@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6b9730ca0b1f254d565db1096a431d10b3cf7759cf83ea7b19e87d83c2d9f865",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pierwszy i ostatni dzień dzieli liczba dni miesiąca pomniejszona o 1. Tylko 29 − 1 = 28 jest wielokrotnością 7. Chodzi o luty w roku przestępnym, zwykle raz na cztery lata.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.129621+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4bf038f6ad0f354fcb29d9066e3463b082fdee25e534db84882672fe9b0c1ba6"
+  }
+}

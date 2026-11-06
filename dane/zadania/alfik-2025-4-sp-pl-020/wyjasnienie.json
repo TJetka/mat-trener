@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2c585d5c2059af8b9a232dc9072d11328d5f6cf14e1daf49d5b58fd2f7a4d964",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od roku temu do za dwa lata mijają 3 lata. Łączny wiek wzrasta o 18, więc osób jest 18 : 3 = 6. Jedną jest pan Jan, zatem ma 5 dzieci.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.136639+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ed36a6a6dbccf346a9433e9c9358ba3de4470e5c0baa047d1c3abbcad6618463"
+  }
+}

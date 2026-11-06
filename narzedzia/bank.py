@@ -40,6 +40,40 @@ def file_hash(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def explanation_hash(record: dict) -> str:
+    """Bind an authored explanation to its text, author and approved source version."""
+    return digest({key: value for key, value in record.items() if key != "weryfikacja"})
+
+
+def compile_explanation(directory: Path, task_version: str) -> dict:
+    """Load a reviewed Polish explanation; reject stale content or source bindings."""
+    path = directory / "wyjasnienie.json"
+    if not path.exists():
+        return {}
+    record = read_json(path)
+    require(record.get("schema") == 1, "invalid explanation schema")
+    text = record.get("tekst")
+    require(isinstance(text, str) and 20 <= len(text.strip()) <= 1600, "invalid explanation text")
+    require(record.get("wersja_zadania") == task_version, "explanation source is stale")
+    require(
+        isinstance(record.get("autor"), str) and record["autor"].strip(),
+        "missing explanation author",
+    )
+    review = record.get("weryfikacja", {})
+    require(
+        review.get("osoba") and review.get("data") and review.get("uwagi"),
+        "missing explanation review",
+    )
+    require(review.get("sha256") == explanation_hash(record), "explanation approval is stale")
+    return {
+        "explanation": {
+            "text": text.strip(),
+            "author": record["autor"],
+            "version": review["sha256"],
+        }
+    }
+
+
 def require(condition: object, message: str) -> None:
     if not condition:
         raise ValueError(message)
@@ -321,6 +355,7 @@ def compile_bank(root: Path) -> tuple[dict, dict, dict[str, Path]]:
                     "answer": key["litera"],
                     **({"awardAll": True} if award_all else {"acceptedAnswers": accepted}),
                     "version": review["sha256"],
+                    **compile_explanation(metadata_path.parent, review["sha256"]),
                     "source": {"paper": paper, "key": key},
                 }
             )

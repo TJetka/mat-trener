@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d25b27f340060946bffdb8f0700eac10d0348fae104eff965521ea0877357dd3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Decymetr to 10 centymetrów. Tak samo decylitr to 10 centylitrów: przedrostki oznaczają ten sam stosunek jednostek.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.135131+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "776c68acc1c18b58fa5a225aa6ec3b97b07677924f3246c9718c473112512821"
+  }
+}

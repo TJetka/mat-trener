@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "694121501cd0df6a91cdca6bfdafec3e29fd5360fc31ec8560825c27ff1fea2e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Licząc po liniach, otrzymamy 3 · 6 = 18 wystąpień stacji. Każdą stację policzyliśmy dwa razy, dlatego stacji jest 18 : 2 = 9.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.132261+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "3f689e3d8ef82db26bd590e1cb373f6dffb258052ff543ed36eacdb355c53a7b"
+  }
+}

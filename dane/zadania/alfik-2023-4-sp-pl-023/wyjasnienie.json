@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "21a2b95dbf351464d6d0337a07e81a3ff39cc5e312198e8da9b8aad75c01e078",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Niebieskich jest o 1 więcej niż czerwonych. Po dołożeniu niebieskiej różnica wynosi 2, a niebieskich jest dwa razy więcej. Początkowo są 2 czerwone i 3 niebieskie, razem 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.124367+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d27a6dc5cea9a431c6c79f1182ae05b304740cb148601dd667a49fbedbc0e426"
+  }
+}

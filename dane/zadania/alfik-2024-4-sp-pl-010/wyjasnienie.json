@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "1cc0e18a2e53c9979abd3bfb5f4ed2e099e97a07d4c4029ea4f9eb0fe0b17840",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Piątki powtarzają się co 7 dni. Mogą wypaść 1., 8., 15., 22. i 29. dnia miesiąca. Szósty wypadłby dopiero 36. dnia, więc maksimum to 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.128205+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0c9a8653a7fe81777e41dab415e53d7eff28b1efd4290397c90356e20a962a4b"
+  }
+}

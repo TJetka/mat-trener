@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c2e28efc9ef12920020fa0e1fb5f6e374c4d5a34a5a7c8ac1c19c9487c934543",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wskazówki godzinowe poruszają się w przeciwnych kierunkach, więc zbliżają się dwukrotnie szybciej. Spotkają się po połowie 12 godzin, czyli po 6 godzinach; minutowe też będą wtedy zgodne.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.138298+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f3e419b6c9fd1338941220621dc6b3da21fef4eaa5125e4ce75f8dbcb63537ca"
+  }
+}

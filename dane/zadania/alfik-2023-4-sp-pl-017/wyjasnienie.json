@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d3ed49a39bb3a61068e4768da7b71189b367d0522480f089754ca8183b089601",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Palindrom ma postać ABA, więc 2 · A + B = 10. Dostajemy 181, 262, 343, 424 i 505. Jest pięć takich liczb; zero może być cyfrą środkową.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.123368+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b00597ff704b444402305415b75abeff54e252ef5c439a0e75df506a56e0aafa"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7147edcca258bb2fc45d1af10d0a30165a8223d71ce3944561d03a34755d850f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od tamtego momentu do chwili za trzy lata minie 2 + 3 = 5 lat. Piotrek będzie miał 9 + 5 = 14 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.132962+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e202bd127840c252b65317116cf935cb0d264fd7e25f4a0c40eddc656c8145a9"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "79c2daa8292d4fdf5ce76445b0e72a52e0359a5b751e1e52be900e6d23d0ff0e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wskazówka sekundowa robi jeden pełny obrót w minutę. Kwadrans ma 15 minut, więc wykona 15 obrotów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.125945+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "228067bc45406ca63380cc49cfbb531035229ae6fffd492a18eb78283215e442"
+  }
+}

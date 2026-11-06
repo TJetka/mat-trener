@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3d38ce3cf53baf0ac8c0b80d560283841089f2fa6bc26ebe3f29380eac9bfd90",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Po przemalowaniu zostaje 7 − 2 = 5 niebieskich i jest 4 + 2 = 6 żółtych. Żółtych jest więcej niż niebieskich.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.798408+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1bd58d803f453f995053d7435f5ac82410b75703a6a3b58248d582063c5d7724"
+  }
+}

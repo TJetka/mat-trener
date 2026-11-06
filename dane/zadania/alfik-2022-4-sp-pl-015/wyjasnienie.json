@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3b4e488fcddca3b0eeedf66c948c8bb1c3bd772d0d3f413f68d5df76ffe6be31",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wypisz liczby: 18, 29, 70, 81, 92. Zapis 07 nie jest liczbą dwucyfrową. Razem jest 5 możliwości.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.799428+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "04a0bb769528051f0c8e6fcbb75b7564ebbe35d358d1afed2541fb7c97a1e613"
+  }
+}

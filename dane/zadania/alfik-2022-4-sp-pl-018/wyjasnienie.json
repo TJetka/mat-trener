@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "34846d91e65844d096171be2c5d45165b3a0cd837283f7d2122d900ff736d38c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczba uczniów musi być wielokrotnością 7 i dawać resztę 1 przy dzieleniu przez 5. Pasuje 21 = 3 · 7 = 4 · 5 + 1.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.799868+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9633044866d414cf37d0286d28c4534d55ef9fc56b259a5e351a42e1eea7aaf7"
+  }
+}

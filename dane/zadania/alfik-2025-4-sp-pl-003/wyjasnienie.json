@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "83989111ba3a3456693166d0aefc15304ac2b845af632f50552c6bf371aec0b3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wskazówka godzinowa robi pełny obrót w 12 godzin, czyli 2 obroty na dobę. Przez 7 dni wykona 7 · 2 = 14 obrotów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.133256+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "aed25bfc42e3e98c96691769ba74788dc4605ec290bfdac94f61bbab75136224"
+  }
+}

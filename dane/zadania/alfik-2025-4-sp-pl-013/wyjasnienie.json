@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "ba49db2c8a449b8116fc1d4a5b5d0197866e7fce94b2db4aafdfba12cc31e249",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wytnij w rogu kwadrat 4×4. Pozostałą część szachownicy można podzielić na pięć kwadratów 2×2. Otrzymujesz 6 kwadratów, a największy ma 16 pól.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.135308+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "4d508401067dbe7b86e735af362ba1742e88e720079510484f2bc4d063b550a8"
+  }
+}

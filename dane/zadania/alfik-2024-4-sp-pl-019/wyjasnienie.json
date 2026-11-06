@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "e52a0086133d1d58a5104b14decdb83960bf6e20d40d48d16d3ccd7d498506db",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Liczba uczniów musi dzielić się przez 7, a po odjęciu 1 — przez 3. Z odpowiedzi pasuje 28: dzisiaj 4 grupy po 7, wczoraj 9 grup po 3.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.129860+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1fae0c66e8d7a3baba3c6025ed61031497a0d33db1c830ad26af33deddc5001a"
+  }
+}

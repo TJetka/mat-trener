@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "dcbfb4be69c65e099fee1bf82c2d062892bb6a6c3b5708f66f18ebe0dfa96300",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przy rosnących, różnych cyfrach kończących się na 4 możliwe są PIN-y: 0124, 0134, 0234, 1234. Trzeba sprawdzić najwyżej 4. PIN może zaczynać się zerem.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.129142+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9ddb250a3642e2d0654e242bbe375b80577f84e98456c8db0b785a63479aa870"
+  }
+}

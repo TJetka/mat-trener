@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6f9daaf0662d7b1d273f45f10592ec0fe4de475f7b23f86f957581177dfb76b7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pięć osób tworzy 5 · 4 : 2 = 10 różnych par. Każda para gra dwa razy, więc cały turniej to 20 partii. Drugiego dnia rozegrano 20 − 15 = 5 partii.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.137395+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2d2f9accca89732127a0ad1f9c057f49fc6ca46c0b76edfb1198b6ed19dbbbe7"
+  }
+}

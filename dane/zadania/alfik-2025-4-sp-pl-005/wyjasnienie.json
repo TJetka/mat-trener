@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "c9d045027dfef194db0d7f17e075fdebf1af1af81ce0bc26f32289b48c7f9c7b",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Piątki wypadają 2., 9., 16., 23. i 30. dnia miesiąca. Miesiąc mający co najmniej 30 dni zawiera więc 5 piątków.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.133672+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5b6dff3ea57d5fd17c64159649b8e42e3f9bc60103531cf00a07c41bb1aeec5b"
+  }
+}

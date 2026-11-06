@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b1add2c61d8a6a643af438c5a590f355c7c4fd6d2e1af7b11efe4af58bee3dde",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Szukamy kwadratu liczby, który jest sumą dwóch innych kwadratów. Najmniejszy przykład to 25 = 9 + 16: z układu 5×5 powstają układy 3×3 i 4×4. To przedział między 20 a 30.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.125384+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c6630a88f53e21749eacc4e26bb3fb178bd999b0963aa641c660c7ee3a90417d"
+  }
+}

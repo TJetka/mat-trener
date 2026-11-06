@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2b9be8c06618e8d38432e2230a12c8d0193e050b88eb11f36194504934afb7e6",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Wytnij w rogu kwadrat o boku 4 cm. Pozostałą część kwadratu 6×6 podziel na pięć kwadratów o boku 2 cm. Masz 6 kwadratów; największy ma bok 4 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.124699+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c9010d5c19f08d75e09e2972663a2fb38f9cea2183fc8640a4cd99fcdaf8fe20"
+  }
+}

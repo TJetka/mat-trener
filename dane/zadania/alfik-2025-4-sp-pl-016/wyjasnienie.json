@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "33fee3b46b77213f091116acf98597b2725ac5e3ceea7ef9b19fe450655099ee",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Zmień 2 na 5: otrzymasz 15 · 3 = 45. Sprawdź całą równość po zmianie jednej cyfry, zamiast poprawiać jednocześnie oba jej człony.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.135877+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "8fa3ca1998fa9f3d08747b254e8876e9ba94b9b7d6246b0405b9075f642ca311"
+  }
+}

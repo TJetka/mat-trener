@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8d84158934659f5db16169f4056fc94f81bc6a2b42ba2eaf4007b35cb83b1deb",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rok 2023 ma 365 dni, ale od pierwszego do ostatniego dnia upływają 364 dni, czyli 52 tygodnie. Ostatni dzień także wypadnie w niedzielę.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.801346+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "24f94c1548fecfa605171a43e4e261d85d15995fbcb9bc198b6557372dc5b6d3"
+  }
+}

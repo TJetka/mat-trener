@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2697b07320f5b469067a4306b0e511896e32d07bdefb05185d4c64dd1d46c04d",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Osiem półtoralitrowych butelek zawiera 8 · 1,5 = 12 litrów. Napełnimy 12 butelek litrowych.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.799262+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "b450bbc6fb22a0ad1308b8d18d3f369934ec7fb58671b1a6a191f94c556da743"
+  }
+}

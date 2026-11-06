@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "99ba3f3d365af7da2bc4cf3184789bbe75e3cea80f8b2215c3aa2f93f062cfea",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Różnica wieku jest równa wiekowi młodszej dziewczynki. Beata ma 6 lat, Ania 12 lat, więc razem 18 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.132082+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "f1d31a46655a3e4528896129297dc2210191c6b48084688e637cc325ea4576b4"
+  }
+}

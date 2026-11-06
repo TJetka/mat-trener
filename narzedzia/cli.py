@@ -13,6 +13,7 @@ from pathlib import Path
 from narzedzia.bank import (
     compile_bank,
     digest,
+    explanation_hash,
     file_hash,
     read_json,
     require,
@@ -201,6 +202,33 @@ def inventory(directory: Path) -> dict:
     return {"files": items, "count": len(items), "inputHash": digest(items)}
 
 
+def approve_explanation(root: Path, identity: str, reviewer: str, note: str) -> None:
+    """Attest a reviewed explanation against the currently approved task and key."""
+    require(
+        identity and all(c in "abcdefghijklmnopqrstuvwxyz0123456789-" for c in identity),
+        "invalid task ID",
+    )
+    directory = root / "zadania" / identity
+    metadata = read_json(directory / "meta.json")
+    edition = read_json(root / "edycje" / f"{metadata['id_edycji']}.json")
+    version = review_hash(metadata, edition, directory)
+    require(
+        metadata.get("stan") == "zatwierdzone"
+        and metadata.get("weryfikacja", {}).get("sha256") == version,
+        "approve the current task first",
+    )
+    path = directory / "wyjasnienie.json"
+    record = read_json(path)
+    record["wersja_zadania"] = version
+    record["weryfikacja"] = {
+        "osoba": reviewer,
+        "data": datetime.now(UTC).isoformat(),
+        "uwagi": note,
+        "sha256": explanation_hash(record),
+    }
+    write_json(path, record)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -224,10 +252,19 @@ def main() -> int:
     reviewer.add_argument("--id", required=True)
     reviewer.add_argument("--reviewer", required=True)
     reviewer.add_argument("--note", required=True)
+    guide_reviewer = subparsers.add_parser("zatwierdz-wyjasnienie")
+    guide_reviewer.add_argument("--id", required=True)
+    guide_reviewer.add_argument("--reviewer", required=True)
+    guide_reviewer.add_argument("--note", required=True)
     scanner = subparsers.add_parser("inwentaryzuj")
     scanner.add_argument("--directory", type=Path, required=True)
     scanner.add_argument("--output", type=Path, required=True)
-    for command in (importer, reviewer, *[subparsers.choices[n] for n in ("sprawdz", "buduj")]):
+    for command in (
+        importer,
+        reviewer,
+        guide_reviewer,
+        *[subparsers.choices[n] for n in ("sprawdz", "buduj")],
+    ):
         command.add_argument("--bank", type=Path, default=Path("dane"))
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -248,6 +285,8 @@ def main() -> int:
             print(json.dumps(import_manifest(args.manifest, args.bank), ensure_ascii=False))
         elif args.command == "zatwierdz":
             approve(args.bank, args.id, args.reviewer, args.note)
+        elif args.command == "zatwierdz-wyjasnienie":
+            approve_explanation(args.bank, args.id, args.reviewer, args.note)
         elif args.command == "inwentaryzuj":
             result = inventory(args.directory)
             require(not args.output.exists(), "inventory output exists; choose a new filename")

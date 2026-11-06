@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "66a749efe4e8b08edf94334bf70d1d3ad1c390c1aa2cd5da9a1f2c36c4c8484c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Środki małych szachownic leżą w wierszach i kolumnach 2, 5 i 8. Ich kolory tworzą układ 3×3 z czarnymi rogami i środkiem: 5 czarnych pól.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.129004+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "324a981c2272ed7f4279cd89bcace80d8592503972c0c722fdd7f62f9cf54116"
+  }
+}

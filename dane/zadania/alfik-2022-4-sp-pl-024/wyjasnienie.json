@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "74425d7da6d400c62a86429c5dd39533c356ffb70676ae2142ca02048904510e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Odejmij metr różnicy od 1,5 m: zostaje 0,5 m na dwa równe krótkie kawałki. Krótki ma 0,25 m, długi 1,25 m. Stosunek wynosi 1,25 : 0,25 = 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.801093+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0ba241893d4547f96328c095801b013f0783bdab42d8ea48bae87f400609c6e2"
+  }
+}

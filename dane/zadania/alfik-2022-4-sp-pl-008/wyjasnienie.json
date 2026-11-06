@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "cbb9c0e814ae9a74d23bcc35dc20159e08bad9fceeed63dbc6b85029fc51d6cf",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cyfra 3 występuje w numerach 3, 13, 23 oraz we wszystkich numerach 30–39. To 3 + 10 = 13 stron. Numer 33 liczymy tylko raz.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.798117+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "eb3c79bf690b59fcdccbfb98546bc3f99d60cf14c89c08a2ce021bafdcd11266"
+  }
+}

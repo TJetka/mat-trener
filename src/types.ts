@@ -9,6 +9,7 @@ export interface Task {
   group: string; tag: string; stem: ContentNode[];
   options: Record<Letter, ContentNode[]>; answer: Letter | null; acceptedAnswers?: Letter[];
   awardAll?: boolean; version: string;
+  explanation?: { text: string; author: string; version: string };
   source: {
     paper: { dokument: string; strony: number[] };
     key: { dokument: string; strona: number; pozycja: string; litera: Letter | null };

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4567917f7d56c2e6a8575d2b5fbf389910eea66b8787b0d1da5a04e6c7a265c0",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Pole kartonu to 12 · 7 = 84 cm², a kartonika 6 cm², więc najwyżej 14. Tyle się mieści: pas wysokości 3 cm daje 6 obróconych kartoników, a dwa pasy wysokości 2 cm po 4.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.130425+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "56f011d399f557fa74a2bf3fa7d4217db3225abe04a9b6b75f5d3a0e5787572a"
+  }
+}

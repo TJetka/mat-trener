@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "4a5ba5387996d9ec18284b9180f3f0e3c73aada1009c166cdb45f364d15ea12c",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Marta osiągnęła ten sam wiek dwa lata wcześniej niż Bartek: trzy lata temu zamiast rok temu. Jest więc od niego starsza o 2 lata.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.120359+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6cac9cf270e4de3ee065e4bed636aaf975063fa8f6186b158baa6546002fad38"
+  }
+}

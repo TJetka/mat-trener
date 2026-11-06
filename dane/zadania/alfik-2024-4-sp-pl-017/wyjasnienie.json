@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d524cf354f3b7e4f1acacd25ac945cf5442af853c685ee6d41cb7ecc2af8f7fb",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "3² = 9 jest jeszcze jednocyfrowe, a 4² = 16 już dwucyfrowe. Pasują liczby 4, 5, 6, 7, 8, 9 — razem 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.129460+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c30e7f2ffe887f56ecef12577783749e531917bb3e5ead769329ba452dabd3c9"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7bd4c57a6579f44bd65e358d2be15da1b5695718e47b25e6256787d236512fe3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każdy parzysty czynnik zawiera czynnik 2. W 120 = 2 · 2 · 2 · 15 są tylko trzy dwójki. Można uzyskać trzy parzyste czynniki: 2 · 2 · 30.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.125047+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "e5d2be9e10815470a19e08a8b86e1cc998e30c39a8541e9fccdf076f4f8bb28b"
+  }
+}

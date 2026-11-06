@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6a4a6dff5c2d16a18926315cfb8dde5254e96e08dfaca0477f4bafacbfdcdc37",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dwie kolejne liczby to zawsze jedna parzysta i jedna nieparzysta. Ich suma jest nieparzysta, więc nie może wynosić 16.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.133846+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ae0a148980e61413a8bf932c8a67aed9424acf5d9e52abc9736459ed57bb3eec"
+  }
+}

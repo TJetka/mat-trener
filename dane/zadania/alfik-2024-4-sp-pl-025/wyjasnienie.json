@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d283ebd15be4a30b5809ee7b85986ceecb22925b18a21c46cbcc63719623f413",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Czerwone kulki Basi można zastąpić w rachunku niebieskimi Jacka, bo jest ich tyle samo. Suma kulek Basi jest więc równa sumie wszystkich niebieskich kulek: 6.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.131114+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "c46881ab1bc16f49155c0fe8a4e6038c1ff9b6c9cf60b49708f36a287ab243b8"
+  }
+}

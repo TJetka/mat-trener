@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "41447580125a841160adfedcf49aac235fd0f1004a10b9adf5f5b4b1ad0a2bab",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Minutowa wykonuje 24 obroty na dobę, a godzinowa 2. Pytanie dotyczy różnicy: 24 − 2 = 22 obroty.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.797573+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "bb21566cab7dbc2779f62e1731e4b3e73c25860abc099bbd53cf278c54dd2ce5"
+  }
+}

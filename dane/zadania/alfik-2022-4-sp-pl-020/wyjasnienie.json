@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8ac6f3b0891f46650b852d5a43b816e2b04f51b41da6cae503b306b92768e758",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Iloczyny jednakowych cyfr to kwadraty: 9 = 3², 16 = 4², 25 = 5², 36 = 6². Liczba 12 leży między 3² a 4² i nie jest takim kwadratem.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.800274+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "5fa3f5be4514f205fa739c46b9a96b17fb1f7e21e616a98fec10a62661f37df9"
+  }
+}

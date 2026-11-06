@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "908fb227b5ce501f54aaaf36325ad9654782114c3dbd6d4ae215e74b91916859",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Gdyby wszystkie 12 zwierząt było gęsiami, miałyby 24 nogi. Brakujące 30 − 24 = 6 nóg daje 6 : 2 = 3 owce, bo owca ma o 2 nogi więcej od gęsi.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.138662+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "83e5f20f7aa943e78e27f8a4a6214e594efc77ea3e58e8a59683cce4ab1c927b"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6d9407ef12b4cee180f207f7de97c9b038ea02326a3c2b23573ae771d68b0ad1",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Najmniejsze dwie różne liczby kul to 2 i 3. Zostaje 10 − 2 − 3 = 5 białych. Większe liczby pozostałych kolorów nie zostawiłyby białym największej liczby kul.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.122646+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "13cc8057a884f96d3c201d8004c0af6cc1d3bc12a7fdd6e18065d8d40d3ede25"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2994dbc94dbca748b06c0b0061dbf5e72046aa4531861da7b83672cdd57fa4a9",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Każdy ma 40 : 2 = 20 zł. Jacek ma 20 : 2 = 10 monet, a Staszek 20 : 5 = 4 monety; razem 14.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.133444+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "ca8cb3460d931e8453b5ea4ece212abc1959aaf10193d73d56108d0e62076efa"
+  }
+}

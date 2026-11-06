@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "bac5ba28a6a107c427c077642a4797eee91fc373b8e5a8acb5f9442eb120a1af",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Przyszły rok w tym arkuszu to 2025. Urodzona w 1998 r. Ania kończy 27 lat, a urodzony w 2016 r. Antek 9 lat; sumy cyfr to odpowiednio 27 i 9. Różnica wynosi 18 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.131835+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "0b1783c2077f39a61ae456ce2afd0faa90d71a7547bbaea91d7d90639f10b20f"
+  }
+}

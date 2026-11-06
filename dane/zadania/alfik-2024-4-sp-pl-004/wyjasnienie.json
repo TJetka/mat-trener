@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "fcdd10607c46a34b138ea45068f9ec8d41c960620db656ccd3c6fd9b89a53828",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Punkty odległe o 7 od liczby 12 to 12 − 7 = 5 i 12 + 7 = 19. W odpowiedziach występuje tylko 5.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.127053+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "9cf1bbd200b476cfb38bae34ee3528bb08d56604ef3cc0a8b9416b9d5d577672"
+  }
+}

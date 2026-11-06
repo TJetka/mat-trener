@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "841c5eec45b78b6e501d696c75f6b3e7cc10f51cc6bc0277b3af89b48144ea7f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Mecz daje łącznie 2 punkty przy remisie albo 3 przy zwycięstwie. Cztery drużyny grają 6 meczów, najwyżej za 18 pkt; sześć gra 15 meczów, co najmniej za 30 pkt. Pasuje pięć drużyn: 10 meczów, w tym 3 remisy, daje 27 pkt.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.124871+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "95e7c76b9125307cffe61e25db4281ea33fb558b1cf103a3b9c3b24471a3e999"
+  }
+}

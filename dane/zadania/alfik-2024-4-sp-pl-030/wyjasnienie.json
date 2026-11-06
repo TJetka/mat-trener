@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8fb1102845a51dc71b8b6279a3218fde2aa7b862e2085a526360d37aa3443ef7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Początkowa suma to 28. Zamiana +a na −a zmniejsza ją o 2 · a. Potrzebujemy zmniejszenia o 20, więc zamieniamy znaki przy 6 i 4: 7 − 6 + 5 − 4 + 3 + 2 + 1 = 8.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.132641+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "d0c8d1d91cc8bd7c601a8e92307fa039323432a3d60769a96a1452fa1d1e03b8"
+  }
+}

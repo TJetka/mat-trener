@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "b2dd34377cf76a6cb06cd88d8ab294102e55ed9587b9b098b1deef0552aa0a38",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Od południa do północy jest 12 godzin. Na początku dzielimy je w stosunku 1:2, więc nauka zaczyna się o 16:00. Na końcu stosunek wynosi 2:1, czyli jest 20:00. Nauka trwała 4 godziny.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.802489+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "44d441c3b65df8e36c5143165806e1790db4146b7e727964689106f3e0ec5436"
+  }
+}

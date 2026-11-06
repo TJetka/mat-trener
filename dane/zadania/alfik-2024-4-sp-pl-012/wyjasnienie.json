@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "8f499e6f811156b03bd3d5081872e2bf77bcfbc508ff3f8503c6ffa4aedec51e",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Litr ma 100 centylitrów, tak jak metr ma 100 centymetrów. Połowa litra to połowa ze 100 cl, czyli 50 cl.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.128504+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "95b7c70b248eba70d73cb6b70c3a2015015c9b8c115092e39695ff2390eb94d1"
+  }
+}

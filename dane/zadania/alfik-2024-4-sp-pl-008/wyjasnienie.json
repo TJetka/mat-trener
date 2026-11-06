@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "f88e91ca2324bc3d2800e23672bd04e83352392259423433a01c75a4a08fce28",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Łączna zmiana ceny to +12 − 8 = +4 zł. Przed podwyżką książka kosztowała 24 − 4 = 20 zł.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.127807+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1cc4ae4203dd58253018cdd46280545e30b7a0e9008c3550958d96eeef370862"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "824de069b5bb61c21d3fd301907776a046e6ec0d3eb463d7d10b490bf42c7e96",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Taki miesiąc musi mieć 29 dni, bo między pierwszym a ostatnim dniem powinno minąć pełne 4 tygodnie. Rok 2023 nie był przestępny, więc nie miał takiego miesiąca.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.124189+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "599eeda9a061509941a26cb2a521d725285fa493d9d375235140f88da627322f"
+  }
+}

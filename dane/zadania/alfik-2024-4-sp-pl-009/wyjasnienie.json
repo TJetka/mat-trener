@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "3ffa2cca70522878c79c4fffa736abd92fbdf532f611920b46e67a0363a83868",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Cofnij działania w odwrotnej kolejności: 16 : 2 = 8, następnie 8 − 5 = 3. Sprawdzenie: (3 + 5) · 2 = 16.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.127998+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "1a2b4bfd5d5d5ad128c6b48c5b8edb42cd47bc290b4b224cec3f7c91ecd47a39"
+  }
+}

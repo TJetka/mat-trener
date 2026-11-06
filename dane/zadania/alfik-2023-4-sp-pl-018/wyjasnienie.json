@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "414cae25a15e23fe0b9bedd479fe55916d0f463d2e2db7ca6cea184d5ebef5a2",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Strony 1–9 zużywają 9 cyfr, a 10–99 kolejne 180. Zostaje 204 − 189 = 15 cyfr na 5 numerów trzycyfrowych: 100–104. Książka ma 104 strony.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.123519+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "cb367b1bb7fc8b242d8a717570a2141ac5056c769de4a3ad708a89ecb8921628"
+  }
+}

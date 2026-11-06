@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "7be803b0bba41d8b7f1e60448e0f319194c2dc69f66888d6f0fbb1d298a62bc5",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Jeśli cyfra jedności to 1, kolejne cyfry to 2, 4 i 1 + 2 + 4 = 7: liczba 7421. Dla jedności co najmniej 2 suma byłaby co najmniej 14, a dla 0 liczba nie byłaby czterocyfrowa. Jest jedna.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.130100+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2c48149b8811f8e9d92b62ff12882beaaa4a55b96484274fa5dcf7460d43c858"
+  }
+}

@@ -192,3 +192,14 @@ test('annulled tasks receive full official credit including blanks, and never en
   Object.assign(a.tasks[0], { answer: 'A' });
   assert.equal(restore(JSON.stringify(a), 2), null);
 });
+
+test('explanations survive recovery, legacy snapshots work and malformed guides fail', () => {
+  const bank = fixtureBank();
+  for (const task of bank.tasks) task.explanation = { text: 'Dwie pary to cztery.', author: 'Fixture', version: 'guide-v1' };
+  const a = startAttempt(bank, bank.profiles[0].id, { kind: 'year', editionId: bank.editions[0].id }, 0);
+  assert.deepEqual(restore(JSON.stringify(a), 1)!.tasks[0].explanation, a.tasks[0].explanation);
+  const legacy = structuredClone(a); delete legacy.tasks[0].explanation;
+  assert.ok(restore(JSON.stringify(legacy), 1));
+  const broken = JSON.parse(JSON.stringify(a)); broken.tasks[0].explanation.text = { html: '<script>' };
+  assert.equal(restore(JSON.stringify(broken), 1), null);
+});

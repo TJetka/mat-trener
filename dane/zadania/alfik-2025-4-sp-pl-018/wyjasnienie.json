@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "45d5b57f1d3756b87aadb4a222c81c800c389deaa958d9d1a81f7248dbfecbaf",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Powstały kwadrat ma bok 12 : 4 = 3 cm. Początkowy prostokąt miał boki 3 cm i 3 − 2 = 1 cm, więc obwód 2 · (3 + 1) = 8 cm.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.136289+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6b6a5420ef60b3d0007c8871f8c1d80624199a4bd7326a056d5f3803c2cbda0e"
+  }
+}

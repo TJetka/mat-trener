@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "2b193b3991e210e9432136d113bae6bff42e29efa3620ddb02625f3ea65e3ac3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Małe kwadraty to 1, 4, 9, 16. Z liczb podanych w odpowiedziach pasuje 13 = 4 + 9 = 2² + 3².",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.121531+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "75313ef57285411dde90ea66c0a4078ac606397f4edf5a8c3ac05c7371835f20"
+  }
+}

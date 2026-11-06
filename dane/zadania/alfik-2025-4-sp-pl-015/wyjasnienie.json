@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "41da5a9162fdf0952868ab6d21b73f1cbf875ee937e1a9ad868cef09998ae5c3",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Rozważ najgorszy przypadek: pierwsze 7 kulek może być czerwonych. Ósma musi być zielona, więc dopiero 8 losowań daje pewność obu kolorów.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.135632+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "2874862393c0d2d9334e0534a9041cee0719fae48615891ec597577ae6aa4193"
+  }
+}

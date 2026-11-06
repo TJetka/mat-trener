@@ -31,3 +31,7 @@ Repeated identical imports preserve edits. Changed sources create immutable prop
 Report: `raporty/bank.json`. Incomplete years still supply approved training tasks; they are excluded from full-year selection. Drafts remain explicitly excluded. Editing approved content, sources, images or rules invalidates its approval hash.
 
 For an official alternative-answer ruling, retain the primary `klucz.litera` and list all accepted letters in `klucz.litery`. For an annulled question with explicitly awarded full credit, add its number to edition `anulowane`, set `klucz.litera: null`, `klucz.pelny_kredyt: true` and record the ruling in `klucz.uwagi`. Such questions remain in complete years but never enter training/mix. Unresolved cancellations cannot be published as answered questions.
+
+## Explanations
+
+Add `wyjasnienie.json` beside an approved task, with `schema: 1`, `tekst` (20–1600 characters) and `autor`. After checking the reasoning against the question and official key, run `uv run python -m narzedzia.cli zatwierdz-wyjasnienie --id TASK_ID --reviewer NAME --note NOTE`. Approval binds both the guide text and the current source-task hash. A changed question, key or guide fails the build until reviewed again. Explanations are authored plain text; math symbols and line breaks are supported without executing HTML or TeX.

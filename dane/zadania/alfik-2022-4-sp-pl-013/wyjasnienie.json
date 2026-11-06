@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "20e984b89b062178ddcd1bc00db2848a340a23d75bf9a2b5d6eb9b3b795a26e7",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na pierwszą cyfrę są 3 możliwości, na następną 2, a ostatnia jest już ustalona. To 3 · 2 · 1 = 6 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:32:07.799054+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "6d165925a1ffc0f54d3708d119ce041578a1b981c16b368855141057758c02f2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "6d24aab5bf1a72d4da0474415c52d083c3245f6ace20402ce82b25232bcb23a6",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Na pierwszą cyfrę są 3 możliwości, na drugą 2, a na trzecią 1. Łącznie 3 · 2 · 1 = 6 liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.122186+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "416912a89aa42166bed5fbee9222409320eb95e626068c35ac1c071b5aa6e343"
+  }
+}

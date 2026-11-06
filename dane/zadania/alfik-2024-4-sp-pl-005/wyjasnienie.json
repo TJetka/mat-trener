@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "d1dd19b4642f71dee831125a855df7850125ed4e1823c7acc6d8b3c41e14a69f",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "Dopisz kolejny czynnik: 5! = 1 · 2 · 3 · 4 · 5 = 120. Silnia oznacza mnożenie, a nie dodawanie kolejnych liczb.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.127212+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "500ad3ea8f01d5fa096d60733a54fecd7d4767a839de39d96fdfe16dd752f849"
+  }
+}

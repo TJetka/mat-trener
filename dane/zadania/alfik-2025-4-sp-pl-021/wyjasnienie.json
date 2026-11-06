@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "wersja_zadania": "587f5756aab54b4fd5efaa998e39adba47bdf7835c104a20f95b33144b4b1de4",
+  "autor": "Mat-Trener · opracowanie własne",
+  "tekst": "„Dziś” oznacza rok arkusza: 2025. Dla roku urodzenia 2016 otrzymujemy wiek 2025 − 2016 = 9 oraz sumę cyfr 2 + 0 + 1 + 6 = 9. Jacek ma mniej niż 10 lat.",
+  "weryfikacja": {
+    "osoba": "Codex",
+    "data": "2026-11-06T11:29:56.136840+00:00",
+    "uwagi": "Authored explanation checked against the task, options and unchanged official key; dates use the edition year.",
+    "sha256": "a7f03ed7622440070f9f9899ff45b40e9ae4430a11a7246112b1c797493779ac"
+  }
+}
