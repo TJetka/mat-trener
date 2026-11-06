@@ -10,6 +10,6 @@
 | A2 | Editable answers, deadline, tab recovery, single finalization | Unit-tested |
 | A3 | Scoring, review, image zoom, keyboard/mobile UI | User journeys and 360px browser checks passed |
 | Q1 | PRD acceptance tests, build, browser evaluation | Unit/build/release checks passing; 4/5 browser tests passed, Chrome closed during historical-bank check |
-| R1 | Git commits/push and Pages publication | Git/SSH restored; initial push in progress; Pages unverified |
+| R1 | Git commits/push and Pages publication | Initial implementation committed and pushed to main; Pages unverified |
 
-Next: complete the initial push, clean-install verification, remaining browser/visual acceptance and Pages verification. Kangur remains release two; isolation/scoring are already tested on authored fixtures.
+Next: complete clean-install verification, remaining browser/visual acceptance and Pages verification. Kangur remains release two; isolation/scoring are already tested on authored fixtures.
